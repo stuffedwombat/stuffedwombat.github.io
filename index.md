@@ -10,6 +10,6 @@ game & gifdev, design consultin         g
 
 **writing**
 
-links
+l  inks
 
 links
