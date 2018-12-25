@@ -39,7 +39,7 @@ Contact: <a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> /
 - <a href="https://www.newgrounds.com/portal/view/678184" target="_blank"> Shword</a> (2016) Shoot + Sword. Good.
 - <a href="https://www.newgrounds.com/portal/view/674994" target="_blank">ABC</a> (2016) Puzzle platformer. Ok.
 - <a href="https://www.newgrounds.com/portal/view/670180" target="_blank">And it was so.</a> (2016) Experiment. Nice.
-- <a href="https://www.newgrounds.com/portal/view/668865" target="_blank">Just Jump</a> (2015) do not jump into the fire. Ok.
+- <a href="https://www.newgrounds.com/portal/view/668865" target="_blank">Just Jump</a> (2015) Do not jump into the fire. Ok.
 - <a href="https://www.newgrounds.com/portal/view/664929" target="_blank">Big Eyes are cute</a> (2015) 1 hour game jam. Ok.
 - <a href="https://www.newgrounds.com/portal/view/659994" target="_blank">2 Steps Ahead</a> (2015) Horror game attempt. Meh.
 - <a href="https://www.newgrounds.com/portal/view/656810" target="_blank">Muchroom</a> (2015) My first cool mechanic. Ok.
