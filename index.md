@@ -1,6 +1,5 @@
 # Stuffed Wombat
 *My name is josh.*
-
 *I make games and help others do the same.*
 
 *<a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> / josh [@] plix.at*
