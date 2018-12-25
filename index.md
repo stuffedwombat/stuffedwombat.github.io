@@ -5,10 +5,10 @@ My name is josh. I make games and help others do the same.
 <a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> / josh [@] plix.at
 
 **good games**
-- **<a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.**
-- **<a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement.**
-- **<a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017) Only walljumps.**
-- **<a href="https://www.newgrounds.com/portal/view/678184" target="_blank"> Shword</a> (2016) Shoot + Sword.**
+- <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
+- <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement.
+- <a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017) Only walljumps.
+- <a href="https://www.newgrounds.com/portal/view/678184" target="_blank"> Shword</a> (2016) Shoot + Sword.
 
 
 **all games**
