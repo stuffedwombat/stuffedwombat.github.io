@@ -1,6 +1,6 @@
 # stuffed wombat
 
-My name is josh. I make games and help others to do the same.
+My name is josh. I make games and help others do the same.
 
 <a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> / josh [@] plix.at
 
@@ -11,4 +11,4 @@ My name is josh. I make games and help others to do the same.
   - <a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017, 15-20 min)
   - <a href="https://www.newgrounds.com/portal/view/683949" target="_blank">Pomg</a> (2016, 25 - 30 min)
   - <a href="https://www.newgrounds.com/portal/view/678184" target="_blank">Shword</a> (2016, 20 - 25 min)
-- <a href="https://stuffedwombat.newgrounds.com/games/" target="_blank">All Games (2014 - now)</a>
+- <a href="https://stuffedwombat.newgrounds.com/games/" target="_blank">All 34 games I made (2014 - now)</a>
