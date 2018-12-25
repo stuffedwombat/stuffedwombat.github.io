@@ -6,15 +6,7 @@ game & gifdev, design consulting
 **games**
 links
 links
-links
-links
-links
-links
-
 
 **writing**
-links
-links
-links
 links
 links
