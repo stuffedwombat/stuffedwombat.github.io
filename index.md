@@ -2,7 +2,7 @@
 
 *I make games and help others do the same.*
 
-*<a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> / [Portfolio](portfolio)/ josh [@] plix.at*
+*<a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> / [portfolio](portfolio)/ josh [@] plix.at*
 
 **good games**
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
