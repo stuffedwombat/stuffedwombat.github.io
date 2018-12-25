@@ -1,5 +1,5 @@
 # stuffedwombat 
-game & gifde   v, design consultin         g
+game & gifde   v, desig n consultin         g
 
 [twitter](https://twitter.com/wombatstuff)/[portfolio](https://www.google.com)
 
