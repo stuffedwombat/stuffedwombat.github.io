@@ -5,7 +5,7 @@ My name is josh. I make games and help others do the same.
 <a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> / josh [@] plix.at
 
 **games**
-- **<a href="https://www.newgrounds.com/portal/view/722470" target="_blank">qDetiled</a> (2018) The ground is gone. Good.**
+- **<a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Good.**
 - <a href="https://www.newgrounds.com/portal/view/719528" target="_blank">train game</a> (2018) Made in 2 hours on a train. Too hard.
 - **<a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement. Good**
 - <a href="https://www.newgrounds.com/portal/view/714782" target="_blank">Sisypush</a> (2018) Push the rock. Endless.
@@ -27,7 +27,7 @@ My name is josh. I make games and help others do the same.
 - <a href="https://www.newgrounds.com/portal/view/683949" target="_blank">Pomg</a> (2016) You are the ball. Good.
 - <a href="https://www.newgrounds.com/portal/view/682288" target="_blank">51.2</a> (2016) Puzzle platformer. Ok.
 - <a href="https://www.newgrounds.com/portal/view/679281" target="_blank">Comics + Games = ?</a> (2016) Experiment. Interesting.
-- **<a href="https://www.newgrounds.com/portal/view/678184" target="_blank"Shword</a> (2016) Shoot + Sword. Good.**
+- **<a href="https://www.newgrounds.com/portal/view/678184" target="_blank"> Shword</a> (2016) Shoot + Sword. Good.**
 - <a href="https://www.newgrounds.com/portal/view/674994" target="_blank">ABC</a> (2016) Puzzle platformer. Ok.
 - <a href="https://www.newgrounds.com/portal/view/670180" target="_blank">And it was so.</a> (2016) Experiment. Nice.
 - <a href="https://www.newgrounds.com/portal/view/668865" target="_blank">Just Jump</a> (2015) do not jump into the fire. Ok.
