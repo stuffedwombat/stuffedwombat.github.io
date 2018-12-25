@@ -1,4 +1,4 @@
-# stuffed wombat
+# Stuffed Wombat
 My name is josh. 
 
 
