@@ -12,9 +12,9 @@ My name is josh. I make games and help others do the same.
 
 
 **all games**
-- **<a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Good.**
+- <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Good.
 - <a href="https://www.newgrounds.com/portal/view/719528" target="_blank">train game</a> (2018) Made in 2 hours on a train. Too hard.
-- **<a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement. Good**
+- <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement. Good
 - <a href="https://www.newgrounds.com/portal/view/714782" target="_blank">Sisypush</a> (2018) Push the rock. Endless.
 - <a href="https://www.newgrounds.com/portal/view/709183" target="_blank">Secend</a> (2018) Minit Fangame. Fast.
 - <a href="https://www.newgrounds.com/portal/view/706826" target="_blank">Snong</a> (2018) Snake + Pomg. Ok.
@@ -22,7 +22,7 @@ My name is josh. I make games and help others do the same.
 - <a href="https://www.newgrounds.com/portal/view/704468" target="_blank">Done</a> (2017) Interactive Diary. Personal.
 - <a href="https://www.newgrounds.com/portal/view/702801" target="_blank">Mouve</a> (2017) Mouse only. Ok.
 - <a href="https://www.newgrounds.com/portal/view/701435" target="_blank">Znake</a> (2017) Mouse only. Small.
-- **<a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017) Walljumping only. Good.**
+- <a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017) Walljumping only. Good.
 - <a href="https://www.newgrounds.com/portal/view/698728" target="_blank">Squidwards</a> (2017) One button. Bad.
 - <a href="https://www.newgrounds.com/portal/view/697175" target="_blank">Running out of Power Inc.</a> (2017) Platformer. Mediocre.
 - <a href="https://www.newgrounds.com/portal/view/694326" target="_blank">Shit</a> (2017) Made in 2 hours. Horrible.
@@ -34,7 +34,7 @@ My name is josh. I make games and help others do the same.
 - <a href="https://www.newgrounds.com/portal/view/683949" target="_blank">Pomg</a> (2016) You are the ball. Good.
 - <a href="https://www.newgrounds.com/portal/view/682288" target="_blank">51.2</a> (2016) Puzzle platformer. Ok.
 - <a href="https://www.newgrounds.com/portal/view/679281" target="_blank">Comics + Games = ?</a> (2016) Experiment. Interesting.
-- **<a href="https://www.newgrounds.com/portal/view/678184" target="_blank"> Shword</a> (2016) Shoot + Sword. Good.**
+- <a href="https://www.newgrounds.com/portal/view/678184" target="_blank"> Shword</a> (2016) Shoot + Sword. Good.
 - <a href="https://www.newgrounds.com/portal/view/674994" target="_blank">ABC</a> (2016) Puzzle platformer. Ok.
 - <a href="https://www.newgrounds.com/portal/view/670180" target="_blank">And it was so.</a> (2016) Experiment. Nice.
 - <a href="https://www.newgrounds.com/portal/view/668865" target="_blank">Just Jump</a> (2015) do not jump into the fire. Ok.
