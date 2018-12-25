@@ -1,2 +1,8 @@
-# stuffedwombat.github.io
-website to showcase &amp; collect
+# stuffedwombat 
+game & gifdev, design consulting
+
+[twitter](https://twitter.com/wombatstuff)
+[portfolio](https://www.google.com)
+
+**games**
+**writing**
