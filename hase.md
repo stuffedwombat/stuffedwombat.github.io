@@ -5,7 +5,6 @@ published on 31/12/18
 # make mechanics & forget the game
 
 People often ask me how I come up with ideas for my prototypes and games.
-
 This text tries to answer that question.
 
 
