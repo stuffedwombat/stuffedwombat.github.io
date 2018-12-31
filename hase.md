@@ -2,50 +2,67 @@
 
 People often ask me how I come up with ideas for my prototypes and games.
 
-This text should answer that question.
+This text tries to answer that question.
+
+
 
 - **Think in terms of actions and reactions**
 
   I have come to the assumption that: 
+  
   Games are a series of causes and effects.
   - The player presses a button on the keyboard and the character moves. 
   - The character touches a button inside the game and a door opens.
-  We are very used to videogames reacting to our input, which is why I think it is incredibly important to take a step back and examine actions and reactions:
+  
   Certain conventions have arisen in game developement that we have internalised without realising it.
   - Arrow keys to move. tap to jump. click to shoot. e to interact. spikes kill you. death makes you respawn in the same level. etc etc
+  
   Conventions are not necessarily bad, but they are conventions. Interesting stuff lies behind them.
   To explore these possibilities, it is important to consider the following assumption about interaction:
+  
   - For every action, there is a reaction.
     
   Please stay with me for a few short examples of actions and reactions.
   - If you hold down the right arrow key, your character will move to the right UNTIL it runs into a wall.
+  
   Both holding down the arrow key and the player being next to a wall are actions. They cause a reaction.
   - If you click the left mouse button, your character shoots a bullet towards the cursor. 
   - The bullet gets desttroyed when it hits a wall.
+  
   Both the clicking of the mouse button and the bullet hitting a wall are actions. They cause a reaction.
   - If you click the left mouse button, your character shoots a bullet towards the cursor. 
   - When the bullet hits a wall it gets destroyed and the player starts moving towards the point where the bullet hit the wall.
+  
   Both the clicking of the mouse and the bullet being destroyed are actions. This time they even cause an interesting reaction.
+  
   Any action can trigger any reaction.
+  
   A single action triggering multiple reactions can create interesting mechanics.
 
 - **Examine movement**
+
   I only make 2D games, which makes this a lot easier.
+  
   In 2D space, all movement can be expressed through two numbers:
+  
   - angle and speed.
+  
   A bullet is travelling at an angle and a certain speed.
+  
   You can simulate complex movement by changing these numbers over time:
+  
   - Increasing speed is called accerlaration.
   - Rotating the angle of movement is called turning.
   - Inverting the angle of movement while decreasing speed simulates bouncing off of something.
+  
   This might sound like super basic stuff, but thinking about movement in these terms has enabled me to look at other games as a simple collection of movement sets.
   
 
+- **Look for Loops**
 
-
-- Look for Loops
   Actions, reactions and movement are not taking place in a vacuum. 
-  In conventional games, players expect to reach a goal and finish the game at some point. To do that, they perform a set of actions over and over again.
+
+  In conventional games, players expect to reach a goal and finish the game at some point. To do that, they perform a set of actions  over and over again.
   These repeated actions and their reactions can be called a core gameplay loop.
   For example, here is the core loop of golf:
   - apply force to a non moving opject
