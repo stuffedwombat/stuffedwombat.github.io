@@ -4,6 +4,7 @@ published on 31/12/18
 # make mechanics & forget the game
 
 People often ask me how I come up with ideas for my prototypes and games.
+
 This text tries to answer that question.
 
 
@@ -15,16 +16,22 @@ This text tries to answer that question.
 
   - The player presses a button on the keyboard and the character moves. 
   - The character touches a button inside the game and a door opens.
-  
-  Certain conventions have arisen in game developement that we have internalised without realising it.
-  - Arrow keys to move. tap to jump. click to shoot. e to interact. spikes kill you. death makes you respawn in the same level. etc etc
 
-  Conventions are not necessarily bad, but they are conventions. Interesting stuff lies behind them.
-To explore these possibilities, it is important to consider the following assumption about interaction:
+
+  Certain conventions have arisen in game developement that we have internalised without realising it.
+  *Arrow keys to move. tap to jump. click to shoot. e to interact. spikes kill you. 
+  death makes you respawn in the same level. etc etc*
+
+  Conventions are not necessarily bad, but they are conventions. 
+  
+  Interesting stuff lies behind them.
+  
+  To explore these possibilities, it is important to consider the following assumption about interaction:
   
   - *For every action, there is a reaction.*
   
-    
+  
+  
   Please stay with me for a few short examples of actions and reactions.
   - If you hold down the right arrow key, your character will move to the right until it runs into a wall.
   
@@ -38,8 +45,12 @@ To explore these possibilities, it is important to consider the following assump
   
   Both the clicking of the mouse and the bullet being destroyed are actions. This time they even cause an interesting reaction.
   
+  
+  
   Any action can trigger any reaction.
 A single action triggering multiple reactions can create interesting mechanics.
+
+
 
 **Examine movement**
 
@@ -49,23 +60,27 @@ A single action triggering multiple reactions can create interesting mechanics.
   
   - angle and speed.
   
-  A bullet is travelling at an angle and a certain speed.
-  
   You can simulate complex movement by changing these numbers over time:
   
   - Increasing speed is called accerlaration.
   - Rotating the angle of movement is called turning.
   - Inverting the angle of movement while decreasing speed simulates bouncing off of something.
   
-  This might sound like super basic stuff, but thinking about movement in these terms has enabled me to look at other games as a simple collection of movement sets.
+  This might sound like super basic stuff, but thinking about movement in these terms 
+  
+  has enabled me to look at other games as a simple collection of movement sets.
   
 
 **Look for Loops**
 
   Actions, reactions and movement are not taking place in a vacuum. 
 
-  In conventional games, players expect to reach a goal and finish the game at some point. To do that, they perform a set of actions  over and over again.
+  In conventional games, players expect to reach a goal and finish the game at some point. 
+  
+  To do that, they perform a set of actions  over and over again.
+  
   These repeated actions and their reactions can be called a core gameplay loop.
+  
   For example, here is the core loop of golf:
   - apply force to a non moving opject
   - object moves
@@ -73,7 +88,10 @@ A single action triggering multiple reactions can create interesting mechanics.
   - repeat until object is in the goal
     
   This is pretty basic stuff, and again it enables us to see games in a new light.
-  If one wanted to create a new take on golf, each of the steps of the core loop offers concrete possibilities for deviation and innovation.
+  
+  If one wanted to create a new take on golf, each of the steps of the core loop offers 
+  
+  concrete possibilities for deviation and innovation.
   
   Here are some examples:
   - players can apply force to the object while it is moving
