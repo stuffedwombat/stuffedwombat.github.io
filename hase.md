@@ -11,18 +11,20 @@ People often ask me how I come up with ideas for my prototypes and games.<br>Thi
 
 **Think in terms of actions and reactions**
 
-  I have come to the assumption that *games are a series of causes and effects.*<br>
+  I am assuming that *games are a series of causes and effects.*<br>
   - The player presses a button on the keyboard and the character moves. 
   - The character touches a button inside the game and a door opens.
 
 
-  Certain conventions have arisen in game developement that we have internalised without realising it.<br>
+  Certain conventions have arisen in game developement that we have internalised without realising it.
+  
   *Arrow keys to move. tap to jump. click to shoot. e to interact. spikes kill you. <br> 
   death makes you respawn in the same level. etc etc*
 
 Conventions are not necessarily bad, but they are conventions. <br>
 Interesting stuff lies behind them.<br>
-To explore these possibilities, it is important to consider that <br>*For every action, there is a reaction.*
+To explore these possibilities, it is important to consider that: <br>
+*For every action, there is a reaction.*
 
   
   Please stay with me for a few short examples of actions and reactions.<br>
@@ -32,12 +34,17 @@ To explore these possibilities, it is important to consider that <br>*For every 
   
   - If you click the left mouse button, your character shoots a bullet towards the cursor. 
   - The bullet gets destroyed when it hits a wall.
-  Both the clicking of the mouse button and the bullet hitting a wall are actions. They cause a reaction.<br>
+  Both the clicking of the mouse button and the bullet hitting a wall are actions. <br>
+  They cause a reaction.
+  
   
   - If you click the left mouse button, your character shoots a bullet towards the cursor. 
-  - When the bullet hits a wall it gets destroyed and the player starts moving towards the point where the bullet hit the wall.<br>
+  - When the bullet hits a wall it gets destroyed and the player starts moving <br>
+  towards the point where the bullet hit the wall.
   
-  Both the clicking of the mouse and the bullet being destroyed are actions. This time they even cause an interesting reaction.
+  
+  Both the clicking of the mouse and the bullet being destroyed are actions. <br>
+  This time they even cause an interesting reaction.
   
   
 Any action can trigger any reaction.<br>
@@ -107,23 +114,23 @@ A single action triggering multiple reactions can create interesting mechanics.
   
 **Forget the game**
 
-  Creating innovative mechanics is fun, exciting and makes you feel very smart indeed.<br>
-  It is also pretty addicting.<br>
-  It is also only a small part of game developement.<br>
+Creating innovative mechanics is fun, exciting and makes you feel very smart indeed.<br>
+It is also pretty addicting.<br>
+It is also only a small part of game developement.<br>
   
-  Much more challenging problems arise much later.<br>
-  There is no time to talk about that here, but please believe me:
-- finishing a mediocre game is better than to never finish a hundred great games
+Much more challenging problems arise much later.<br>
+There is no time to talk about that here, but please believe me:
+  - finishing a mediocre game is better than to never finish a hundred great games
 
-  I used to think that I had to come up with extremely clever mechanics to make a good game.<br>
-  Downwell, VVVVVV, Braid, all the games I look up to, have incredibly unique and smart mechanics. <br>
-  I thought that had to have the same.<br>
+I used to think that I had to come up with extremely clever mechanics to make a good game.<br>
+Downwell, VVVVVV, Braid, all the games I look up to, have incredibly unique and smart mechanics. <br>
+I thought that had to have the same.<br>
   
-  So after prototying for months on end, a curious thing happened:
+So after prototying for months on end, a curious thing happened:
   - I got so used to making mechanics that I forgot how to make a game.
   
-  Being able to prototype interesting mechanics quickly is pretty neat, but it does not turn you into a good game developer.<br>
-  To become a good game developer, you need to develop games.
+Being able to prototype interesting mechanics quickly is pretty neat, but it does not turn you into a good game developer.<br>
+To become a good game developer, you need to develop games.
   
   
   
