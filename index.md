@@ -1,6 +1,6 @@
 # Stuffed Wombat
 
-*I make games and [write about making games](stuffedwomb.at/make_mechanics).*
+*I make games and [write about making games](http://stuffedwomb.at/make_mechanics.pdf).*
 
 *<a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> / josh [@] plix.at*
 
