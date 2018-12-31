@@ -19,13 +19,14 @@ This text tries to answer that question.
 
 
   Certain conventions have arisen in game developement that we have internalised without realising it.
+  
   *Arrow keys to move. tap to jump. click to shoot. e to interact. spikes kill you. 
   death makes you respawn in the same level. etc etc*
 
   Conventions are not necessarily bad, but they are conventions. 
-  
-  Interesting stuff lies behind them.
-  
+
+   Interesting stuff lies behind them.
+
   To explore these possibilities, it is important to consider the following assumption about interaction:
   
   - *For every action, there is a reaction.*
