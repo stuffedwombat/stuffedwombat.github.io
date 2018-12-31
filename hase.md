@@ -1,4 +1,5 @@
 back
+
 published on 31/12/18
 
 # make mechanics & forget the game
@@ -23,15 +24,11 @@ This text tries to answer that question.
   *Arrow keys to move. tap to jump. click to shoot. e to interact. spikes kill you. 
   death makes you respawn in the same level. etc etc*
 
-  Conventions are not necessarily bad, but they are conventions. 
+Conventions are not necessarily bad, but they are conventions. 
+Interesting stuff lies behind them.
 
-   Interesting stuff lies behind them.
+To explore these possibilities, it is important to consider that *For every action, there is a reaction.*
 
-  To explore these possibilities, it is important to consider the following assumption about interaction:
-  
-  - *For every action, there is a reaction.*
-  
-  
   
   Please stay with me for a few short examples of actions and reactions.
   - If you hold down the right arrow key, your character will move to the right until it runs into a wall.
