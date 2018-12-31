@@ -1,10 +1,11 @@
-make Mechanics & forget the game
+# make Mechanics & forget the game
 
 People often ask me how I come up with ideas for my prototypes and games.
 
 This text should answer that question.
 
-- Think in terms of actions and reactions
+- **Think in terms of actions and reactions**
+
   I have come to the assumption that: 
   Games are a series of causes and effects.
   - The player presses a button on the keyboard and the character moves. 
@@ -19,16 +20,18 @@ This text should answer that question.
   Please stay with me for a few short examples of actions and reactions.
   - If you hold down the right arrow key, your character will move to the right UNTIL it runs into a wall.
   Both holding down the arrow key and the player being next to a wall are actions. They cause a reaction.
-  - If you click the left mouse button, your character shoots a bullet towards the cursor. The bullet gets desttroyed when it hits a wall.
+  - If you click the left mouse button, your character shoots a bullet towards the cursor. 
+  - The bullet gets desttroyed when it hits a wall.
   Both the clicking of the mouse button and the bullet hitting a wall are actions. They cause a reaction.
-  - If you click the left mouse button, your character shoots a bullet towards the cursor. When the bullet hits a wall it gets destroyed and the player starts moving towards the point where the bullet hit the wall.
+  - If you click the left mouse button, your character shoots a bullet towards the cursor. 
+  - When the bullet hits a wall it gets destroyed and the player starts moving towards the point where the bullet hit the wall.
   Both the clicking of the mouse and the bullet being destroyed are actions. This time they even cause an interesting reaction.
   Any action can trigger any reaction.
   A single action triggering multiple reactions can create interesting mechanics.
 
-- Examine movement
+- **Examine movement**
   I only make 2D games, which makes this a lot easier.
-  in 2D space, all movement can be expressed through two numbers:
+  In 2D space, all movement can be expressed through two numbers:
   - angle and speed.
   A bullet is travelling at an angle and a certain speed.
   You can simulate complex movement by changing these numbers over time:
