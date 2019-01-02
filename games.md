@@ -1,4 +1,4 @@
-[back](/)
+[back](index)
 
 
 **current projects**
