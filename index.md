@@ -1,8 +1,10 @@
 # Stuffed Wombat
 
-*I make games and <a href="https://stuffedwomb.at/make_mechanics.pdf" target="_blank">write about making games</a>.*
+*I make games and write about making games.*
 
 *<a href="https://twitter.com/wombatstuff" target="_blank">twitter</a> / josh [@] plix.at*
+
+
 
 **good games**
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
