@@ -3,8 +3,8 @@
 
 **current projects**
 - design consulting for "We Are Screwed" by Rarebyte
-- finished but unreleased commercial game
-- trying to figure out what to do in 2019
+- waiting to release first commercial game
+- sequel to Handulum
 
 **good games**
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
