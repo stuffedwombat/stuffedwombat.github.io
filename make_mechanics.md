@@ -1,8 +1,4 @@
-[back](writing)
-
-published 31/12/18
-
-edited 11/01/18
+[back](writing) <br> published 31/12/18 <br> edited 11/01/18
 
 # Make mechanics & forget the game
 
