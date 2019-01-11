@@ -7,8 +7,7 @@ This text tries to answer that question.
 
 **Think in terms of actions and reactions**
 
-I am assuming that games are a series of causes and effects.
-
+I am assuming that games are a series of causes and effects.<br>
 > The player presses a button on the keyboard and the character moves.<br>
 > The character touches a button inside the game and a door opens.
 
@@ -26,7 +25,7 @@ Please stay with me for a few short examples of actions and reactions:
 
 > If you hold down the right arrow key, your character will move to the right until it runs into a wall.
 
-Both holding down the arrow key and the player being next to a wall are actions. 
+Both holding down the arrow key and the player being next to a wall are actions. <br>
 They cause a reaction.
 
 > If you click the left mouse button, your character shoots a bullet towards the cursor. <br>
@@ -46,7 +45,6 @@ A single action triggering multiple reactions can create interesting mechanics.
 
 **Examine movement**
 
-
 I only make 2D games, which makes this a lot easier. <br>
 In 2D space, all movement can be expressed through two numbers:
   	
@@ -54,7 +52,7 @@ In 2D space, all movement can be expressed through two numbers:
   
  You can simulate complex movement by changing these numbers over time:
 
-> Increasing speed is called accerlaration.<br>
+> Increasing speed is called acceleration.<br>
 > Rotating the angle of movement is called turning.<br>
 > Inverting the angle of movement while decreasing speed simulates bouncing off of something.
   
@@ -69,20 +67,20 @@ To do that, they perform a set of actions over and over again.
 These repeated actions and their reactions can be called a core gameplay loop.
   
 For example, here is the core loop of golf:
-> apply force to a non moving opject
-> object moves
-> object comes to rest
-> repeat until object is in the goal
+> Apply force to a non moving opject<br>
+> Object moves<br>
+> Object comes to rest<br>
+> Repeat until object is in the goal
     
 This is pretty basic stuff, and again it enables us to see games in a new light.
 If one wanted to create a new take on golf, each of the steps of the core loop offers 
 concrete possibilities for deviation and innovation.
 
 Here are some examples:
-> players can apply force to the object while it is moving
-> the object does not move, the goal moves
-> the object never comes to rest
-> the goal is to not let the object reach the goal for as long as possible
+> Players can apply force to the object while it is moving<br>
+> The object does not move, the goal moves<br>
+> The object never comes to rest<br>
+> The goal is to not let the object reach the goal for as long as possible
     
 Being able to recognise gameplay loops enables us to see games as a collection of actions and reactions, each of which can be subverted to create a new core loop.
 
@@ -101,10 +99,10 @@ I also try my hardest to keep my projects very small, again increasing the speed
 You can use your awareness of actions, reactions, movement and loops to come up with an endless stream of mechanics for conventional games. 
   
  Anyways, here is the core loop of creative work:
-> attmept to do something
-> fail
-> despair
-> repeat
+> Attempt to do something
+> Fail
+> Despair
+> Repeat
   
 **Forget the game**
 
@@ -115,16 +113,17 @@ It is also only a small part of game developement.
 Much more challenging problems arise much later.
 There is no time to talk about that here, but please believe me:
 
-> Finishing a mediocre game is better than to never finish a hundred great games
+> Finishing a mediocre game is better than never finishing a hundred great games
 
  I used to think that I had to come up with extremely clever mechanics to make a good game.
  Downwell, VVVVVV, Braid, all the games I look up to have incredibly unique and smart mechanics. 
 
-I thought that I had to have the same if I wanted to suceed.and after prototyping for months, a curious thing happened:
+I thought that I had to have the same if I wanted to suceed.
+Slowly, I developed and tested the process described here.
+After prototyping for months, a curious thing happened:
   
 > I got so used to making mechanics that I forgot how to make a game.
   
 Being able to prototype interesting mechanics quickly is pretty neat, but it does not turn you into a good game developer.
 
 To become a good game developer, you need to develop games.
-  
