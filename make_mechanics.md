@@ -6,7 +6,7 @@ edited 11/01/18
 People often ask me how I come up with ideas for my prototypes and games.
 This text tries to answer that question.
 
-Think in terms of actions and reactions
+**Think in terms of actions and reactions**
 
 I am assuming that games are a series of causes and effects.
 
@@ -43,10 +43,10 @@ They cause a reaction.
   
  Both the clicking of the mouse and the bullet being destroyed are actions. This time they even cause an interesting reaction.
   
- Any action can trigger any reaction.
+Any action can trigger any reaction.
 A single action triggering multiple reactions can create interesting mechanics.
 
-Examine movement
+**Examine movement**
 
 
 I only make 2D games, which makes this a lot easier.
@@ -64,9 +64,9 @@ In 2D space, all movement can be expressed through two numbers:
 This might sound like super basic stuff, but thinking about movement in these terms has enabled me to look at games as a simple collection of movement sets.
   
 
-Look for Loops
+**Look for Loops**
 
- Actions, reactions and movement are not taking place in a vacuum. 
+Actions, reactions and movement are not taking place in a vacuum. 
 In conventional games, players expect to reach a goal and finish the game at some point. 
 To do that, they perform a set of actions over and over again.
 These repeated actions and their reactions can be called a core gameplay loop.
@@ -90,11 +90,7 @@ Here are some examples:
 Being able to recognise gameplay loops enables us to see games as a collection of actions and reactions, each of which can be subverted to create a new core loop.
 
 
-
-
-
-
-Prototype a lot
+**Prototype a lot**
 
 Prototyping is a skill that can be learned.
 The only way to learn it, is to prototype.
@@ -113,7 +109,7 @@ You can use your awareness of actions, reactions, movement and loops to come up 
 	despair
 	repeat
   
-Forget the game
+**Forget the game**
 
 Creating innovative mechanics is fun, exciting and makes you feel very smart indeed.
 It is also pretty addicting.
