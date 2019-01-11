@@ -1,24 +1,26 @@
+[back](writing)
+
 published 31/12/18
 
 edited 11/01/18
 
 # Make mechanics & forget the game
 
-People often ask me how I come up with ideas for my prototypes and games.
+People often ask me how I come up with ideas for my prototypes and games. <br>
 This text tries to answer that question.
 
 **Think in terms of actions and reactions**
 
 I am assuming that games are a series of causes and effects.
 
- 	The player presses a button on the keyboard and the character moves. 
- 	The character touches a button inside the game and a door opens.
+*The player presses a button on the keyboard and the character moves. <br>
+The character touches a button inside the game and a door opens.*
 
 Certain conventions have arisen in game developement. 
 We have internalised them without realising it.
  
-	Arrow keys to move. Tap to jump. Click to shoot. E to interact. Spikes kill you. 
-	Death makes you respawn in the same level, etc etc
+*Arrow keys to move. Tap to jump. Click to shoot. E to interact. Spikes kill you. <br>
+Death makes you respawn in the same level, etc etc*
 
 Conventions are not necessarily bad, but they are conventions. 
 Interesting stuff lies behind them.
@@ -26,21 +28,20 @@ To explore these possibilities, it is important to consider that for every actio
 
 Please stay with me for a few short examples of actions and reactions:
 
-	If you hold down the right arrow key, your character will move to the right until 
-	it runs into a wall.
+*If you hold down the right arrow key, your character will move to the right until it runs into a wall.*
 
 Both holding down the arrow key and the player being next to a wall are actions. 
 They cause a reaction.
 
-	If you click the left mouse button, your character shoots a bullet towards the cursor. 
-	The bullet gets destroyed when it hits a wall.
+*If you click the left mouse button, your character shoots a bullet towards the cursor. <br>
+The bullet gets destroyed when it hits a wall.*
   
 Both the clicking of the mouse button and the bullet hitting a wall are actions. 
 They cause a reaction.
 
-	If you click the left mouse button, your character shoots a bullet towards the cursor. 
-	When the bullet hits a wall it gets destroyed and the player starts moving towards 
-	the point where the bullet hit the wall.
+*If you click the left mouse button, your character shoots a bullet towards the cursor. <br>
+When the bullet hits a wall it gets destroyed and the player starts moving towards  <br>
+the point where the bullet hit the wall.*
   
  Both the clicking of the mouse and the bullet being destroyed are actions. This time they even cause an interesting reaction.
   
@@ -50,17 +51,16 @@ A single action triggering multiple reactions can create interesting mechanics.
 **Examine movement**
 
 
-I only make 2D games, which makes this a lot easier.
+I only make 2D games, which makes this a lot easier. <br>
 In 2D space, all movement can be expressed through two numbers:
   	
-	Angle and speed.
+*Angle and speed.*
   
  You can simulate complex movement by changing these numbers over time:
 
-	Increasing speed is called accerlaration.
-	Rotating the angle of movement is called turning.
-	Inverting the angle of movement while decreasing speed simulates bouncing off of 
-	something.
+*Increasing speed is called accerlaration.<br>
+Rotating the angle of movement is called turning.<br>
+Inverting the angle of movement while decreasing speed simulates bouncing off of something.*
   
 This might sound like super basic stuff, but thinking about movement in these terms has enabled me to look at games as a simple collection of movement sets.
   
