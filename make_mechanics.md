@@ -9,8 +9,10 @@ This text tries to answer that question.
 
 I am assuming that games are a series of causes and effects.
 
-*The player presses a button on the keyboard and the character moves. <br>
-The character touches a button inside the game and a door opens.*
+---
+The player presses a button on the keyboard and the character moves.<br>
+The character touches a button inside the game and a door opens.
+---
 
 Certain conventions have arisen in game developement. 
 We have internalised them without realising it.
