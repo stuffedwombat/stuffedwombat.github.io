@@ -36,7 +36,7 @@ They cause a reaction.
 
 > If you click the left mouse button, your character shoots a bullet towards the cursor. <br>
 > When the bullet hits a wall it gets destroyed and the player starts moving towards
-the point where the bullet hit the wall.*
+the point where the bullet hit the wall.
   
 Both the clicking of the mouse and the bullet being destroyed are actions. This time they even cause an interesting reaction.
   
@@ -93,16 +93,16 @@ The only way to learn it, is to prototype.
 What has been incredibly helpful to me in this process is the fact that I can not code well.
 Using visual scripting and an engine that has a lot of pre-build movement sets enables me to iterate pretty quickly over ideas.
 
-When coming up with ideas by means of examing actions, reactions and movement, the results are often absolute garbage, so it pays off to be quick in testing them.
+When coming up with ideas by means of examining actions, reactions and movement, the results are often absolute garbage, so it pays off to be quick in testing them.
 I also try my hardest to keep my projects very small, again increasing the speed at which I am able to iterate.
 
 You can use your awareness of actions, reactions, movement and loops to come up with an endless stream of mechanics for conventional games. 
   
  Anyways, here is the core loop of creative work:
-> Attempt to do something
-> Fail
-> Despair
-> Repeat
+> Attempt to do something <br>
+> Fail<br>
+> Despair<br>
+> Repeat<br>
   
 **Forget the game**
 
