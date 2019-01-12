@@ -46,11 +46,11 @@ A single action triggering multiple reactions can create interesting mechanics.
 **Examine movement**
 
 I only make 2D games, which makes this a lot easier. <br>
-In 2D space, all movement can be expressed through two numbers:
+In 2D space, all movement can be expressed through two variables:
   	
 > Angle and speed.
   
- You can simulate complex movement by changing these numbers over time:
+ You can simulate complex movement by changing them over time:
 
 > Increasing speed is called acceleration.<br>
 > Rotating the angle of movement is called turning.<br>
