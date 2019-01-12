@@ -67,7 +67,7 @@ To do that, they perform a set of actions over and over again.
 These repeated actions and their reactions can be called a core gameplay loop.
   
 For example, here is the core loop of golf:
-> Apply force to a non moving opject<br>
+> Apply force to a non moving object<br>
 > Object moves<br>
 > Object comes to rest<br>
 > Repeat until object is in the goal
