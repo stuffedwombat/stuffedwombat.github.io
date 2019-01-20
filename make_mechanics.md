@@ -1,4 +1,4 @@
-[back](writing) <br> published 31/12/18 <br> edited 12/01/19
+[back](thinking) <br> published 31/12/18 <br> edited 12/01/19
 
 # Make mechanics & forget the game
 
