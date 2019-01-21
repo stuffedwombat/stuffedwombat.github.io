@@ -127,3 +127,5 @@ After prototyping for months, a curious thing happened:
 Being able to prototype interesting mechanics quickly is pretty neat, but it does not turn you into a good game developer.
 
 To become a good game developer, you need to develop games.
+
+[back](thinking)
