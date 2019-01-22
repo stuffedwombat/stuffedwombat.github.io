@@ -149,7 +149,7 @@ Here I will describe how twitter slowly took over my life:
     >
     > While when I draw something I put 4 hours in, I might get 100 or less... it makes us produce quickly and cheaply, instead of putting the time we actually need to finish something.
 
-    ###### 
+   
 
 **Getting away from twitter**
 
