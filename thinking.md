@@ -1,6 +1,6 @@
 [back](index)
 
-[Usefull hell](usefull_hell)
+[Usefull hell](useful_hell)
 
 [Make mechanics & forget the game](make_mechanics)
 
