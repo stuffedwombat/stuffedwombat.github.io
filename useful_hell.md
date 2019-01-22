@@ -32,7 +32,7 @@ Here are some tactics that I have been using to get people to interact with my c
 
     People with a lot of reach rarely use hashtags because they do no have to. I think that by emulating that confidence, you can, just like in real life, reap its benefits.
 
-    > My most widely shared tweet has no hashtag at all in it. It was so interesting, that it did not need any to gain traction
+    > My most widely shared tweet has no hashtag at all in it.
 
     I believe that hashtags are useless. I have no data to back that up. I believe it though. 
 
