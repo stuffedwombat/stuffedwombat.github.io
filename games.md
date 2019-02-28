@@ -3,9 +3,9 @@
 
 **current projects**
 - design consulting for "We Are Screwed" by Rarebyte
-- waiting to release first commercial game
-- sequel to Handulum+
-- small browser games
+- some more design consulting
+- still waiting to release first commercial game
+- trying to make one game / week?
 
 **good games**
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
@@ -15,6 +15,7 @@
 
 
 **all games**
+- <a href="https://www.newgrounds.com/portal/view/726378" target="_blank">Grassurai</a> (2019) Good for 9 hours.
 - <a href="https://www.newgrounds.com/portal/view/724232" target="_blank">Handulum+</a> (2019) Almost good.
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Good.
 - <a href="https://www.newgrounds.com/portal/view/719528" target="_blank">train game</a> (2018) Made in 2 hours on a train. Too hard.
