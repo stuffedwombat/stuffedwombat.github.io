@@ -3,9 +3,9 @@
 
 **current projects**
 - design consulting for "We Are Screwed" by Rarebyte
-- some more design consulting
 - still waiting to release first commercial game
-- trying to make one game / week?
+- making one game per month.
+- super secret, super cool thing.
 
 **good games**
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
@@ -15,6 +15,8 @@
 
 
 **all games**
+-- <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it.
+-- <a href="https://www.newgrounds.com/portal/view/728552" target="_blank">Corridoor</a> (2019) Spooky.
 - <a href="https://www.newgrounds.com/portal/view/726378" target="_blank">Grassurai</a> (2019) Good for 9 hours.
 - <a href="https://www.newgrounds.com/portal/view/724232" target="_blank">Handulum+</a> (2019) Almost good.
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Good.
