@@ -5,6 +5,14 @@ If you have questions, do not hesitate to contact me!
 
 FAQ:
 
+**How will the monthly games get released?**
+
+I will upload them to newgrounds and itch.io, so you can play them directly in your browser.
+They will be freely available for everyone to play.
+If there is demand for it, I can also look into creating downloadable versions of the games for Patreons.
+
+
+
 **What is a game dev diary?**
 
 It is a document that describes the development process of a game.
@@ -18,13 +26,14 @@ The first game dev diary will be made publicly available on the Patreon page.
 
 Most of my previous games are puzzle or skill based. 
 I have some neat ideas in that direction that I want to explore.
+
 But I am actually much more interested in telling short stories so I will try to do that as well.
 
 
 **What happens if you dont make a game?**
 
 I made one game per month in 2016 already, so I am confident that I can do it again. 
-However, if I do not release a game in time, I will disable the patreon money collection thing.
+However, if I do not release a game in time, I will disable the patreon money collection thing for that month.
 
 
 **Why are there no special rewards for people who pledge more?**
