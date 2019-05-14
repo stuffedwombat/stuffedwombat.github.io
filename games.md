@@ -5,7 +5,9 @@
 - design consulting for "We Are Screwed" by Rarebyte
 - still waiting to release first commercial game
 - making one game per month.
-- super secret, super cool thing.
+- Ord, together with Mujo Games. Wishlist it <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">here</a>
+
+
 
 **good games**
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
