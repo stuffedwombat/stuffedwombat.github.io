@@ -3,8 +3,6 @@
 **Commercial Games**
 - <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> (together with Mujo Games)
 
-*everything below is free & playable in your browser!*
-
 **good games**
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
 - <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement.
