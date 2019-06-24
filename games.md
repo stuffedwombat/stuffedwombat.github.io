@@ -1,13 +1,14 @@
 [back](index)
 
+**Games you can buy right now, for money**
+- <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a>
 
 **current projects**
-- design consulting for "We Are Screwed" by Rarebyte
-- still waiting to release first commercial game
-- making one game per month.
-- Ord, together with Mujo Games. Wishlist it <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">here</a>
+- Making one game per month.
+- Updating Ord.
+- Other things.
 
-
+*everything below is free & playable in your browser!*
 
 **good games**
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
@@ -17,6 +18,7 @@
 
 
 **all games**
+- <a href="https://www.newgrounds.com/portal/view/732230" target="_blank">The Last Balloon</a> (2019) Not a big fan, still proud.
 - <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it.
 - <a href="https://www.newgrounds.com/portal/view/728552" target="_blank">Corridoor</a> (2019) Spooky.
 - <a href="https://www.newgrounds.com/portal/view/726378" target="_blank">Grassurai</a> (2019) Good for 9 hours.
