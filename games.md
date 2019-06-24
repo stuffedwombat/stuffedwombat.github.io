@@ -1,12 +1,7 @@
 [back](index)
 
-**Games you can buy right now, for money**
-- <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a>
-
-**current projects**
-- Making one game per month.
-- Updating Ord.
-- Other things.
+**Commercial Games**
+- <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> (together with Mujo Games)
 
 *everything below is free & playable in your browser!*
 
