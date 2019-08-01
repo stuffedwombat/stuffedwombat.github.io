@@ -4,6 +4,7 @@
 - <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> (together with Mujo Games)
 
 **good games**
+- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you.
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
 - <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement.
 - <a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017) Only walljumps.
@@ -11,6 +12,8 @@
 
 
 **all games**
+- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you.
+- <a href="https://www.newgrounds.com/portal/view/733821" target="_blank">Isolation Station Annihilation</a> (2019) Alien physics, unprecise designed.
 - <a href="https://www.newgrounds.com/portal/view/732230" target="_blank">The Last Balloon</a> (2019) Not a big fan, still proud.
 - <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it.
 - <a href="https://www.newgrounds.com/portal/view/728552" target="_blank">Corridoor</a> (2019) Spooky.
