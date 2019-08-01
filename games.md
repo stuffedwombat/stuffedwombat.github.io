@@ -12,7 +12,7 @@
 
 
 **all games**
-- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you.
+- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you. Good.
 - <a href="https://www.newgrounds.com/portal/view/733821" target="_blank">Isolation Station Annihilation</a> (2019) Alien physics, unprecisely designed.
 - <a href="https://www.newgrounds.com/portal/view/732230" target="_blank">The Last Balloon</a> (2019) Not a big fan, still proud.
 - <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it.
