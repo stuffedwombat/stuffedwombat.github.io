@@ -12,13 +12,14 @@
 
 
 **all games**
+- <a href="https://www.newgrounds.com/portal/view/735906" target="_blank">Spacebar</a> (2019) Interesting level structure. Small.
 - <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you. Good.
 - <a href="https://www.newgrounds.com/portal/view/733821" target="_blank">Isolation Station Annihilation</a> (2019) Alien physics, unprecisely designed.
 - <a href="https://www.newgrounds.com/portal/view/732230" target="_blank">The Last Balloon</a> (2019) Not a big fan, still proud.
-- <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it.
-- <a href="https://www.newgrounds.com/portal/view/728552" target="_blank">Corridoor</a> (2019) Spooky.
-- <a href="https://www.newgrounds.com/portal/view/726378" target="_blank">Grassurai</a> (2019) Good for 9 hours.
-- <a href="https://www.newgrounds.com/portal/view/724232" target="_blank">Handulum+</a> (2019) Almost good.
+- <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it. Weird.
+- <a href="https://www.newgrounds.com/portal/view/728552" target="_blank">Corridoor</a> (2019) Underdeveloped a bit. Spooky.
+- <a href="https://www.newgrounds.com/portal/view/726378" target="_blank">Grassurai</a> (2019) Good for 9 hours. Hard.
+- <a href="https://www.newgrounds.com/portal/view/724232" target="_blank">Handulum+</a> (2019) Many levels. Almost good.
 - <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Good.
 - <a href="https://www.newgrounds.com/portal/view/719528" target="_blank">train game</a> (2018) Made in 2 hours on a train. Too hard.
 - <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement. Good.
