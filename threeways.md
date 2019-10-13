@@ -1,3 +1,5 @@
+[Back](thinking)
+
 Heyo.
 
 I never went to design school and sometimes it takes me a very long time to understand simple things.
@@ -88,5 +90,7 @@ Simply knowing, even if only in rough categories, what I am actually doing right
 I hope it helps you too.
 
 cheers,
-
 josh
+
+
+[Back](thinking)
