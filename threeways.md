@@ -54,7 +54,7 @@ In my experience, frustrated explorers are often generalists, people who have lo
 
 They could learn how to work.
 
-## work
+## working
 
 Work is straightforwad. You know where you want to go.
 
@@ -71,7 +71,7 @@ They have designed a few released games and possess intuition and confidence. Wo
 They should probably take a vacation.
 
 
-# Check yourself
+# check yourself
 
 The three ways of designing games are neither a horoscope nor a list of personality traits.
 
