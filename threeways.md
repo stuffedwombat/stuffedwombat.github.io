@@ -1,29 +1,23 @@
 Heyo.
 
 I never went to design school and sometimes it takes me a very long time to understand simple things.
-
 This text is about is a neat thing that helps me to keep track of what I am doing.
 
 # The three ways of designing games
 
-This is a tool.
-Here is how you use it:
-
-Examine how you are designing.
-Compare that to the three ways of designing games:
+When we design, we are doing one of three things:
 
 - stealing
 - exploring
 - working
 
-Think about what you want to do with your life. 
+Nobody is walking on only one of these ways.
+During development, every designer will cycle through all of them.
 
-If you are happy about how things are going, continue. 
+Also, please note that the three ways of designing games are all equal in their validitiy. 
+Neither is "better" than any other. 
+They simply have different ramifications and produce different things.
 
-If not, try to change some stuff.
-
-
-Here is more info on the three ways of desiging games:
 
 ## stealing
 
@@ -39,15 +33,15 @@ They start with something that already exists and then work their way towards it
 Still, they are often sad, because they feel that their work is not unique enough.
 In my experience, many sad thieves are very excited about a game design ajacent craft, like coding or drawing. They prefer to be creative in these areas and that is super ok, but they still beat themselves up about not being original enough.
 
-They should probably go explore.
+They could go explore.
 
 ## exploring
 
 Exploring is amazing. The horizon is endless.
 
 Compared to the other ways of designing games, exploring is reckless.
-Explorters have no guarantee of actually ending up somewhere.
-They also can get lost and sometimes never return.
+Explorers have no guarantee of actually ending up somewhere.
+They can get lost. Sometimes they never return.
 
 Explorers start from a familiar point and head off, out into the unknown.
 
@@ -56,7 +50,7 @@ Explorers start from a familiar point and head off, out into the unknown.
 Explorers are often frustrated, because they never seem to find anything.
 In my experience, frustrated explorers are often generalists, people who have lowered their standards or can both draw and code. They see potential everywhere, but are not equipped to actually work with what they find and often leave everything behind to go exploring again.
 
-They should probably learn how to work.
+They could learn how to work.
 
 ## work
 
@@ -75,23 +69,21 @@ They have designed a few released games and possess intuition and confidence. Wo
 They should probably take a vacation.
 
 
+# Check yourself
 
-# important notes
+The three ways of designing games are neither a horoscope nor a list of personality traits.
+Every designer steals, explores and works. 
+No way of designing games is "better" than any other. 
 
-This is a tool, not a theory. I have no clue if this makes any sense to anyone but me. 
-Simply asking myself wether I am currently stealing, exploring or working helps me to adjust course when necessary.
+To benefit from this, take a step back during your games development regularily and try to identify **how** you are designing right now.
+That is pretty easy.
+The hard part is changing how you design, if you think you need to.
 
-Game design is only one of many parts of game development and all of the parts are very important. 
+For me, the power of the three ways of designing games is simple categorisation. It gives me something concrete to judge my own actions against.
+Simply knowing, even if only in rough categories, what I am actually doing right now helps me enourmously during development.
 
-The three ways of designing games are all equal in their validitiy. Neither is "better" than any other.
-They simply have different ramifications.
-
-We are all constantly stealing very basic things: Control schemes, common basic shapes, moving platforms. Do no understimate the power and necessity of theft.
-
-Work requires insane mental strength.  
-
-Exploration is really fun.
+I hope it helps you too.
 
 cheers,
-josh
 
+josh
