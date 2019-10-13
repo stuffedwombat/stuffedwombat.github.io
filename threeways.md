@@ -72,14 +72,19 @@ They should probably take a vacation.
 # Check yourself
 
 The three ways of designing games are neither a horoscope nor a list of personality traits.
+
 Every designer steals, explores and works. 
+
 No way of designing games is "better" than any other. 
 
 To benefit from this, take a step back during your games development regularily and try to identify **how** you are designing right now.
+
 That is pretty easy.
+
 The hard part is changing how you design, if you think you need to.
 
 For me, the power of the three ways of designing games is simple categorisation. It gives me something concrete to judge my own actions against.
+
 Simply knowing, even if only in rough categories, what I am actually doing right now helps me enourmously during development.
 
 I hope it helps you too.
