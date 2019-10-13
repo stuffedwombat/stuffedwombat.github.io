@@ -28,7 +28,8 @@ Here is more info on the three ways of desiging games:
 ## stealing
 
 Stealing is pretty cool. You just copy someone elses design.
-Compared to the other ways of designing games, stealing is relatively comfortable:
+
+Compared to the other ways of designing games, stealing is relatively comfortable.
 Thieves know exactly where they want to go.
 
 They start with something that already exists and then work their way towards it.
@@ -37,6 +38,7 @@ They start with something that already exists and then work their way towards it
 
 Still, they are often sad, because they feel that their work is not unique enough.
 In my experience, many sad thieves are very excited about a game design ajacent craft, like coding or drawing. They prefer to be creative in these areas and that is super ok, but they still beat themselves up about not being original enough.
+
 They should probably go explore.
 
 ## exploring
