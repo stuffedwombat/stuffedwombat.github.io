@@ -21,11 +21,11 @@ This can help people understand why someone enjoys something they themselves don
 
 Buying into this way of thinking limits our ability to create:
 
-- We become convinced that only certain things should be intended
-- We get presented with specific methods and rules to realise that intent
-- We start following those things exclusively
+- *We become convinced that only certain things should be intended
+- *We get presented with specific methods and rules to realise that intent
+- *We start following those things exclusively
 
-We slowly forget that we can intend infinite things and that we can realise intent in inifinite ways.
+We slowly forget that we **can intend infinite things** and that **we can realise intent in inifinite ways.**
 
 In the last year I have started to realise that all the game design methodologies, guidelines and rules I have internalised are simply building blocks. <br>
 They can be used, transformed and twisted in any way I want and are not unchangable words of wisdom.
