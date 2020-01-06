@@ -21,9 +21,9 @@ This can help people understand why someone enjoys something they themselves don
 
 Buying into this way of thinking limits our ability to create:
 
-- *We become convinced that only certain things should be intended
-- *We get presented with specific methods and rules to realise that intent
-- *We start following those things exclusively
+- *We become convinced that only certain things should be intended*
+- *We get presented with specific methods and rules to realise that intent*
+- *We start following those things exclusively*
 
 We slowly forget that we **can intend infinite things** and that **we can realise intent in inifinite ways.**
 
@@ -39,7 +39,7 @@ Inherent in them are old intentions and ways of thinking that describe some thin
 To create as freely as possible, I need to examine those old rules and methods carefully and be very cautious to not glorify them as good or dismiss them as bad.<br> 
 They should be seen as what they are:
 
-**previous attemtps at realising intent**
+**Old attemtps at realising intent**
 
 
 [back](thinking) 
