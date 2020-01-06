@@ -1,5 +1,7 @@
 [back](index)
 
+[Good Game Design](good_game_design)
+
 [The three ways of designing games](threeways)
 
 <a href="https://subotron.com/veranstaltung/one-wo-man-one-cry/" target="_blank">How to maek gaem</a> (Talk, Subotron 2019)
