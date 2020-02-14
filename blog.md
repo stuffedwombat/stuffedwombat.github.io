@@ -1,3 +1,5 @@
+[back](index) <br>
+
 <h1>Blog</h1>
 writing daily
 
@@ -17,4 +19,5 @@ Sometimes I feel it very early in the morning, when I should still be sleeping.<
 <br>
 On most days it does not happen.
 
-
+------------------------------------------------------------
+[back](index)
