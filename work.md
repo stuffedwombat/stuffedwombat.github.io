@@ -1,5 +1,19 @@
 **Arbeitsproben - Joshua Hollendonner**
 
+This page was made for Admission to the angewandte.
+
+Links to the games & interactive experiences mentioned in my folder:
+
+Dancer
+
+Randulum
+
+Every Wall
+
+Everything I made can be found on  Twitter or on Newgrounds. <br>
+
+Here are 2 sets of gifs that I made in 2020:
+
 <h1>motion</h1>
 <h3>Jan 2020</h3>
 
@@ -24,5 +38,5 @@ Slider<br>
 Pinball<br>
 <img src="https://i.imgur.com/iNkawyI.gif" width="480" height="361" />
 
-<br>
+Chain<br>
 <img src="https://im5.ezgif.com/tmp/ezgif-5-0d0f12442dab.gif" width="480" height="271" />
