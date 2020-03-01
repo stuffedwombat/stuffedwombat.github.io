@@ -1,6 +1,6 @@
 [back](index) <br>
 
-<h1>Bdlog</h1>
+<h1>Dlog</h1>
 this is a test.<br>
 i am documenting the developmet of a game here.<br>
 if that does not distract me too much, i will keep writing about game dev related stuff.<br>
