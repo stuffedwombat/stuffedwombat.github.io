@@ -73,9 +73,10 @@ i recently experimented a lot with physics stuff, so i thought it would be cool 
 <br>
 naturally, after a short time focusing on something else (in this case work), it clicked.<br>
 I realised how I could utilise the things I had already made (and some things i had planned) to express something that I wanted to express for a long time.<br>
-This is extremely important, because it basically makes every decision about everything super easy.<br>
+I tried to to that with a different project a while back (but that was abandoned for lack of direction ofc) and that project was called "always down", so this is now the working title of the current project.<br>
+Having found what I want to say is extremely important, because it basically makes every decision about everything super easy.<br>
 Instead of asking myself if a mechanic, dynamic or aesthtic would be "cool" or "good", i can now just ask: "does this help express what i want to say?"<br>
-The only hard thing left to do is to do some tests for each of those decisions and then pick the option that has the most overlap between "expresses the thing i want to say" and "i can make this very quickly".<br>
+The only hard thing left to do is to do some tests for each of those decisions and then pick the option that has the most overlap between "expresses the thing i want to say" and "i can make this very quickly". (which is obviously still super hard, but not as hard as not knowing which way is up)<br>
 <br>
 maybe you forgot, but i want to have this thing released on steam in a month from now.<br>
 <br>
