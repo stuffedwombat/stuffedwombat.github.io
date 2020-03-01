@@ -1,6 +1,6 @@
 [back](index) <br>
 
-<h1>Blog</h1>
+<h1>Bdlog</h1>
 this is a test.<br>
 i am documenting the developmet of a game here.<br>
 if that does not distract me too much, i will keep writing about game dev related stuff.<br>
@@ -8,6 +8,8 @@ if that does not distract me too much, i will keep writing about game dev relate
 to save time i will not care that much about spelling.
 <br>
 the post on top is the newest one. <br>
+"dlog" is a combination of "development" and "blog". <br>
+you can not stop me.
 
 -----------------------------------------------------
 <h1>01.03.20 - Starting [Always Down]</h1>
