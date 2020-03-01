@@ -5,7 +5,7 @@ this is a test.<br>
 i am documenting the developmet of a game here.<br>
 if that does not distract me too much, i will keep writing about game dev related stuff.<br>
 <br>
-to save time i will not care that much about spelling.
+to save time i will not care about spelling, grammar or making too much sense.
 <br>
 the post on top is the newest one. <br>
 "dlog" is a combination of "development" and "blog". <br>
