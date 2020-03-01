@@ -45,7 +45,7 @@ When all the enemies on screen are dead, the floor dissapears and you drop down 
 <br>
 This is basically a fully realised gameplay loop and i like it very much.<br>
 Oh yeah, I forgot to say: I thought that the "7 day roguelike" on itch.io (which I initially made the game for) was for action rogulikes (downwell, etg, etc).<br>
-So from the start, I thought that the game contains randomly generated levels.<br>
+So from the start of development, I thought that the game has to contain randomly generated levels.<br>
 That is pretty hard to code, but if I only have to randomly generate single rooms its doable.<br>
 <br>
 So having the player fluidly dropping into singlescreen room after singlescreen room makes coding the game easy, but it also feels cool with the physics based corpses of dead enemies. They ofc also fall down and over time you have this huge graveyard of dead things kind of "following" you as you go downwards.
@@ -54,6 +54,8 @@ Another cool thing about the singlescreen rooms is that the enemies do not have 
 Again, easy to code.<br>
 <br>
 After I had that "destroy floor when all enemies are dead" meachanic in, I felt for the first time that this could be a very small commercial game. It basically steals shamelessly from downwell and super crate box in some aspects but thats fine.<br>
+<br>
+oh also i realised that the jam was mostly for traditional turnbased roguelikes, so i am no longer making the game in the frame of that jam. Still, I want to have the core game done in a week.
 <br>
 It still felt a bit barren and boring, so i added a mechanic i prototypes 100 years ago:<br>
 you have limited ammo and when a bullet hits a wall/enemie it turns into ammo that you can pick up again.<br>
