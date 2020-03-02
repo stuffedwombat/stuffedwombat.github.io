@@ -2,7 +2,7 @@
 
 <h1>Dlog</h1>
 this is a test.<br>
-i am documenting the developmet of a game here.<br>
+i am documenting the development of a game here.<br>
 if that does not distract me too much, i will keep writing about game dev related stuff.<br>
 <br>
 to save time i will not care about spelling, grammar or making too much sense.
@@ -19,9 +19,9 @@ not perfect, but pretty ok.<br>
 <br>
 after taking care of some personal stuff, i threw away everything I made so far and started anew.<br>
 This always helps me to keep the code clean-ish and make everything usable quickly.<br>
-Like, now there are enemies which habe a "master instance" and just get spawned, instead of 30 individual instances placed in the editor. I can now make changes to them super quickly.<br>
+Like, now there are enemies which have a "master instance" and just get spawned, instead of 30 individual instances placed in the editor. I can make changes to them super quickly.<br>
 <br>
-quality of life stuff like this is super boring to make but now that i know what the project is going to be thats what i will do most of the time: <br>
+quality of life stuff like this is super boring to make, but now that i know what the project is going to be thats what i will do most of the time: <br>
 boring stuff.<br>
 <br>
 I also removed all physics elements from the game, to be able to better balance it.<br>
@@ -38,8 +38,8 @@ none of the things that are in the game now are close to perfect, but they are a
 i think that a game becomes better the more you iterate over its individual parts. and in order to iterate, one has to call something done for the time being, even if it really sucks. as long as it does the job, it is done for now.<br>
 <br>
 but before leaving all those fundamentals alone, i changed them a lot and tested how they felt.<br>
-essentially, the game became smaller through that.<br>
-I made the jump of the character snappier, its movement speed higher, the level small and increased reaction times of enemies.<br>
+essentially, the game became smaller & faster through that.<br>
+I made the jump of the character snappier, its movement speed higher, the level smaller and increased the reaction times of enemies.<br>
 <br>
 I also made the player have only one bullet to shoot. this makes the gameplay loop tighter and the game a lot harder.<br>
 <br>
@@ -55,8 +55,12 @@ that just feels cool.<br>
 <br>
 overall i think the project is in good shape.<br>
 <br>
-on the production side i realised that it is probably impossible for me to make art that does not look like shit, so i asked a friend if he would help out when (IF) the game continues to develop in a promising direction.
-
+on the production side i realised that it is probably impossible for me to make art that does not look like shit, so i asked a friend if he would help out when (IF) the game continues to develop in a promising direction (and he said yes! yay! ).<br>
+<br>
+i dont know how i feel about writing this dlog right now.<br>
+it has turned into a completely unedited stream of conciousness, but i dont have enegery for anything else right now.<br>
+<br>
+maybe writing is also something that you get better at over time?<br>
 
 
 -----------------------------------------------------
