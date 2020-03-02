@@ -12,6 +12,54 @@ the post on top is the newest one. <br>
 you can not stop me.
 
 -----------------------------------------------------
+<h1>02.03.20 - Remaking [Always Down]</h1>
+
+today was pretty ok, in terms of work done on the game.<br>
+not perfect, but pretty ok.<br>
+<br>
+after taking care of some personal stuff, i threw away everything I made so far and started anew.<br>
+This always helps me to keep the code clean-ish and make everything usable quickly.<br>
+Like, now there are enemies which habe a "master instance" and just get spawned, instead of 30 individual instances placed in the editor. I can now make changes to them super quickly.<br>
+<br>
+quality of life stuff like this is super boring to make but now that i know what the project is going to be thats what i will do most of the time: <br>
+boring stuff.<br>
+<br>
+I also removed all physics elements from the game, to be able to better balance it.<br>
+having physics just forces you to tweak obscure values with chaotic effects forever and i dont have time for that.<br>
+tomorrow i will try to add some physics wonkyness back into the game, but only on a visual level.<br>
+everything will run on neat little square colliders but on top of that i want some weird spinning legs and wobbly monsters.<br>
+lets hope that works out.<br>
+<br>
+a big thing i played around with a lot today were fundamentals:<br>
+screensize, player movement, enemie movement patterns etc etc<br>
+<br>
+none of the things that are in the game now are close to perfect, but they are a healthy start.<br>
+<br>
+i think that a game becomes better the more you iterate over its individual parts. and in order to iterate, one has to call something done for the time being, even if it really sucks. as long as it does the job, it is done for now.<br>
+<br>
+but before leaving all those fundamentals alone, i changed them a lot and tested how they felt.<br>
+essentially, the game became smaller through that.<br>
+I made the jump of the character snappier, its movement speed higher, the level small and increased reaction times of enemies.<br>
+<br>
+I also made the player have only one bullet to shoot. this makes the gameplay loop tighter and the game a lot harder.<br>
+<br>
+all of this felt right, considering that the game has to be fundamentally done in 5 days from tomorrow.<br>
+there will be no art or polish, but the little red boxes should move and behave in ways that feel as "real" (maybe "solid" is a better word?) as possible.<br>
+<br>
+This is again one of these things that you can only get through iterations (or a lot of experience).<br>
+Like, when enemies move at JUST the right speed to create a sense of urgency but still leave you time to react, then you probably worked on them for quite some time and reworked a lot of stuff very often.<br>
+and things are very far from that right now, but i needed to lay the first stone today.<br>
+<br>
+i indulged in one phyisics thing today though. when you die, a huge block falls down and crushes everything beneath it.<br>
+that just feels cool.<br>
+<br>
+overall i think the project is in good shape.<br>
+<br>
+on the production side i realised that it is probably impossible for me to make art that does not look like shit, so i asked a friend if he would help out when (IF) the game continues to develop in a promising direction.
+
+
+
+-----------------------------------------------------
 <h1>01.03.20 - Starting [Always Down]</h1>
 
 The place where I work has sent me on (paid) vacation because of COVID19.<br>
