@@ -42,7 +42,8 @@ Yay<br>
 The random generated levels are still way too hard but I spend a considerable amount of time just playing my own game, which is a good sign i think.<br>
 I think that I will just make the game studpidly easy from my perspective. For now I have only been working on the first area (of three planned) and it is not a very friendly introduction to the game.<br>
 I am wondering if I should put different enemies in there or make the existing ones easier?<br>
-For now I think I will just keep adding enemies until I have enough and then place them in the area where they work best to create a rising level of difficulty? (I guess this stuff is similar to level design? I should first introduce weak "dashing enemies" before showing the hard "dashing enemies", etc, I guess I need to categorise the enemies I make and then let good old Kishōtenketsu take over.)
+For now I think I will just keep adding enemies until I have enough and then place them in the area where they work best to create a rising level of difficulty? <br><br>(I guess this stuff is similar to level design? I should first introduce weak "dashing enemies" before showing the hard "dashing enemies", etc, I guess I need to categorise the enemies I make and then let good old Kishōtenketsu take over.)
+<br>
 <br>
 Like I said before, I ran out of steam quickly today, so i could not really push forward and start on the second iteration already.<br>
 Maybe reaching milestones such as this just makes your tiredness / exhaustion catch up?<br>
