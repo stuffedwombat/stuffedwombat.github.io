@@ -12,6 +12,51 @@ the post on top is the newest one. <br>
 you can not stop me.
 
 -----------------------------------------------------
+<h1>03.03.20 - first iteration complete!</h1>
+
+Wew.<br>
+I got a LOT of stuff done in the morning, but after that my day was fragmented with things I had to take care of.<br>
+Independent of those things, I think today I blew all my powder in the first 2 hours of work.<br>
+<br>
+I noticed that I was getting less effective, but did not take the looong break I would have needed.<br>
+Lets hope I can recognise this stuff better from now.<br>
+<br>
+But yeah, before that, I was on fire.<br>
+I made a very rudimentary random level generator!<br>
+The rooms now look different and enemies spawn at random positions!<br>
+Yay!
+<br>
+I have also tested add physic objects and it works very well!<br>
+Because of some coding issues, I will need to have essentially at least 3 game objects per enemie:<br>
+One that controls the movement and the collision.<br>
+The second that is a wobbly physic thing that makes it look less sterile.<br>
+And the third is the corpse of the wobbly physics thing, that adds permanence and all that good stuff!<br>
+<br>
+This will be a lot of stupid manual labour to set up. Every single one of these objects needs some custom code and its just a lot of cliking and copy pasting code to change one variable. <br>
+I am pretty sure that there is a more elegant code-y solution, but if i dont find that on accident I will just brute force & hardcode these things to save time.<br>
+I can save myself a lot of work, if keep the amount of different enemies down, which was the plan all along!<br>
+<br>
+After adding a shitty menu, a rudimentary hubworld and the functionality to switch between them, I completed the first iteration of the game!<br>
+Yay<br>
+<br>
+The random generated levels are still way too hard but I spend a considerable amount of time just playing my own game, which is a good sign i think.<br>
+I think that I will just make the game studpidly easy from my perspective. For now I have only been working on the first area (of three planned) and it is not a very friendly introduction to the game.<br>
+I am wondering if I should put different enemies in there or make the existing ones easier?<br>
+For now I think I will just keep adding enemies until I have enough and then place them in the area where they work best to create a rising level of difficulty? (I guess this stuff is similar to level design? I should first introduce weak "dashing enemies" before showing the hard "dashing enemies", etc, I guess I need to categorise the enemies I make and then let good old Kishōtenketsu take over.)
+<br>
+Like I said before, I ran out of steam quickly today, so i could not really push forward and start on the second iteration already.<br>
+Maybe reaching milestones such as this just makes your tiredness / exhaustion catch up?<br>
+Idk, but i think the solution is to just ride that time of low energy out and do something different, instead of working ineffectively, like i did today.<br>
+<br>
+But yeah, overall I am still very happy with how this is going so far!<br>
+<br>
+Tomorrow I will tweak the room generation code, tweak the enemies & make some new ones.<br>
+<br>
+(I also finished some stuff related to what I want to say with the game today. But thats secret. All i can say is that after loosing my steam, I spent way too much time  trying to make an idea work in an unintutive way, before switching approach and being done with it in a few minutes.)
+<br>
+
+
+-----------------------------------------------------
 <h1>02.03.20 - Remaking [Always Down]</h1>
 
 today was pretty ok, in terms of work done on the game.<br>
