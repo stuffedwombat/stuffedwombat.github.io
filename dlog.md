@@ -12,6 +12,92 @@ the post on top is the newest one. <br>
 you can not stop me.
 
 -----------------------------------------------------
+<h1>04.03.20 - 6 new enemies</h1>
+heyo, thanks for reading this :)<br>
+<br>
+Today was good!<br>
+Instead of sprinting in the morning and the flaundering all day, I paced myself today.<br>
+<br>
+Two big things were done:<br>
+- I made 6 new enemies<br>
+- & assigned them into areas<br>
+<br>
+the game consists of 3 areas, with 3 floors each.<br>
+In every area, there are 3 types of enemies.<br>
+<br>
+Until today, I had 3 enemies that populated the first area, but to get a good sense for how a run will flow and progress in difficulty, I needed to have all 9 enemies coded.<br>
+I did not plan the enemies I made. Some, I stole from Ben Stars much better Roguelike Shooter, but most were made up on the go.<br><br>
+To make things move in Construct 2, the engine I use, you use Behavious that you attach to Sprites. This is extremely fast, bc I just drop a drawing into the engine and assign it a Behaviour, add a little bit of code and the enemie is done.<br>
+<br>
+In theory at least.<br>
+Practically, spend the majority of the day making little red boxes move in different ways.<br>
+Some of the code is really, really bad and I am amazed that it works at all.<br>
+But it works.<br>
+<br>
+To describe the process for each enemie here would take too long, but I want to go through the process of the "Slider" enemy here:<br>
+<br>
+The Slider was supposed to be a little box that moved in straight lines, unaffected by gravity. When it hit a wall, it was supposed to check the position of the player and then move either vertically or horizontally towards the player.<br>
+Then it would hit a wall again and repeat the process, eventually honing in on the character.<br>
+<br>
+for some reason, I could not get this to work in a way that felt understanable. The Slider would just slide around like i told it to, but it did so without any agency. It was a very boring enemie.<br>
+<br>
+Stupidly I tried to tweak its movement values.<br>
+<br>
+After wasting quite some time, without the Slider ever feeling threatening or interesting, I was so frustrated that I just threw most of my code away and tried a completely different approach:<br>
+<br>
+The slider would only move from left to right until it hit a wall and the change directions. It was basically one of those spiky balls that we know from every platformer.<br>
+<br>
+Then I called the Slider done and moved on.<br>
+I finished the other enemies and put them all in a level, to see how that felt.<br>
+After struggling to survive a room full of 9 enemies for some time I was able to dispose of all of them... except for the slider, who did its rounds above the character.<br>
+<br>
+The slider was super boring.<br>
+I do not remember how I got the idea, but I just quickly made the Slider slide down for a little bit after it hit a wall.<br>
+And BAM.<br>
+It was a kind of space invader now, inevitably zoning in on the player. The slider is not a threat from the start, but if you do not dispose of it quickly, it will make you life hell, as you jump constantly, trying to avoid it.<br>
+<br>
+I think I should try to create more dynamics like this, that are not only about evading and killing, but also about time and space.<br>
+<br>
+Anyways, afrer all the enemies were done (for now!!) I hit a slump, took a break and then came back to look at the mess I had just made.<br>
+<br>
+Because now I had 9 enemies, that I somehow had to distribute to 3 areas.<br>
+This is horrible, because this is a super important step and there are 10000 variables.<br>
+<br>
+After a short moment of desperation, I simply "mapped" the enemies.<br>
+Idk if there is a better phrase for that, but I divided them into groups that reflected their patterns of movement.<br>
+Flying enemies in one group, dashign enemies in the other, etc etc<br>
+<br>
+This allowed me to better understand the pool of things I had to dsitribute.<br>
+I followed the rule of "no 2 enemies with the same pattern of movement in the same area" and for some miracolous reason that was possible! yay!<br>
+<br>
+Then I removed all the level generation code and focused on just making the enemies spawn in their respective levels and played the game a bunch.<br>
+It is far from perfect, but this first distribution kind of works and gives me a starting point, from which i can make changes towards a distribution of enemies that creates super intense & short runs.<br>
+<br>
+so yeah that was my day. I think I worked more today than on any other day of this project so far. Today I have come close to scratching the actual 8 hour work day :O<br>
+<br>
+Oh, I dont think I ever shared my development plan for this project!<br>
+Basically, i want to have the game finished with 100% functionality by the 9th of May, which is in 5 days.<br>
+After that I will still tweak some values and fix bugs and stuff like that, but I will not add any new mechanics or enemies!<br>
+Because then the grueling steam process starts, with all its forms and trailers and stuff.<br>
+<br>
+<br>
+I have been thinking a bit about how to market this game and came up with the term "finite roguelike". This game will have a definite ending and will not be a typical "endless" roguelike, but I can not talk about that here, bc its secret.<br>
+The friend that will do the art can start work on the 17th, which means that I will have to launch the steampage with my programmer art!<br>
+That actually pushes me in an interesting direction:<br>
+I could launch the steam page with (polished) programmer art and advertise the fact that the game is in develeopment right now!<br>
+I could post these dlogs on the games steam page and interact with the people of steam!<br>
+<br>
+Since the whole project is built to be developed very quickly, the gamers might find it interesting to see it progress!<br>
+<br>
+But yeah, thats it for today!<br>
+Tomorrow I think I will take it easier and only try to make some code that makes some cool rooms (and probably cheat a lot with the "random" room generation^^).<br>
+
+Bye!<br>
+
+
+
+
+-----------------------------------------------------
 <h1>03.03.20 - first iteration complete!</h1>
 
 Wew.<br>
