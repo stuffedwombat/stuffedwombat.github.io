@@ -30,7 +30,7 @@ I did not plan the enemies I made. Some, I stole from Ben Stars much better Rogu
 To make things move in Construct 2, the engine I use, you use Behavious that you attach to Sprites. This is extremely fast, bc I just drop a drawing into the engine and assign it a Behaviour, add a little bit of code and the enemie is done.<br>
 <br>
 In theory at least.<br>
-Practically, spend the majority of the day making little red boxes move in different ways.<br>
+Practically, I spent the majority of the day making little red boxes move in different ways.<br>
 Some of the code is really, really bad and I am amazed that it works at all.<br>
 But it works.<br>
 <br>
@@ -58,30 +58,30 @@ It was a kind of space invader now, inevitably zoning in on the player. The slid
 <br>
 I think I should try to create more dynamics like this, that are not only about evading and killing, but also about time and space.<br>
 <br>
-Anyways, afrer all the enemies were done (for now!!) I hit a slump, took a break and then came back to look at the mess I had just made.<br>
+Anyways, after all the enemies were done (for now!!) I hit a slump, took a break and then came back to look at the mess I had just made.<br>
 <br>
 Because now I had 9 enemies, that I somehow had to distribute to 3 areas.<br>
 This is horrible, because this is a super important step and there are 10000 variables.<br>
 <br>
 After a short moment of desperation, I simply "mapped" the enemies.<br>
 Idk if there is a better phrase for that, but I divided them into groups that reflected their patterns of movement.<br>
-Flying enemies in one group, dashign enemies in the other, etc etc<br>
+Flying enemies in one group, dashing enemies in the other, etc etc<br>
 <br>
 This allowed me to better understand the pool of things I had to dsitribute.<br>
 I followed the rule of "no 2 enemies with the same pattern of movement in the same area" and for some miracolous reason that was possible! yay!<br>
 <br>
 Then I removed all the level generation code and focused on just making the enemies spawn in their respective levels and played the game a bunch.<br>
-It is far from perfect, but this first distribution kind of works and gives me a starting point, from which i can make changes towards a distribution of enemies that creates super intense & short runs.<br>
+It is far from perfect, but this first distribution kind of works and gives me a starting point, from which i can make changes towards a distribution of enemies that creates very intense, fair & short runs.<br>
 <br>
-so yeah that was my day. I think I worked more today than on any other day of this project so far. Today I have come close to scratching the actual 8 hour work day :O<br>
+so yeah that was my day. I think I worked more today than on any other day of this project so far. Today I came close to scratching the actual 8 hour work day :O<br>
 <br>
 Oh, I dont think I ever shared my development plan for this project!<br>
 Basically, i want to have the game finished with 100% functionality by the 9th of May, which is in 5 days.<br>
 After that I will still tweak some values and fix bugs and stuff like that, but I will not add any new mechanics or enemies!<br>
-Because then the grueling steam process starts, with all its forms and trailers and stuff.<br>
+I will add the art & sound effects & music and fight hordes of bugs. Also the grueling steam process has to start, with all its forms and trailers and despair and stuff.<br>
 <br>
 <br>
-I have been thinking a bit about how to market this game and came up with the term "finite roguelike". This game will have a definite ending and will not be a typical "endless" roguelike, but I can not talk about that here, bc its secret.<br>
+I have been thinking a bit about how to market this game and came up with the term "finite roguelike". This game will have a definite ending and will not be a typical "endless" roguelike, but I can not talk about that here, bc its secret :) <br>
 The friend that will do the art can start work on the 17th, which means that I will have to launch the steampage with my programmer art!<br>
 That actually pushes me in an interesting direction:<br>
 I could launch the steam page with (polished) programmer art and advertise the fact that the game is in develeopment right now!<br>
@@ -90,7 +90,7 @@ I could post these dlogs on the games steam page and interact with the people of
 Since the whole project is built to be developed very quickly, the gamers might find it interesting to see it progress!<br>
 <br>
 But yeah, thats it for today!<br>
-Tomorrow I think I will take it easier and only try to make some code that makes some cool rooms (and probably cheat a lot with the "random" room generation^^).<br>
+Tomorrow I think I will take it easier and only try to make some code that makes some cool rooms (and probably bend the meaning of the word "random" ^^).<br>
 
 Bye!<br>
 
