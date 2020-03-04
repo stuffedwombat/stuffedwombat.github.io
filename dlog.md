@@ -19,8 +19,9 @@ Today was good!<br>
 Instead of sprinting in the morning and the flaundering all day, I paced myself today.<br>
 <br>
 Two big things were done:<br>
-- I made 6 new enemies<br>
-- & assigned them into areas<br>
+    I made 6 new enemies<br>
+    & assigned them into areas<br>
+
 <br>
 the game consists of 3 areas, with 3 floors each.<br>
 In every area, there are 3 types of enemies.<br>
