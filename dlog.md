@@ -40,7 +40,7 @@ The dropper is now really fucking cool.<br>
 I am keeping todays dlog short because there were not too many interesting decisions today. I just worked :)<br>
 
 Right now i dont know what I will work on tomorrow.<br>
-Maybe i should try to get upgrades back in? I have the time i think & i also have some fun ideas :)<br>
+Maybe I will bring the upgrades back? I have the time to do it & also some fun ideas :)<br>
 
 Thats it for today tho!<br>
 Cheers!
