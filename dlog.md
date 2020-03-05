@@ -12,6 +12,41 @@ the post on top is the newest one. <br>
 you can not stop me.
 
 -----------------------------------------------------
+<h1>05.03.20 - Rooms, Art and polish</h1>
+yo yo yo yo yo yo yo yo yooooo!<br>
+<br>
+today I learned that the friend who was going to make the art can not do the art.<br>
+Thats ok!<br>
+So instead of starting with making the room generation code, I made some basic art assets and put them into the game, to get a sense of how much work that would be in the future.<br>
+<br>
+I got carried away a bit and juiced the player character!<br>
+<br>
+when i was halfway happy with that, I surprised myself by making the room generation code extremely quickly.<br>
+<br>
+It is basically cheating.<br>
+Every room is filled with tiles at the start of the level.<br>
+I have placed a bunch of sprites around the rooms and when the level is "loading" these move through the rooms and eat all tiles that they touch.<br>
+To keep it random, there is a 50% chanche that the sprite will selfdestruct before starting to move.<br>
+<br>
+With this easy code and handplaced sprites I can create a lot of different rooms.<br>
+<br>
+When I played the game with this code & the basic art in place I was blown away.<br>
+The game felt like a real game.<br>
+It felt like everything was coming together.<br>
+<br>
+While playing, one of my predictions came true!<br>
+I would find small ways to make the enemies more concrete over time!
+The dropper is now really fucking cool.<br>
+I am keeping todays dlog short because there were not too many interesting decisions today. I just worked :)<br>
+
+Right now i dont know what I will work on tomorrow.<br>
+Maybe i should try to get upgrades back in? I have the time i think & i also have some fun ideas :)<br>
+
+Thats it for today tho!<br>
+Cheers!
+
+
+-----------------------------------------------------
 <h1>04.03.20 - 6 new enemies</h1>
 heyo, thanks for reading this :)<br>
 <br>
