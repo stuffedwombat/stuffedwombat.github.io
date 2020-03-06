@@ -11,6 +11,24 @@ the post on top is the newest one. <br>
 "dlog" is a combination of "development" and "blog". <br>
 you can not stop me.
 
+
+-----------------------------------------------------
+<h1>06.03.20 - a little bit of work</h1>
+
+Today I wrote the directions for the soundscape.<br>
+The amazing Britt Brady (Gato Roboto) is going to help me with sfx and music and im very excited for what he will come up with!<br>
+<br>
+Then I added some blood particles and stuff like that and called it a day!<br>
+I had some other things (related to real life and [Secret Project]) to do today and will later indulge in a movie night with friends.<br>
+<br>
+Nice stuff like this is important if you dont want to go insane i think.<br>
+<br>
+but yeah, in the next 3 days I will need to add a lot of stuff to have a demo ready to show to the people that have been asking!<br>
+<br>
+Cheers!
+
+
+
 -----------------------------------------------------
 <h1>05.03.20 - Rooms, Art and polish</h1>
 yo yo yo yo yo yo yo yo yooooo!<br>
