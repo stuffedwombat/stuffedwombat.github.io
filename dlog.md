@@ -12,6 +12,76 @@ the post on top is the newest one. <br>
 you can not stop me.
 
 
+
+-----------------------------------------------------
+<h1>06.03.20 - small/big changes! </h1>
+
+Heyoooooo<br>
+<br>
+today was pretty great, game-wise!<br>
+<br>
+3 big things got done today<br>
+
+**Thing 1: Lives**
+People have been suggesting to make the character not die from 1 hit since I started this project.<br>
+In my mind, having zero margin of error makes the game more exciting, but I really have to keep reminding myself that this is not supposed to be a extremely hard game.<br>
+In fact, the combat is only a part of the whole thing!<br>
+So the game should be more accessible and forgiving.<br>
+The problem is, that coding "damage" to the player is annoying and boring. When the character gets hit it needs a invincibilty timeframe and some kockback and i dont like it for some reason.<br>
+But the game needs to be friendlier!<br>
+<br>
+Now I found a solution that works super nicely!<br>
+When you take damage, your character dies, but now you loose 1 Health Point and a new one character drops in from above immediately!<br>
+When you run out of HP you have to restart the run.<br>
+<br>
+That is pretty cool for multiple reasons:<br>
+1.) it allows the player to reposition themselves after being put into a corner.<br>
+2.) it feels quirky and weird and unusual.<br>
+3.) the players ammunition persists!<br>
+<br>
+Let me quickly talk about number 3:<br>
+when the player looses a health point, a new character is spawned. And that character brings new ammo into the room! So now there are two pieces of ammo that the player can pick up! By dying, you make the game easier! Its a negative feedback loop! So dope!
+<br>
+But this extra ammo does not come with you into the next level, so you should still try to not take damage, because while it makes things easier shortterm, long term you will run into problems!<br>
+<br>
+so that was pretty cool.<br>
+
+
+**thing 2: new artist & first song**
+A pixelartist whose work I adore has said that they have the time to do the art for this game!<br>
+I know now that I can make the art myself to an ok level, but having a pro artist on board is super dope!<br>
+Nobody on this project gets paid, so i really appreciate the people who asked to help out. there have been more people asking than the game needed, which is always kind of painful for me, having to tell people that someone else is already doing the thing :(<br>
+(everyone is getting rev share ofc if this thing ever makes any money)<br>
+<br>
+I also got to listen to the first draft of a song by Britt and wew... i looped it for 2 hours while coding.<br>
+Its very good.<br>
+I spent quite some time yesterday and today with writing directions for art and sound. That is always kind of fun :)<br>
+<br>
+
+**thing 3: Hubworld, items and achievements**
+Having to write about all the assets the game needs helped me to define what I actually, really needed myself.<br>
+The game now has a pretty hubworld with doors, some secret stuff, an achievement gallery and a item room, where you can equip items!<br>
+I decided to add the items because i did some quick tests and its really not a lot of work, but they add a lot of possibility for indiviudal expression?<br>
+<br>
+Oh and also pretty much everything in the game is hardcoded :)<br>
+It is all pretty clunky, but it works and I can change stuff very, very fast!<br>
+
+**Thing 4: Demo is done!**
+haha i lied, there are 4 cool things!<br>
+Two days before my deadline, the demo of the game is fully playable and working!<br>
+I will add some quality of life stuff & tweak it a bit tomorrow and then send it out :)<br>
+<br>
+<br>
+It has been almost a week since this project started and I am very, very happy with how things have been going.<br>
+<br>
+I guess I will write a summary / nostalgia post tomorrow :)<br>
+<br>
+
+Have a nice dayyyy!<br>
+
+
+
+
 -----------------------------------------------------
 <h1>06.03.20 - a little bit of work</h1>
 
