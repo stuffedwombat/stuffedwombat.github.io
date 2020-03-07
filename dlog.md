@@ -22,7 +22,7 @@ today was pretty great, game-wise!<br>
 <br>
 3 big things got done today<br>
 
-**Thing 1: Lives**
+**Thing 1: Lives**<br>
 People have been suggesting to make the character not die from 1 hit since I started this project.<br>
 In my mind, having zero margin of error makes the game more exciting, but I really have to keep reminding myself that this is not supposed to be a extremely hard game.<br>
 In fact, the combat is only a part of the whole thing!<br>
@@ -47,7 +47,7 @@ But this extra ammo does not come with you into the next level, so you should st
 so that was pretty cool.<br>
 
 
-**thing 2: new artist & first song**
+**thing 2: new artist & first song**<br>
 A pixelartist whose work I adore has said that they have the time to do the art for this game!<br>
 I know now that I can make the art myself to an ok level, but having a pro artist on board is super dope!<br>
 Nobody on this project gets paid, so i really appreciate the people who asked to help out. there have been more people asking than the game needed, which is always kind of painful for me, having to tell people that someone else is already doing the thing :(<br>
@@ -58,7 +58,7 @@ Its very good.<br>
 I spent quite some time yesterday and today with writing directions for art and sound. That is always kind of fun :)<br>
 <br>
 
-**thing 3: Hubworld, items and achievements**
+**thing 3: Hubworld, items and achievements**<br>
 Having to write about all the assets the game needs helped me to define what I actually, really needed myself.<br>
 The game now has a pretty hubworld with doors, some secret stuff, an achievement gallery and a item room, where you can equip items!<br>
 I decided to add the items because i did some quick tests and its really not a lot of work, but they add a lot of possibility for indiviudal expression?<br>
@@ -66,7 +66,7 @@ I decided to add the items because i did some quick tests and its really not a l
 Oh and also pretty much everything in the game is hardcoded :)<br>
 It is all pretty clunky, but it works and I can change stuff very, very fast!<br>
 
-**Thing 4: Demo is done!**
+**Thing 4: Demo is done!**<br>
 haha i lied, there are 4 cool things!<br>
 Two days before my deadline, the demo of the game is fully playable and working!<br>
 I will add some quality of life stuff & tweak it a bit tomorrow and then send it out :)<br>
