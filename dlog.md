@@ -12,6 +12,34 @@ the post on top is the newest one. <br>
 you can not stop me.
 
 
+-----------------------------------------------------
+<h1>06.03.20 - tired </h1>
+Helo!<br>
+<br>
+todays dlog is super short because I am tired!<br>
+
+I finished a demo version of the game and send it out.<br>
+<br>
+People played and generally liked it.<br>
+<br>
+Many of them had the same, fixable problems.<br>
+<br>
+The first test-art came in and its so great it hurts.<br>
+<br>
+I will make a big change to the characters movement set.<br>
+<br>
+The hats are a huge factor of enjoyment, especially compared to how easy they were to make.<br>
+<br>
+tomorrow I I will have been working on this game for 7 days.<br>
+I took a lot of breaks and met with friends and spent quality time outside, but I have not taken a full day off of this so far.<br>
+So i will do that tomorrow.<br>
+In the evening I will write a summary dlog of the first week and plan the next week, but not touch the game itself.<br>
+<br>
+Now i will watch the new Eizoken episode.<br>
+Tomorrow more about that :)<br>
+<br>
+Cheers
+
 
 -----------------------------------------------------
 <h1>06.03.20 - small/big changes! </h1>
