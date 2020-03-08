@@ -13,7 +13,7 @@ you can not stop me.
 
 
 -----------------------------------------------------
-<h1>06.03.20 - tired </h1>
+<h1>08.03.20 - tired </h1>
 Helo!<br>
 <br>
 todays dlog is super short because I am tired!<br>
@@ -42,7 +42,7 @@ Cheers
 
 
 -----------------------------------------------------
-<h1>06.03.20 - small/big changes! </h1>
+<h1>07.03.20 - small/big changes! </h1>
 
 Heyoooooo<br>
 <br>
