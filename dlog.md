@@ -19,23 +19,23 @@ Yo yo yo!<br>
 Exactly one week ago I started to work on this game.<br>
 A lot has happened in that time and I have been extremely productive, while never working more than 8 hours / day.<br>
 <br>
-So, to recap:<br>
-This project started as a physics driven platforming shooter prototype.<br>
-I found that I could use it to express something very specific.<br>
-But the main player experience would be one of action platforming rogueliking. (having the lofty goal of expression in the back of my head helped to make decisions about the gameplay)<br>
-I removed all the physics stuff to make it easier to code and tweak (crucial decisions that paid off a lot).<br>
-I made some basic enemies and quickly moved on to define the core gameplay loop (which has not changed since then).<br>
-I cut upgrades and fancy extra stuff to get the basics done quickly.(saved a lot of time)<br>
-I made a lot more enemies and defined the overall scope of the project (has not gotten bigger since)<br>
-I tweaked and sorted the enemies into groups to get a better feel for difficulty progression.<br>
-I did some basic art to make it look decent & added a little bit of juice (gives an important impression of how the game will feel when done)<br>
-I simplified the control scheme by removing shooting upwards (makes the game focus more on movement and less on pressing the correct button combination)<br>
-I had enough time to add upgrades back into the game (but now the core was very defined and i could judge the impact of the upgrades well)<br>
-I found amazing collaborateurs who make the game trice as good through their skill.(big motivation boosts that can not be understated)<br>
-After one week of never letting anyone play, I sent a demo out to a few friends (they all had similar problems but enjoyed it overall).<br>
-I made one pretty big change to the game based on feedback and it works very well (you can now slow your falling by holding the jump key)<br>
+So, to recap:<br><br>
+This project started as a physics driven platforming shooter prototype.<br><br>
+I found that I could use it to express something very specific.<br><br>
+But the main player experience would be one of action platforming rogueliking. (having the lofty goal of expression in the back of my head helped to make decisions about the gameplay)<br><br>
+I removed all the physics stuff to make it easier to code and tweak (crucial decisions that paid off a lot).<br><br>
+I made some basic enemies and quickly moved on to define the core gameplay loop (which has not changed since then).<br><br>
+I cut upgrades and fancy extra stuff to get the basics done quickly.(saved a lot of time)<br><br>
+I made a lot more enemies and defined the overall scope of the project (has not gotten bigger since)<br><br>
+I tweaked and sorted the enemies into groups to get a better feel for difficulty progression.<br><br>
+I did some basic art to make it look decent & added a little bit of juice (gives an important impression of how the game will feel when done)<br><br>
+I simplified the control scheme by removing shooting upwards (makes the game focus more on movement and less on pressing the correct button combination)<br><br>
+I had enough time to add upgrades back into the game (but now the core was very defined and i could judge the impact of the upgrades well)<br><br>
+I found amazing collaborateurs who make the game trice as good through their skill.(big motivation boosts that can not be understated)<br><br>
+After one week of never letting anyone play, I sent a demo out to a few friends (they all had similar problems but enjoyed it overall).<br><br>
+I made one pretty big change to the game based on feedback and it works very well (you can now slow your falling by holding the jump key)<br><br>
 I added the first bunch of sound effects and it makes the game feel 200% better.<br>
-<br>
+<br><br>
 <br>
 so... this is pretty unusual for me.<br>
 Normally I abandon projects after a day or two.<br>
