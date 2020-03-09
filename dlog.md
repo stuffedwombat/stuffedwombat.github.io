@@ -11,6 +11,67 @@ the post on top is the newest one. <br>
 "dlog" is a combination of "development" and "blog". <br>
 you can not stop me.
 
+-----------------------------------------------------
+<h1>08.03.20 - Big 1 week of dev recap </h1>
+
+Yo yo yo!<br>
+<br>
+Exactly one week ago I started to work on this game.<br>
+A lot has happened in that time and I have been extremely productive, while never working more than 8 hours / day.<br>
+<br>
+So, to recap:<br>
+This project started as a physics driven platforming shooter prototype.<br>
+I found that I could use it to express something very specific.<br>
+But the main player experience would be one of action platforming rogueliking. (having the lofty goal of expression in the back of my head helped to make decisions about the gameplay)<br>
+I removed all the physics stuff to make it easier to code and tweak (crucial decisions that paid off a lot).<br>
+I made some basic enemies and quickly moved on to define the core gameplay loop (which has not changed since then).<br>
+I cut upgrades and fancy extra stuff to get the basics done quickly.(saved a lot of time)<br>
+I made a lot more enemies and defined the overall scope of the project (has not gotten bigger since)<br>
+I tweaked and sorted the enemies into groups to get a better feel for difficulty progression.<br>
+I did some basic art to make it look decent & added a little bit of juice (gives an important impression of how the game will feel when done)<br>
+I simplified the control scheme by removing shooting upwards (makes the game focus more on movement and less on pressing the correct button combination)<br>
+I had enough time to add upgrades back into the game (but now the core was very defined and i could judge the impact of the upgrades well)<br>
+I found amazing collaborateurs who make the game trice as good through their skill.(big motivation boosts that can not be understated)<br>
+After one week of never letting anyone play, I sent a demo out to a few friends (they all had similar problems but enjoyed it overall).<br>
+I made one pretty big change to the game based on feedback and it works very well (you can now slow your falling by holding the jump key)<br>
+I added the first bunch of sound effects and it makes the game feel 200% better.<br>
+<br>
+<br>
+so... this is pretty unusual for me.<br>
+Normally I abandon projects after a day or two.<br>
+Whats different now?<br>
+Here are my attempts at defining why development is going so well:<br>
+<br>
+I stopped eating like absolute shit and started to do daily little walks outside.<br>
+I planned and had some quality time with friends.<br>
+Through chanche the two people I work with on the game had time & motivation to do that.<br>
+After slowly working on the [Secret Project] demo for over half a year, I have more lenght of breath.<br>
+I am taking my first vacation from my dayjob since I started working there and it feels amazing.<br>
+but most importantly:<br>
+<br>
+I know exactly what I want this game to be.<br>
+<br>
+I do not know if it will turn out exactly like i want it to turn out.<br>
+But I have a very clear vision of what it should be.<br>
+the game is basically split up into two parts:<br>
+The one that contains what I want to express and the other one, which is all that most players will see.<br>
+And its ok if not everyone sees the thing I want to express, because I am confident in the action roguelike part to stand on its own feet, but I was only able to focus on that because I knew that for me, personally, the important part was somehwere else. So i was pretty relaxed about the development of the action part, which I think plays a huge part in my ability to work on it consitently.<br>
+
+<br>
+I also have little delusions about the games success. It will probably be swallowed by steam and thats perfectly ok.<br>
+Over the years I have always expected greatness from me, but recently I have been able to be more forgiving and appreciative of my work and that has made this week one of the most enjoyable times I have had with videogame development since I started making games :)<br>
+<br>
+Now my tasks will mainly focus on tweaking and implementing SFX, Music and art.<br>
+There is also a steampage to setup and a trailer to be made.<br>
+<br>
+I will stop posting gifs of the game on twitter after today, because I want the announcement trailer to be as big a surprise as possible.<br>
+Its gonna be an interesting week.<br>
+Thanks for following this project! I wish you a nice day!
+<br>
+cheers,<br>
+josh
+
+
 
 -----------------------------------------------------
 <h1>08.03.20 - tired </h1>
@@ -81,7 +142,7 @@ I know now that I can make the art myself to an ok level, but having a pro artis
 Nobody on this project gets paid, so i really appreciate the people who asked to help out. there have been more people asking than the game needed, which is always kind of painful for me, having to tell people that someone else is already doing the thing :(<br>
 (everyone is getting rev share ofc if this thing ever makes any money)<br>
 <br>
-I also got to listen to the first draft of a song by Britt and wew... i looped it for 2 hours while coding.<br>
+I also got to listen to the first draft of a song by MR.X and wew... i looped it for 2 hours while coding.<br>
 Its very good.<br>
 I spent quite some time yesterday and today with writing directions for art and sound. That is always kind of fun :)<br>
 <br>
@@ -114,7 +175,7 @@ Have a nice dayyyy!<br>
 <h1>06.03.20 - a little bit of work</h1>
 
 Today I wrote the directions for the soundscape.<br>
-The amazing Britt Brady (Gato Roboto) is going to help me with sfx and music and im very excited for what he will come up with!<br>
+The amazing Mr.X is going to help me with sfx and music and im very excited for what he will come up with!<br>
 <br>
 Then I added some blood particles and stuff like that and called it a day!<br>
 I had some other things (related to real life and [Secret Project]) to do today and will later indulge in a movie night with friends.<br>
