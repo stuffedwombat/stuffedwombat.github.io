@@ -12,6 +12,34 @@ the post on top is the newest one. <br>
 you can not stop me.
 
 -----------------------------------------------------
+<h1>18.03.20 - the last dlog </h1>
+
+wew<br>
+<br>
+So, obviously, the experiment with the dlogs has failed.<br>
+After the prototyping phase was done, i got so wrapped up in production that I had no time for documenting.<br>
+<br>
+the development on the game itself has been going very well.<br>
+I have hit some emotional snags on the way but managed to overcome them after feeling sorry for myself for only a few hours, not months like usual.<br>
+<br>
+The games steampage will go live either today or tomorrow if nothing goes wrong.<br>
+To try to please the mighty algorythm, i will post a more consumer friendly version of these dlogs there.<br>
+<br>
+I am very excited and very anxious about this whole venture.<br>
+If it actually sells enough units, I do not have to go and look for a shitty job in what appears to become a global recession.<br>
+<br>
+During the excitement of the last weeks I thought that this economic success was inevitable, but I have reality checked myself in recent days and am trying to be realistic without sliding into pessimism.<br>
+It is a pretty nice game in my opinion.<br> It definitly looks and sounds great, because of Franek and Britt Brady.<br>
+Now it is up to me to finish and sell this thing.<br>
+<br>
+We will see what happens.<br>
+Thanks for reading along :)<br>
+<br>
+Cheers,<br>
+josh
+
+
+-----------------------------------------------------
 <h1>08.03.20 - Big 1 week of dev recap </h1>
 
 Yo yo yo!<br>
