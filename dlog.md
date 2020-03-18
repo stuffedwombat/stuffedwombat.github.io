@@ -1,13 +1,11 @@
 [back](index) <br>
 
 <h1>Dlog</h1>
-this is a test.<br>
-i am documenting the development of a game here.<br>
-if that does not distract me too much, i will keep writing about game dev related stuff.<br>
+this used to be a test about documention the development of a videogame through daily texts.<br>
 <br>
-to save time i will not care about spelling, grammar or making too much sense.
+Development got too exhausting and i stopped.<br>
+The game is cool tho.<br>
 <br>
-the post on top is the newest one. <br>
 "dlog" is a combination of "development" and "blog". <br>
 you can not stop me.
 
