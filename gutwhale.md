@@ -4,11 +4,18 @@
 <br>
 Gutwhale is a finite roguelite about managing the space between you and your ammo, while fighting your way through a digestive system!<br>
 <br>
+[Check out our Steampage](https://store.steampowered.com/app/1267810/Gutwhale)
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YjufZWGwUo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
+
+<h2>Hard Info</h2>
+Name: Gutwhale<br>
+Release: 6th April 2020<br>
+Platforms: Steam (Windows), more planned<br>
+Gut: Whale<br>
 
 <h2>How Gutwhale came to be</h2>
 <br><br>
