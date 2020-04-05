@@ -11,20 +11,20 @@ Gutwhale is a finite roguelite about managing the space between you and your amm
 <br>
 
 <h2>How Gutwhale came to be</h2>
-<br>
-Gutwhale exists only because of the Corona Virus. After being forced to use up my vacattion days, I was fired from my job as a receptionist. They said that they would rehire me, but they can not be trusted.
-<br>
+<br><br>
+Gutwhale exists only because of the Corona Virus. After being forced to use up my vacattion days, I was fired from my job as a receptionist. 
+<br><br>
 After making small webgames, prototypes and gifs for the last five years, I thought that this was the perfect opportunity to try and quickly make a small commercial game.
-<br>
-When the protoype of Gutwhale showed promise, Britt Brady (Gato Roboto) & Franek joined the project. I know them both only through the internet and we made the game while practicing heavy social distancing, as each of us is on a different continent right now.
-<br>
+<br><br>
+When the protoype of Gutwhale showed promise, [Britt Brady](https://twitter.com/Britt_t_Brady) & [Franek](https://twitter.com/Franrekkk) joined the project. I know them both only through the internet and we made the game while practicing heavy social distancing, as each of us is on a different continent right now.
+<br><br>
 Development of Gutwhale went surprisingly smooth. The quality of my collaborateurs work helped me to push through and finish Gutwhale 5 weeks after I started.
-<br>
+<br><br>
 We are very proud of what we accomplished and are really looking forward to seeing how the game is recieved!
-<br>
+<br><br>
 If you have any questions, please do not hesitate to contact me at <br>
   thestuffedwombat [at] gmail.com
-  
+  <br><br>
 
 <h2>Screenshots</h2>
   
