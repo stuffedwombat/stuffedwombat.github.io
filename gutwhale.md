@@ -4,8 +4,6 @@
 <br>
 Gutwhale is a finite roguelite about managing the space between you and your ammo, while fighting your way through a digestive system!<br>
 <br>
-<a href="https://www.youtube.com/embed/YjufZWGwUo8" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YjufZWGwUo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
