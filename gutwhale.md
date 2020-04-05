@@ -4,10 +4,30 @@
 <br>
 Gutwhale is a finite roguelite about managing the space between you and your ammo, while fighting your way through a digestive system!<br>
 <br>
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YjufZWGwUo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
 
+<h2>How Gutwhale came to be</h2>
+<br>
+Gutwhale exists only because of the Corona Virus. After being forced to use up my vacattion days, I was fired from my job as a receptionist. They said that they would rehire me, but they can not be trusted.
+<br>
+After making small webgames, prototypes and gifs for the last five years, I thought that this was the perfect opportunity to try and quickly make a small commercial game.
+<br>
+When the protoype of Gutwhale showed promise, Britt Brady (Gato Roboto) & Franek joined the project. I know them both only through the internet and we made the game while practicing heavy social distancing, as each of us is on a different continent right now.
+<br>
+Development of Gutwhale went surprisingly smooth. The quality of my collaborateurs work helped me to push through and finish Gutwhale 5 weeks after I started.
+<br>
+We are very proud of what we accomplished and are really looking forward to seeing how the game is recieved!
+<br>
+If you have any questions, please do not hesitate to contact me at <br>
+  thestuffedwombat [at] gmail.com
+  
 
+<h2>Screenshots</h2>
+  
 ![alt text](https://i.imgur.com/fDSbNGW.png "Lobby_Hat_Selection")
 
 ![alt text](https://i.imgur.com/T2ABBD5.png "Nightmare_Level")
