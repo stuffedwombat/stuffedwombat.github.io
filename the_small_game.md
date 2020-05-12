@@ -12,7 +12,7 @@ The small game is accessible. It does not require specific knowledge or the abil
 
 The small game wants to talk about something. It is here not only to entertain, but also to express something dear to its heart.
 
-The small game treats all of its parts as tools of expression. Mechanics change over time, assets are not only there to be pretty and audio can do more than supporting a mood.
+The small game treats all of its parts as tools of expression. Mechanics change over time, assets are not only there to be pretty and audio can do more than support a mood.
 
 The small game is made on a low budget. It can not compete with big games in terms of production value. It explores new ground instead of polishing old paths.
 
