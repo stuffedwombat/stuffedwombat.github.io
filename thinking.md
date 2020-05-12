@@ -1,5 +1,7 @@
 [back](index)
 
+[the small game](smallgame)
+
 [Good Game Design](good_game_design)
 
 [The three ways of designing games](threeways)
