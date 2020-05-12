@@ -1,8 +1,6 @@
 [back](thinking) <br>
 
-
-<h1>The small game</h1>
-
+[<img src="https://i.imgur.com/3wOWCDv.png">]
 
 The small game is short. It can be played through in around 2 hours. Players are aware of this. They specifically seek out small games to get concrete experiences.
 
