@@ -129,4 +129,6 @@ When i did not know what I wanted express through the games I make, when i just 
 They are still able to teach me and to challenge me, but in the end, they are also keeping me from moving towards, to where I want to go, to do what I want to create.<br>
 Deadlines keep me from really reflecting and looking at myself. They keep me from thinking about what i want to express through my work and they keep me from then actually saying that.<br>
 
+[Gutwhale´s Steampage](https://store.steampowered.com/app/1267810/Gutwhale/)
+
 [back](thinking) 
