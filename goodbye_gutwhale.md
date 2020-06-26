@@ -76,12 +76,13 @@ For people with little to no platformer roguelike experience, it is extremely ha
 For people who played downwell and gonner, it is a piece of cake and they can 100% the game in around 20 minutes. There is an endless nightmare mode, but it did not have an engaging highscore system, so the best players of Gutwhale quickly got bored.<br>
 <br>
 The save system of Gutwhale had horrible bugs and there were technical problems all over the place, prohibitung us from implementing Achievements and updating the game easily.<br>
+We used Construct 2, an engine that is no longer supported by its developers in favour of Construct 3. This made it impossible to add Steam Achievements and created some other technical problems.
 <br>
 And these problems are just that: <br>
 Problems. <br>
 <br>
-They exist because we rushed through development at an insane speed and I can forgive myself for making them, because i was actually focusing on this one secret thing at the end.
-<br>
+They exist because we rushed through development at an insane speed and I can forgive myself for making them, because I was actually focusing on this one secret thing at the end.
+<br><br>
 **BUT**
 <br>
 The part of the game that is most important to me, the ending, is also not working as intended. I was unable to clearly communicate what I wanted to communicate. 
@@ -97,8 +98,11 @@ At least it feels like that to me now.<br>
 
 Gutwhale was a success overall: <br> 
 - It made me more money than I would have earned at my previous job, but not nearly enough to not have to go back to that job in 7 days.<br>
+
 - It may make substantially more money on consoles or in bundles in the future.
+
 - It gave me a better understanding of how to sell stuff on steam.
+
 - and last but defenitly not least, I got to work with Franek, Britt Brady and Clovelt who have thaught me a lot and are amazing people.
 <br>
 
@@ -108,7 +112,7 @@ Finishing games is hard. <br>
 Really hard. <br>
 As a way to deal with this, a series of game jams has been created, where speed is key and the end product is only as important as the fact that it got finished.<br>
 We have seen amazing games made in insanely short times and countless people have been able to dabble in game dev because of the contained nature of game jams.<br>
-<br>
+<br><br>
 **BUT**
 <br>
 Applying this need for speed to bigger projects creates dynamics that should not be confused with efficiency and skill.<br>
