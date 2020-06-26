@@ -1,4 +1,8 @@
 [back](index) <br>
+<br>
+[postmortem](stuffedwombat.at/goodbye_gutwhale)
+<br>
+
 
 <h1>Gutwhale</h1>
 <br>
