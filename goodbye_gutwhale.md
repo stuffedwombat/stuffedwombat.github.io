@@ -6,47 +6,51 @@ Finally, almost 3 months after it released, I can stop thinking about Gutwhale.<
 content:
 - the endles gamejam
 - the call to action
-- 
+- the important thing
+- the power of deadlines
+- the cost of deadlines
+- the nice things
+- conclusion
 
 <h1>Goodbye Gutwhale</h1>
 
 <h2>the endless gamejam</h2>
 
-A few years ago all i did was gamejams.<br> 
-Gamejams are essentially deadlines forcing you finish something. <br>
-In addition to the normal Jams, I did a lot of short jams alone where i would sit down and give myself 30 minutes to make a prototype.<br>
-Many of the gifs I post on twitter are the results of these short solo jams.<br> 
+A few years ago I only did gamejams.<br> 
+Gamejams are essentially deadlines, forcing you finish something. <br>
+I also did a lot of short jams alone, where i would sit down and give myself 30 minutes to make a prototype.<br>
+Many of the gifs I post on twitter are the results of these solo jams.<br> 
 <br>
-This helped me to learn to code and to design and to schedule, but over time I found that simply making stuff was not enough anymore.<br>
-What i really love is doing something new. <br>
+This helped me to learn to code and to design and to schedule, but over time I found that simply making stuff was not enough anymore.<br><br>
+What I really love is doing something new. <br>
 Something that has not existed before.<br>
 Finding a new angle on an old problem brings me an intense, deep joy that is really hard to describe.<br>
 <br>
 There is a lot of unexplored space in games and what I am currently really interested in is **expression**:<br>
-How do I tell a story through a game? <br
-How do I communicate how I feel through videogames? <br>
+How do I tell a story through a game? <br><br>
+How do I communicate how I feel through videogames? <br><br>
 Its really hard and kind of stupid, considering that videogames are all about endless repetition in closed systems, but its what i want to explore right now.<br>
-<br>
-And I explored it at my own pace while working as a receptionist, making games like Up in the sky and every wall.
+<br><br>
+And I explored it at my own pace while working as a receptionist, making games like [Up in the sky](https://www.google.com) and [Every Wall](https://www.google.com).
 <br>
 
-<h2>hidden stuff</h2>
+<h2>the important thing</h2> 
 There is a game developer called [miziziziz](https://twitter.com/miziziziz), one of the few who makes watchable youtube videos, 
 who made a commercial game called [Theyes Thou](https://store.steampowered.com/app/1232330/Theyest_Thou) in one month.<br>
 <br>
 When I lost my job as a receptionist because of the coronavirus, I decided to steal that idea.<br>
 Since I am not overly interested in traditional FUN game design, I needed to make something that felt new to me. <br>
-I needed to make a game that actually said something about the world we move through everyday. Just making a entertainment box would have been too boring and unfocused. <br>
+I needed to make a game that actually said something about the world we move through everyday. Just making an entertainment box would have been too boring and unfocused. <br>
 <br>
-But since I was unemployed, I felt like I needed to make something that at least had a shot at commercial viability. One month is not a lot of time, but I needed to come up with something that people would also want to pay for.
+But since I was unemployed I felt like I needed to make something that at least had a shot at commercial viability. One month is not a lot of time, but I needed to come up with something that people would also want to pay for.
 <br>
-The roguelike that we made contains a short section at the end where I try to actually say something, where I try to express myself. This part of the game was important to me, the rest was just decorations. <br>
+The roguelike we ended up making contains a short section at the end where I try to actually say something, where I try to express myself. This part of the game was important to me, the rest was just decorations. <br>
 I wanted people to buy the game because it looked like a nice little roguelike, and then, in the end, I wanted them to engage with this secret part of the game that was actually important to me. <br>
 <br>
 And I had one month to make that real.<br>
 
 <h2>the power of deadlines</h2>
-Gutwhale is a product of the deadline.<br> 
+Gutwhale is a product of its deadline.<br> 
 All of it was made in the easiest way possible. The code is a mess of course, but I want to talk more about the decisions, forced upon us by the deadline, that permeate the whole project:<br>
 
 - Gutwhale is only called Gutwhale because the project needed an artist.
@@ -89,7 +93,7 @@ And that part did not work. It did not resonate. <br>
 At least it feels like that to me now.<br>
 <br>
 
-<h2>Success</h2>
+<h2>the nice things</h2>
 
 Gutwhale was a success overall: <br> 
 - It made me more money than I would have earned at my previous job, but not nearly enough to not have to go back to that job in 7 days.<br>
@@ -98,7 +102,7 @@ Gutwhale was a success overall: <br>
 - and last but defenitly not least, I got to work with Franek, Britt Brady and Clovelt who have thaught me a lot and are amazing people.
 <br>
 
-<h2>Conclusion</h2>
+<h2>conclusion</h2>
 
 Finishing games is hard. <br>
 Really hard. <br>
