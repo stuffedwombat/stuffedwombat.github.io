@@ -1,9 +1,9 @@
 [back](thinking) 
 
-Finally, almost 3 months after it released, I can stop thinking about Gutwhale.<br>
+Finally, almost 3 months after it released, I can stop thinking about Gutwhale.<br><br>
 *This is the edited script of a talk I gave for the Game Dev Days 2020.*
 
-content:
+**Content**
 - the endles gamejam
 - the call to action
 - the important thing
@@ -86,7 +86,7 @@ Problems. <br>
 They exist because we rushed through development at an insane speed and I can forgive myself for making them, because I was actually focusing on this one secret thing at the end.
 <br><br>
 **BUT**
-<br>
+<br><br>
 The part of the game that is most important to me, the ending, is also not working as intended. I was unable to clearly communicate what I wanted to communicate. 
 <br>
 There was not enough time to conduct long term playtests and interview players about how they perceived the ending.<br>
@@ -116,7 +116,7 @@ As a way to deal with this, a series of game jams has been created, where speed 
 We have seen amazing games made in insanely short times and countless people have been able to dabble in game dev because of the contained nature of game jams.<br>
 <br><br>
 **BUT**
-<br>
+<br><br>
 Applying this need for speed to bigger projects creates dynamics that should not be confused with efficiency and skill.<br>
 <br>
 The core part of Gutwhale, the one thing I was truly interested in, withered and died because of the deadline, because we were so wrapped up in getting the game done. <br>
