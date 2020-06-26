@@ -60,9 +60,11 @@ All of it was made in the easiest way possible. The code is a mess of course, bu
 - Gutwhale used to take place on a single screen, because then I would not have to write a camera system. When it turned out that a single screen was pretty boring, we just glued multiple single screens together and make the floor break once all enemies were defeated. The core loop of Gutwhale was born out of not wanting to code a camera system.
 <br>
 
-- The small size of the Levels themselves helped me in a lot of ways. The level generation code does not need to consider unreachable platforms and could be hacked together violently. Because there is so little space to move around in, enemies become more dangerous and I needed to code less of them to fill the game.
-<br>
-<br>
+- The small size of the Levels themselves helped me in a lot of ways. The level generation code does not need to consider unreachable platforms and could be hacked together violently. Because there is so little space to move around in, enemies become more dangerous and I needed to code less of them to fill the game.<br>
+
+
+
+
 The deadline forced me to think quickly and to design dirtily, accidentally disovering some pretty neat things.<br>
 It certainly has also hurt the game in a lot of ways.
 <br>
