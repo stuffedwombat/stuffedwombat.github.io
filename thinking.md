@@ -1,5 +1,7 @@
 [back](index)
 
+[shorther games](shorter_games)
+
 [goodbye gutwhale](goodbye_gutwhale)
 
 [the small game](the_small_game)
