@@ -54,10 +54,12 @@ Can we make games that are covering more parts of a story than the action bits, 
 We can, I am sure of it. <br>
 But the market does not demand games like that. The market demands more of what it knows, which is repetitive and long and that is okay.<br>
 <br>
+This is not about taking something away from those who rely on it too much.<br>
+This is about adding something.<br>
+<br>
 When I ask for shorter games, I do not ask for scaled down version of well established patterns. <br>
 <br>
 I ask for games that resist the pull of the infinite experience.<br>
-I ask for games that have different modes of engagement.<br>
 I ask for games that inhabit more than one perspective<br>
 I ask for games that show me something new and then… end.<br>
 <br>
