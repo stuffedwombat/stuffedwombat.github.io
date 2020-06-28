@@ -1,4 +1,4 @@
-[back](thinking) <br>
+[back](thinking) <br><br>
 Our timelines are one again filling up with *discourse*. <br>
 This time it is about the length of video games again.<br>
 <br>
