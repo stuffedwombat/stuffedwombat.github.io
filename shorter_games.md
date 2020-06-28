@@ -1,3 +1,4 @@
+[back](thinking) <br>
 Our timelines are one again filling up with **discourse**. <br>
 This time it is about the length of video games again.<br>
 <br>
@@ -57,9 +58,9 @@ When I ask for shorter games, I do not ask for scaled down version of well estab
 I ask for games that resist the pull of the infinite experience.<br>
 I ask for games that actually engage with a topic through their mechanics and systems.<br>
 I ask for games that show me something new and then… end.<br>
-
-
-
+<br>
+<br>
+[back](thinking)
 
 
 
