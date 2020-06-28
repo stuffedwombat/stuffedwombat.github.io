@@ -1,6 +1,5 @@
 [back](thinking) <br><br>
-Our timelines are one again filling up with *discourse*. <br>
-This time it is about the length of video games again.<br>
+Our timelines are, once again, filling up with *discourse*. <br>
 <br>
 
 <h1>Shorter video games</h1>
