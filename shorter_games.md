@@ -58,7 +58,8 @@ But the market does not demand games like that. The market demands more of what 
 When I ask for shorter games, I do not ask for scaled down version of well established patterns. <br>
 <br>
 I ask for games that resist the pull of the infinite experience.<br>
-I ask for games that actually engage with a topic through their mechanics and systems.<br>
+I ask for games that have different modes of engagement.<br>
+I ask for games that inhabit more than one perspective<br>
 I ask for games that show me something new and then… end.<br>
 <br>
 <br>
