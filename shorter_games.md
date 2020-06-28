@@ -31,7 +31,7 @@ The result is the history of video games:<br>
 Jump one million times, shoot one million times, catch one million fish.<br>
 <br>
 Of course, at some point you get different things to jump off of, different things to shoot at and
-at some point you may even catch a different fish, but you are always doing the same things,
+at some point you might even catch a different fish, but you are always doing the same things,
 over and over again, either forever or until you stop playing.
 <br><br>
 As a player, I do not mind long or infinite games.<br>
