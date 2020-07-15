@@ -13,7 +13,7 @@ The moment when you sigh and kind of mentally slump because you see a level that
 <br><br><br>
 
 **Hoperation**<br><br>
-A hard, self-imposed challenge made with available game objects. Players committ to completing it, hoping that the developers have anticipated this and that their voluntary efforts will be acknowledged.
+A hard, self-imposed challenge made with available game objects. Players commit to completing it, hoping that the developers have anticipated this and that their voluntary efforts will be acknowledged.
 <br><br>*I went on this insane hoperation where I only walked backwards and i found a secret ending! The developers love me!*
 <br><br><br>
 
