@@ -69,7 +69,7 @@ Mentioning or directly referencing other media in the hopes of getting compared 
 
 **Protothyroid**<br><br>
 Mental unwellness coming from only prototyping and never finishing anything, endlessly cycling over the same part of game development, not learning anything substantially new.
-<br><br>I developed protothyroid, so i just took a break and had some real life experiences and now I am feeling okay again.*
+<br><br>*I developed protothyroid, so i just took a break and had some real life experiences and now I am feeling okay again.*
 <br><br><br>
 
 **Amalgamechanicamour**<br><br>
