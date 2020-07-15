@@ -30,6 +30,7 @@ A story that was reverse engineered out of the games mechanics.
 **Gificating**<br><br>
 Changing aspects of or adding elements to your game for the sole purpose of making cooler gifs for social media.
 <br><br>*We wasted a whole week with gificating and we still do not know what our core mechanic is*<br>
+<br><br><br>
 
 **Herohno**<br><br>
 The moment in which you realise that the developer you admired and aspired to emulate is currently broke, frustrated and creatively stuck.
