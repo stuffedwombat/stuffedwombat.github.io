@@ -74,16 +74,18 @@ Mental unwellness coming from only prototyping and never finishing anything, end
 
 **Amalgamechanicamour**<br><br>
 The developers overwhelming desire to assigned as many uses as possible to a single mechanic without regard for player experience, in order to feel “design smart”
-<br>*All the games by this dev are Amalgamechanicamourous and kind of impossible to understand.*
+<br><br>*All the games by this dev are Amalgamechanicamourous and kind of impossible to understand.*
+<br><br><br>
 
 **Viranxiety**<br><br>
 The dread that comes from having a gif of a prototype going viral and then realising that the prototype is impossible to realise with your current skillset and/or has fundamental design flaws, while also feeling like you have to keep working on it because of the extremely positive response.
 <br><br>*After it got frontpaged on reddit, the viranxiety became unbearable.*
+<br><br><br> 
 
 **Theorelief**<br><br>
 The satisfaction and feeling of accomplishment after finally having read  game design theory again and feeling like your horizon has been widened.
 <br><br>*I wish i was addicted to theorelief instead of twitter.*
-
+<br><br><br>
 
 **Proxorbtion**<br><br>
 The belief that one can absorb useful information from talks by having them running constantly in the background while one works on games.
