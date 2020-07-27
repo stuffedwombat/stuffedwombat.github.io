@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>qomp</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<section class="featured-content">
+  <div class="feature">
+    <div class="feature-inner">
+      <div class="feature-copy">
+        <div class="logo"></div>
+        <h2 class="coming">COMING SOON</h2>
+        <div class="lazy-youtube" data-embed="mthwElLkAA8">
+          <div class="play-button"></div>
+        </div>
+        <ul class="nav">
+          <li><a href="#s0">What?</a></li>
+          <li><a href="#s1">Features</a></li>
+          <li><a href="#s2">About</a></li>
+        </ul>
+        <h2 class="wishlist">WISHLIST NOW!</h2>
+        <ul class="icons">
+          <li><a href="twitter.com/wombatstuff">@wombatstuff</a></li>
+          <li><a href="twitter.com/mirokoBG">@mirokoBG</a></li>
+          <li><a href="twitter.com/Britt_t_Brady">@Britt_t_Brady</a></li>
+          <li><a href="twitter.com/Clovelt">@Clovelt</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="feature" id="s0">
+    <div class="feature-inner">
+      <div class="feature-copy">
+        <h2 class="feature-headline">qomp</h2>
+        <h3 class="feature-subheadline">is a short game about freedom</h3>
+        <p class="feature-text">Coming to <a href="#">Steam</a> in 2020 <br>Mobile & Consoles planned but not promised.</p>
+      </div>
+      <div class="feature-image-container">
+        <ul class="accordion">
+          <li> <img src="https://gustavochico.com/img/etc/1.png"/></li>
+          <li> <img src="https://gustavochico.com/img/etc/2.png"/></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="feature" id="s1">
+    <div class="feature-inner">
+      <div class="feature-copy">
+        <h2 class="feature-headline" style="color:var(--white);">FEATURES</h2>
+        <li style="list-style-type: none;">
+          <p class="feature-text" style="line-height: 1.3;color:var(--white);">-An intense tale about the forgotten world behind the paddle</p>
+        </li>
+        <li style="list-style-type: none;">
+          <p class="feature-text" style="line-height: 1.3;color:var(--white);">-Unique one button controls</p>
+        </li>
+        <li style="list-style-type: none;">
+          <p class="feature-text" style="line-height: 1.3;color:var(--white);">-A meditation on freedom in 3 parts</p>
+        </li>
+        <li style="list-style-type: none;">
+          <p class="feature-text" style="line-height: 1.3;color:var(--white);">-A plethora of surprising mechanics and intriguing obstacles</p>
+        </li>
+        <li style="list-style-type: none;">
+          <p class="feature-text" style="line-height: 1.3;color:var(--white);">-Branching paths and hidden doors</p>
+        </li>
+        <li style="list-style-type: none;">
+          <p class="feature-text" style="line-height: 1.3;color:var(--white);">-Bossfights</p>
+        </li>
+        <li style="list-style-type: none;">
+          <p class="feature-text" style="line-height: 1.3;color:var(--white);">-Freedom?</p>
+        </li>
+      </div>
+      <div class="feature-image-container"><img class="feature-image" src="https://gustavochico.com/img/etc/pomgLoop.gif" alt="Arc Rae cassette tape"/></div>
+    </div>
+  </div>
+  <div class="feature" id="s2">
+    <div class="feature-inner">
+      <div class="feature-copy">
+        <h2 class="feature-headline">WISHLIST</h2>
+        <h3 class="feature-subheadline">ON STEAM</h3>
+        <p class="feature-text"><a href="#">Click right here for a link to the game's steampage.</a></p>
+      </div>
+      <div class="feature-image-container">
+        <ul class="accordion">
+          <li> <img src="https://gustavochico.com/img/etc/3.png"/></li>
+          <li> <img src="https://gustavochico.com/img/etc/4.png"/></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<script>registerListener('load', lazyLoad); registerListener('scroll', lazyLoad); function lazyLoad(){var lazy = document.getElementsByClassName('lazy'); for(var i=0; i<lazy.length; i++) {if(isInViewport(lazy[i])){lazy[i].src = lazy[i].getAttribute('data-src');}} } function isInViewport(el){ var rect = el.getBoundingClientRect(); return ( rect.bottom >= 0 && rect.right >= 0 && rect.top <= (window.innerHeight || document.documentElement.clientHeight) && rect.left <= (window.innerWidth || document.documentElement.clientWidth) );} function registerListener(event, func) { if (window.addEventListener) { window.addEventListener(event, func) } else { window.attachEvent('on' + event, func) }}</script>
+<script>( function() {var youtube = document.querySelectorAll(".lazy-youtube"); for (var i = 0; i < youtube.length; i++) {var source = "https://img.youtube.com/vi/"+ youtube[i].dataset.embed +"/sddefault.jpg"; var image = new Image(); image.setAttribute("class", "lazy"); image.setAttribute("data-src",source); image.setAttribute("src","data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="); image.addEventListener( "load", function() {youtube[ i ].appendChild( image );}( i ) ); youtube[i].addEventListener( "click", function() {var iframe = document.createElement( "iframe" ); iframe.setAttribute( "frameborder", "0" ); iframe.setAttribute( "allowfullscreen", "" ); iframe.setAttribute( "src", "https://www.youtube.com/embed/"+ this.dataset.embed +"?rel=0&showinfo=0&autoplay=1" ); this.innerHTML = ""; this.appendChild( iframe ); }); }; })();</script>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
