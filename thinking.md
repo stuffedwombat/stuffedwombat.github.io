@@ -1,7 +1,5 @@
 [back](index)
 
-[10000](10000)
-
 [design terms](design_terms)
 
 [shorther games](shorter_games)
