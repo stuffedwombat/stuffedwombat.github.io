@@ -1,5 +1,7 @@
 [back](index)
 
+[design terms](design_terms)
+
 [shorther games](shorter_games)
 
 [goodbye gutwhale](goodbye_gutwhale)
