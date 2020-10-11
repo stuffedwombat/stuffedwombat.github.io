@@ -1,20 +1,30 @@
 [back](index)
 
-**Games made with friends**
-- <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> (together with Mujo Games)
-- <a href="https://play.google.com/store/apps/details?id=com.NotSoSolo.Rotatoe" target="_blank">Rotatoe.</a> (together with Adam Pype & Bibiki) 
+**upcoming games**
+- <a href="https://store.steampowered.com/app/1066900?beta=1" target="_blank">qomp</a>
+- <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 
 
-**good games**
-- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you.
-- <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone.
-- <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement.
-- <a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017) Only walljumps.
+**games you can buy**
+- <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> 2$, together with Mujo Games
+- <a href="https://store.steampowered.com/app/1267810/Gutwhale" target="_blank">Gutwhale</a> 5$, together with Franek & Britt Brady
+
+**games that turned out nicely**
+- <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a> (2020) An experience. Trippy.
+- <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a> (2020) Trying to tell a story. Nice.
+- <a href="https://www.newgrounds.com/portal/view/744411" target="_blank">every wall</a> (2019) Playable Poem. Funny.
+- <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Concrete.
+- <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement. Flowy.
+- <a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017) Only walljumps. Hard.
 - <a href="https://www.newgrounds.com/portal/view/678184" target="_blank"> Shword</a> (2016) Shoot + Sword.
 
 
 **all games**
+- <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a> (2020) An experience. Trippy.
+- <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a> (2020) Trying to tell a story. Nice.
+- <a href="https://www.newgrounds.com/portal/view/744411" target="_blank">every wall</a> (2019) Playable Poem. Funny.
+- <a href="https://play.google.com/store/apps/details?id=com.NotSoSolo.Rotatoe" target="_blank">Rotatoe.</a> (together with Adam Pype & Bibiki) 
 - <a href="https://www.newgrounds.com/portal/view/735906" target="_blank">Spacebar</a> (2019) Interesting level structure. Small.
-- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you. Good.
+- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you. 
 - <a href="https://www.newgrounds.com/portal/view/733821" target="_blank">Isolation Station Annihilation</a> (2019) Alien physics, unprecisely designed.
 - <a href="https://www.newgrounds.com/portal/view/732230" target="_blank">The Last Balloon</a> (2019) Not a big fan, still proud.
 - <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it. Weird.
