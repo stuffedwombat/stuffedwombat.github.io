@@ -99,7 +99,5 @@ The moment when you realise something fundamentally new about how games are fina
 
 Thanks for reading.<br>
 
-
-
-
+[back](thinking)
 
