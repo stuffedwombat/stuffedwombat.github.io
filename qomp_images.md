@@ -1,5 +1,9 @@
 [back](about_qomp)
 
+
+
+[qomp on steam](https://store.steampowered.com/app/1066900)
+
 <img src= "https://i.imgur.com/1wKBfP1.png"/>
 <img src= "https://i.imgur.com/jQaWyZZ.png"/>
 <img src= "https://i.imgur.com/geJzHae.png"/>
