@@ -5,6 +5,7 @@ It is pronounced “qwomp”
 
 
 qomp releases on february 4th on Steam for €5.69 // $6.99 // £5.19
+
 Here is a link to our marketing material.
 
 
