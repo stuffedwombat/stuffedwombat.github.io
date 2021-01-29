@@ -1,42 +1,17 @@
+(back)[about_qomp]
+
 <img src= "https://i.imgur.com/1wKBfP1.png"/>
+<img src= "https://i.imgur.com/jQaWyZZ.png"/>
+<img src= "https://i.imgur.com/geJzHae.png"/>
+<img src= "https://i.imgur.com/cYUhMJO.png"/>
+<img src= "https://i.imgur.com/YGWXSmL.png"/>
+<img src= "https://i.imgur.com/zYRCCyM.png"/>
+<img src= "https://i.imgur.com/X9RkJWB.png"/>
+<img src= "https://i.imgur.com/ml981bk.png"/>
+<img src= "https://i.imgur.com/2FByyuJ.png"/>
+<img src= "https://i.imgur.com/1i0ZoBU.png"/>
+<img src= "https://i.imgur.com/zFN1kiJ.png"/>
+<img src= "https://i.imgur.com/SiSTZGs.png"/>
+<img src= "https://i.imgur.com/EgBuavS.png"/>
 
-
-![]()
-
-![alt text]("https://i.imgur.com/jQaWyZZ.png")
-
-![]()
-
-![alt text]("https://i.imgur.com/geJzHae.png ")
-
-![]()
-
-![alt text]("https://i.imgur.com/cYUhMJO.png ")
-
-![]()
-
-![alt text]("https://i.imgur.com/YGWXSmL.png ")
-
-![]()
-
-![alt text]("https://i.imgur.com/zYRCCyM.png ")
-
-![]()
-
-![alt text]("https://i.imgur.com/X9RkJWB.png ")
-
-![]()
-
-![alt text]("https://i.imgur.com/ml981bk.png")
-
-![]()
-
-![alt text]("https://i.imgur.com/2FByyuJ.png")
-
-![alt text]("https://i.imgur.com/1i0ZoBU.png")
-
-![alt text]("https://i.imgur.com/zFN1kiJ.png")
-
-![alt text]("https://i.imgur.com/SiSTZGs.png")
-
-![alt text]("https://i.imgur.com/EgBuavS.png")
+(back)[about_qomp]
