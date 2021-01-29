@@ -49,6 +49,7 @@ I started working on this game back in 2017, when I got a publishing deal for it
 
 Instead of taking a step back and re-evaluating my choices, I doubled down and completely remade the game a few times.
 When qomp was finally done in 2018, I gave [a talk about the development process](https://www.youtube.com/watch?v=vcAlQyzxRck). 
+
 2 months before the release of qomp, the publisher [broke all contracts and disappeared](https://www.gamesindustry.biz/articles/2019-05-02-sindiecate-founders-go-awol-owing-staff-and-contractors-over-30-000).
 
 In a weird way, I felt relieved, because the game was not what I wanted it to be.
