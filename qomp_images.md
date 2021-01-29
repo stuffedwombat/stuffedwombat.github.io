@@ -1,4 +1,4 @@
-(back)[about_qomp]
+[back](about_qomp)
 
 <img src= "https://i.imgur.com/1wKBfP1.png"/>
 <img src= "https://i.imgur.com/jQaWyZZ.png"/>
@@ -14,4 +14,5 @@
 <img src= "https://i.imgur.com/SiSTZGs.png"/>
 <img src= "https://i.imgur.com/EgBuavS.png"/>
 
-(back)[about_qomp]
+[back](about_qomp)
+
