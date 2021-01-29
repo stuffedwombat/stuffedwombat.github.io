@@ -25,7 +25,7 @@ After completing the game, players get access to a more challenging version of e
 
 <h2>the team</h2>
 
-I could not have made qomp without [Clovelt](gustavochico.com), [Britt Brady](https://twitter.com/Britt_t_Brady) and [Miroko](https://twitter.com/MirokoBG) and I would kindly request that you credit all four of us, if you cover qomp.
+I could not have made qomp without [Clovelt](https://gustavochico.com/), [Britt Brady](https://twitter.com/Britt_t_Brady) and [Miroko](https://twitter.com/MirokoBG) and I would kindly request that you credit all four of us, if you cover qomp.
 
 
 Clovelt reworked my weird code and made the menu, savegame and steam achievements. Without him, qomp would have been an extremely buggy mess. Without him, qomp would not be a commercial product we could sell in good faith.
