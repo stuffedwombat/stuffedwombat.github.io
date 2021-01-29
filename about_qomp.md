@@ -37,7 +37,7 @@ Britt Brady made all the sound effects and music for the game. His experience, d
 I tried to get funding for qomp in the first half of 2019 but I am not a good business person. The deals I wanted fell apart and the deals that I could have taken were not bad, but they made me extremely anxious and I rejected them.
 I was working in a hostel during the global pandemic and had just wasted 6 months trying to get funding for qomp. Without Mario Zechner, who provided a micro-fund with generous conditions and George Hobmeier, who set me up with freelancing work, I could not have made qomp. 
 
-<h2>the story of qomp</h2>
+<h2>the long, long history</h2>
 
 This is probably the 7th version of qomp.
 
@@ -61,7 +61,7 @@ To keep qomp from haunting me forever, miroko and me started to slowly work on a
 
 In the summer of 2020 we got  microfunded and I was able to quit my minimum wage job. We started making the final version of qomp.
 
-Because I was afraid of running out of money, I kept freelancing on the side, which ended up delaying the release of qomp by 3 months. This delay was worth it, both for my mental health as well as the quality of the game.
+Because I was afraid of running out of money, I kept freelancing on the side, which ended up delaying the release of qomp by 3 months. This delay was worth it, both for my mental health and the quality of the game.
 
 
 
@@ -76,3 +76,4 @@ Then, they encouraged me to try again.
 
 
 qomp would not exist without them.
+
