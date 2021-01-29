@@ -1,5 +1,5 @@
 <h1>About qomp</h1>
-
+<h2>the game</h2>
 
 It is pronounced “qwomp”
 
@@ -21,6 +21,7 @@ Players can always enable any of the following modes:
 qomp contains no secrets or hidden areas. 
 After completing the game, players get access to a more challenging version of each level. Completing all challenges will unlock nothing.
 
+<h2>the team</h2>
 
 I could not have made qomp without clovelt, britt and miroko and I would kindly request to credit all four of us, if you cover qomp.
 
@@ -36,7 +37,7 @@ Britt Brady made all the sound effects and music for the game. His experience, d
 I tried to get funding for qomp in the first half of 2019 but I am not a good business person. The deals I wanted fell apart and the deals that I could have taken were not bad, but they made me extremely anxious and I rejected them.
 I was working in a hostel during the global pandemic and had just wasted 6 months trying to get funding for qomp. Without Mario Zechner, who provided a micro-fund with generous conditions and George Hobmeier, who set me up with freelancing work, I could not have made qomp. 
 
-
+<h2>the story of qomp</h2>
 
 This is probably the 7th version of qomp.
 
