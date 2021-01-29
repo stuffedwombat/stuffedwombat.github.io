@@ -1,7 +1,9 @@
 <h1>About qomp</h1>
 
 
-It is pronounced “qwomp”-
+It is pronounced “qwomp”
+
+
 qomp releases on february 4th on Steam for €5.69 // $6.99 // £5.19
 Here is a link to our marketing material.
 
@@ -11,9 +13,9 @@ qomp is not an extremely hard game, even if it looks like it.
 Players can always enable any of the following modes:
 
 - zoom-out mode, to help with orientation
-- autofire mode, that makes giving input easier, 
+- autofire mode, that makes giving input easier
 - raycasting mode, that aids with the core gameplay 
-- and invincibility mode, for when they get stuck on a specific section.
+- and and invincibility mode
 
 
 qomp contains no secrets or hidden areas. 
