@@ -6,7 +6,8 @@ It is pronounced “qwomp”
 
 qomp releases on february 4th on Steam for €5.69 // $6.99 // £5.19
 
-Here is a link to our marketing material.
+[Check out our marketing material](qomp_images)
+
 
 
 Based on playtesting, we estimate that it takes between 1 and 3 hours to complete.
@@ -24,7 +25,8 @@ After completing the game, players get access to a more challenging version of e
 
 <h2>the team</h2>
 
-I could not have made qomp without clovelt, britt and miroko and I would kindly request to credit all four of us, if you cover qomp.
+I could not have made qomp without [Clovelt](gustavochico.com), [Britt Brady](https://twitter.com/Britt_t_Brady) and [Miroko](https://twitter.com/MirokoBG) and I would kindly request that you credit all four of us, if you cover qomp.
+
 
 Clovelt reworked my weird code and made the menu, savegame and steam achievements. Without him, qomp would have been an extremely buggy mess. Without him, qomp would not be a commercial product we could sell in good faith.
 
@@ -46,8 +48,8 @@ This is probably the 7th version of qomp.
 I started working on this game back in 2017, when I got a publishing deal for it. I was not given enough money and used up all my savings while making a game that was, honestly, pretty bad.
 
 Instead of taking a step back and re-evaluating my choices, I doubled down and completely remade the game a few times.
-When qomp was finally done in 2018, I gave a talk about the development process. 
-2 months before the release of qomp, the publisher broke all contracts and disappeared.
+When qomp was finally done in 2018, I gave [a talk about the development process](https://www.youtube.com/watch?v=vcAlQyzxRck). 
+2 months before the release of qomp, the publisher [broke all contracts and disappeared](https://www.gamesindustry.biz/articles/2019-05-02-sindiecate-founders-go-awol-owing-staff-and-contractors-over-30-000).
 
 In a weird way, I felt relieved, because the game was not what I wanted it to be.
 I tried to get some other projects funded and failed.
@@ -77,4 +79,6 @@ Then, they encouraged me to try again.
 
 
 qomp would not exist without them.
+
+[back](index)
 
