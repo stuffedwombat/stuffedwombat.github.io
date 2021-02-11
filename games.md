@@ -1,14 +1,14 @@
 [back](index)
 
-**upcoming games**
-- <a href="https://store.steampowered.com/app/1066900?beta=1" target="_blank">qomp</a>
-- <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 
-
 **games you can buy**
+- <a href="https://store.steampowered.com/app/1066900?beta=1" target="_blank">qomp</a> 6$, together with Clovelt, Miroko & Britt Brady
+- <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 1$
 - <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> 2$, together with Mujo Games
 - <a href="https://store.steampowered.com/app/1267810/Gutwhale" target="_blank">Gutwhale</a> 5$, together with Franek & Britt Brady
 
 **games that turned out nicely**
+
+- <a href="https://stuffedwombat.itch.io/tiny-show" target="_blank">Tiny Show</a> (2020) A tiny show. Clap Clap.
 - <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a> (2020) An experience. Trippy.
 - <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a> (2020) Trying to tell a story. Nice.
 - <a href="https://www.newgrounds.com/portal/view/744411" target="_blank">every wall</a> (2019) Playable Poem. Funny.
@@ -19,6 +19,7 @@
 
 
 **all games**
+- <a href="https://stuffedwombat.itch.io/tiny-show" target="_blank">Tiny Show</a> (2020) A tiny show. Clap Clap.
 - <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a> (2020) An experience. Trippy.
 - <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a> (2020) Trying to tell a story. Nice.
 - <a href="https://www.newgrounds.com/portal/view/744411" target="_blank">every wall</a> (2019) Playable Poem. Funny.
