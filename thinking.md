@@ -1,5 +1,7 @@
 [back](index)
 
+[thoughts on wholesome games](wholesome)
+
 [10000](10000)
 
 [design terms](design_terms)
