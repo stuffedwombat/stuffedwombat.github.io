@@ -54,3 +54,6 @@ The attribute of “wholesome” allows previously ignored types of games to get
 
 [back](thinking)
 
+
+
+P.S.: I would like to add that while ive been thinking about this topic for ages, it was tweets by https://twitter.com/sonofbadru and https://twitter.com/ellaguro that compelled me to write them up! They clearly expressed some things i had been struggling to get a grip on and i am very thankful for that :)
