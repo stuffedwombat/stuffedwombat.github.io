@@ -4,4 +4,3 @@
 
 <a href="https://www.youtube.com/watch?v=eqgKnwjRC6I" target="_blank">about Disco Elysium</a> (40 min.)
 
-[back](index)
