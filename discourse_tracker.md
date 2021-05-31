@@ -4,6 +4,7 @@
 If there is some discourse going on and I do not track it, feel free to contact me on twitter to make me aware of it!*
 
 Tracking started in May 2021 
+
 Last updated: May 2021
 
 -----------
