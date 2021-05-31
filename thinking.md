@@ -1,5 +1,7 @@
 [back](index)
 
+[Discourse Tracker](discourse_tracker)
+
 [thoughts on wholesome games](wholesome)
 
 [10000](10000)
