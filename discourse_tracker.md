@@ -1,8 +1,7 @@
 [back](thinking)
 
-*what is and is not "discourse" is very hard to decide.*
-*this tracker only captures topics that land on my, personal, timeline*
-*It is not a comprehensive ressource and more a personal project*
+*What discussions qualify as "discourse" is very hard to decide. This tracker only captures topics that land on my, personal, timeline. 
+This is not a comprehensive ressource and more a personal project. Last updated: March 2021*
 
 -----------
 
