@@ -1,7 +1,9 @@
 [back](thinking)
 
-*What discussions qualify as "discourse" is very hard to decide. This tracker only captures topics that land on my, personal, timeline. 
-This is not a comprehensive ressource and more a personal project. Last updated: May 2021*
+* I will try to update this list whenever some "important" discourse is going on. Over time, this list should become a kind of chronic of twitter discourse.
+If there is some discourse going on and I do not track it, feel free to contact me on twitter to make me aware of it!*
+
+Last updated: May 2021
 
 -----------
 
