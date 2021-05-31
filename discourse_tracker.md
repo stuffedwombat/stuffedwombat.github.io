@@ -1,8 +1,9 @@
 [back](thinking)
 
-* I will try to update this list whenever some "important" discourse is going on. Over time, this list should become a kind of chronic of twitter discourse.
+*I will try to update this list whenever some "important" discourse is going on. Over time, this list should become a kind of chronic of twitter discourse.
 If there is some discourse going on and I do not track it, feel free to contact me on twitter to make me aware of it!*
 
+Tracking started in May 2021 
 Last updated: May 2021
 
 -----------
