@@ -1,7 +1,5 @@
 *what is and is not "discourse" is very hard to decide.*
-
 *This tracker only captures topics that land on my, personal, timeline*
-
 *It is not a comprehensive ressource and more a personal project*
 
 -----------
