@@ -9,7 +9,11 @@ At the end of each chapter, there will be links to other chapters that relate to
 You can, of course, also come back to this index at any time and look for chapters you have not read yet.
 
 <b>Part 1: About games</b>
+[about decisions](lr_decisions)
+[about loops and arcs](lr_loops_arcs)
+
 
 <b>Part 2: About making</b>
 
-<b>Part 3: About making games</b>
+<b>Part 3: About some other stuff</b>
+[about writing this book](lr_writing_book)
