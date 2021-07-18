@@ -1,19 +1,14 @@
-This is a prototype for a interactive non-fiction book. 
+This is a prototype for an interactive non-fiction book. 
 
 <h1>About making games.</h1>
 
 This book is non linear.
 Just pick a chapter that interests you and start reading it.
 At the end of each chapter, there will be links to other chapters that relate to the one you just read.
+You can follow these recommendations or set out on your own.
+Hope you enjoy!
 
-You can, of course, also come back to this index at any time and look for chapters you have not read yet.
+- I would recommend to start by checking out the [index](lr_index). It contains a list of all chapters in this book. You can just pick one that interests you and read from there.
+- But you could also start by reading about the smallest parts, the atoms, of any game: [Decisions](lr_decisions).
+- If you want to start with some fairly abstract and weird stuff, I would recommend reading about [Doors](lr_doors) instead.
 
-<b>Part 1: About games</b>
-[about decisions](lr_decisions)
-[about loops and arcs](lr_loops_arcs)
-
-
-<b>Part 2: About making</b>
-
-<b>Part 3: About some other stuff</b>
-[about writing this book](lr_writing_book)
