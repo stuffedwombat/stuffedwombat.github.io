@@ -8,7 +8,7 @@ a weird visual novel / graphic adventure with music by [ThorHighHeels](https://t
 [Wishlist on Steam](https://store.steampowered.com/app/1667320/PRODUCER_2021/) <br>
 [Play the free Demo](https://stuffedwombat.itch.io/producer-2021-demo)
 
-![screenshot](https://i.imgur.com/oMdndar.png "screenshot" alt="drawing" width="200"/)
+![screenshot](https://i.imgur.com/oMdndar.png "screenshot" width="200"/)
 
 ![screenshot](https://i.imgur.com/z4ePdMG.png "screenshot")
 
