@@ -8,15 +8,16 @@ a weird visual novel / graphic adventure with music by [ThorHighHeels](https://t
 [Wishlist on Steam](https://store.steampowered.com/app/1667320/PRODUCER_2021/) <br>
 [Play the free Demo](https://stuffedwombat.itch.io/producer-2021-demo)
 
-![screenshot](https://i.imgur.com/oMdndar.png "screenshot" width="200"/)
-
-![screenshot](https://i.imgur.com/z4ePdMG.png "screenshot")
-
-![screenshot](https://i.imgur.com/DvUQ62F.png "screenshot")
-
-![screenshot](https://i.imgur.com/tf80sTW.png "screenshot")
-
-![screenshot](https://i.imgur.com/5Zc6U8A.png "screenshot")
-
-<br><br>
 [back](index)
+
+<a href="url"><img src="https://i.imgur.com/oMdndar.png" align="left" height="270" width="480" ></a><br>
+
+<a href="url"><img src="https://i.imgur.com/z4ePdMG.png" align="left" height="270" width="480" ></a><br>
+
+<a href="url"><img src="https://i.imgur.com/DvUQ62F.png" align="left" height="270" width="480" ></a><br>
+
+<a href="url"><img src="https://i.imgur.com/tf80sTW.png" align="left" height="270" width="480" ></a><br>
+
+<a href="url"><img src="https://i.imgur.com/5Zc6U8A.png" align="left" height="270" width="480" ></a><br>
+
+
