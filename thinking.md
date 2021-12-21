@@ -1,10 +1,10 @@
 [back](index)
 
-*The ones that I think are cool are market with an --->*
+*The ones I still like are market with an >*
 
 [X Manifestos](x_manifestos)
 
----> <a href="https://www.youtube.com/watch?v=0UQqY6zWWZ0" target="_blank">about Rain World</a> (20min, video essay)
+><a href="https://www.youtube.com/watch?v=0UQqY6zWWZ0" target="_blank">about Rain World</a> (20min, video essay)
 
 <a href="https://www.youtube.com/watch?v=HajA1EzJ5iM" target="_blank">about LIMBO & INSIDE</a> (30min, video essay)
 
@@ -16,13 +16,13 @@
 
 [10000](10000)
 
----> [design terms](design_terms)
+>[design terms](design_terms)
 
 [shorther games](shorter_games)
 
 [goodbye gutwhale](goodbye_gutwhale)
 
----> [the small game](the_small_game)
+>[the small game](the_small_game)
 
 [Good Game Design](good_game_design)
 
@@ -34,5 +34,7 @@
 
 [Make mechanics & forget the game](make_mechanics)
 
----> <a href="https://www.youtube.com/watch?v=vcAlQyzxRck" target="_blank">Pomgmortem</a> (Talk, Game Dev Days Graz 2018)
+><a href="https://www.youtube.com/watch?v=vcAlQyzxRck" target="_blank">Pomgmortem</a> (Talk, Game Dev Days Graz 2018)
+
+[back](index)
 
