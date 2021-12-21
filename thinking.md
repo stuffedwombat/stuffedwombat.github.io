@@ -1,7 +1,5 @@
 [back](index)
 
-*The ones I still like are market with an >*
-
 [X Manifestos](x_manifestos)
 
 ><a href="https://www.youtube.com/watch?v=0UQqY6zWWZ0" target="_blank">about Rain World</a> (20min, video essay)
