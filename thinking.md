@@ -1,6 +1,7 @@
 [back](index)
 
 <br>
+---><a href="https://www.youtube.com/watch?v=sbj6BCLrZ_I" target="_blank">about Disco Elysium (again)</a> (23min, video essay)
 
 [X Manifestos](x_manifestos)
 
