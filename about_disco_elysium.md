@@ -144,297 +144,150 @@ Did you know that if you draw all thoughts, NPCs, items, copotypes and political
 
 Did you know that?
 
-Psyche is about connections, 
-maybe too many connections,
-as it can turn you into an insane, raving lunatic.
+Psyche is about connections. Maybe too many connections as it can turn you into an insane, raving lunatic.
 
-But Psyche is the best stat of disco elysium, because it adds the most points of view to the game,
-with the horrific necktie being your 25th skill and your third party memeber,
-a literal manifestation of your mind that has a surprising and hilarious narrative arc. 
+But Psyche is the best stat of disco elysium, because it adds the most points of view to the game, with the horrific necktie being your 25th skill and your third party memeber, a literal manifestation of your mind that has a surprising and hilarious narrative arc. 
 
-If you want the most story out of disco elysium, the psyche, like charisma in conventional CRPGS, is the way to go,
-bc it not only allows you to talk to your tie, it also connects you to Kim Kitsuragi.
+If you want the most story out of disco elysium, the psyche, like charisma in conventional CRPGS, is the way to go, because it not only allows you to talk to your tie, it also connects you to Kim Kitsuragi.
 
 <h3>
 The escorted mission
 </h3>
 
-From Kims perspective, Disco Elyisum is a very long long escort mission,
-where harry keeps getting stuck on the metaphorical level geometry of his own drug addled brain.
+From Kims perspective, Disco Elyisum is a very long long escort mission, where harry keeps getting stuck on the metaphorical level geometry of his own drug addled brain.
 
-When kim leaves you to do some adult stuff like, driving a car,
-when you are alone,
-then sitting on a bench to pass some time becomes something you can do,
-allowing you to wait for him to return
+When kim leaves you to do some adult stuff like, driving a car, when you are alone, then sitting on a bench to pass some time becomes something you can do, allowing you to wait for him to return. Because without Kim, some quests can not be completed, but without kim, everything is less fun. He is your straight man, he is your counterpart in every way, he is the dead pan rejection of insanity that makes pretending to be insane enjoyable at all.
 
-because without kim, some quests can not be completed,
-but without kim, everything is less fun,
-He is your straight man,
-he is your counterpart in every way,
-he is the dead pan rejection of insanity
-that makes pretending to be insane enjoyable at all.
+He is the personified notification, telling you that "nobody liked that", but he is also a very well composed, patient and pragmantic man and so we feel bad when we put him through our shit, because we have all been in similar situations ourselves, where one friend is way drunker than all the others and you have to awkwardly stand and watch as they… maybe, we have been that friend ourselves.
 
-He is the personified notification, telling you that "nobody liked that"
-but he is also a very well composed, patient and pragmantic man
-and so we feel bad when we put him through our shit,
-because we have all been in similar situations ourselves,
-where one friend is way drunker than all the others and
-you have to awkwardly stand and watch as they….
-maybe, we have been that friend ourselves.
+In any case, Kim is probably the most interesting and and believable NPC I have ever seen in a game.
 
-in any case, Kim is probably the most interesting and and believable NPC I have ever seen in a game.
-
-He often reminded me of an inexperienced but determined PnP player,
-who approaches the game methodically and cooly,
-who has chosen character traits that are min-maxed for case-solving
-because, finishing quests is what Dungeons and Dragons is all about, right?
+He often reminded me of an inexperienced but determined PnP player who approaches the game methodically and cooly, who has chosen character traits that are min-maxed for case-solving, because finishing quests is what Dungeons and Dragons is all about, right?
 
 <h3>
 In psyche you (must) trust
 </h3>
 
-when you ask kim what political idiollogy he subscribes to,
+when you ask kim what political idiollogy he subscribes to, he says that he believes in the RCM, the organisation that is healthy mix of all the extreme political ideas floating around revachol, threatening to pull the city back into chaos.
 
-He says that he believes in the RCM, the organisation that,
-is healthy mix of all the extreme political ideas floating around revachol,
-threatening to pull the city back into chaos.
-
-it would be a pity if that happened, wouldnt it?
-and dont worry, we are sure that the apocalyptic folk myth of the return
-has nothing to do
-with the primal entity under the church,
+It would be a pity if that happened, wouldnt it? And dont worry, we are sure that the apocalyptic folk myth of the return has nothing to do with the primal entity under the church,
 or with the stashes of weapons that
 we keep finding in the purple cocaine catacombs.
 
-Dont worry.
-we got this under control.
-everything is fine.
-focus on whats in front of you.
-focus on the case.
+Dont worry. We got this under control. Everything is fine. Focus on whats in front of you. 
 
-
+Focus on the case.
 
 
 <h3>
 Choosing the action of acting on choices
 </h3>
 
-In Disco Elyisuzum you read some text 
-and as a reward,
-You get to read some more text.
+In Disco Elyisuzum you read some text and as a reward, you get to read some more text.
 
-Inbetween the endless sentences,
-You get to make decisions.
+Inbetween the endless sentences, you get to make decisions and where passive skillchecks are a translated PnP mechanic, the techniques and patterns of Discos Dialogue draw from the rich and often forgotten history of visual novels and interactive fiction.
 
-And where passive skillchecks are a translated PnP mechanic,
-The techniques and patterns of Discos Dialogue
-Draw from the rich and often forgotten history of visual novels and interactive fiction.
+For all of it's video game systems,
+Disco elysium is handwritten.
+every choice you see has been created by someone
+and even if Disco calls itself a CRPG,
+it can never truly simulate roleplaying.
 
-For all of its video game systems,
-Disco elysium is handwritten
-Every choice you see has been created by someone
-And even if Disco calls itself a CRPG,
-It can never truly simulate roleplaying.
-
-Just  consider the difference between "YES" and "LIE"
+Just consider the difference between "YES" and "LIE"
 and you will discover that you do not need the endless reactivity of PnP roleplaying
 to encounter interesting problems,
 you just need tension between the choices you can make.
 
 Disco elysium knows this and so it presents you
-with seven options to say yes and one option to say no when you consider smoking a cigarette
+with seven options to say yes and one option to say no when you consider smoking a cigarette,
 it lets you choose between yelling "fuck the wolrd" and falling over,
-betwen saying something insane and saying something sexist
+between saying something insane and saying something sexist,
 it lets you choose between fucking kill yourself you asshole.
 
-And then, no matter what we choose,
-we usually, end up in the same place anyways,
-but we dont really want to be mad,
-because it was our actual choice,
-we decided 
-which version of the story we wanted to become real.
-
-But we also remember the options we did not pick
-and they shape our idea of who harry could have become,
-how he could have acted,
-
-
-we try to imagine how the situation could have evolved
-and, even if disco then turns out to never fundamentally branch,
-we can take pleasure in the fact that it has given us a lot of space to act.
+And then, no matter what we choose, we usually, end up in the same place anyways, but we dont really want to be mad, because it was our actual choice, we decided  which version of the story we wanted to become real. But we also remember the options we did not pick and they shape our idea of who harry could have become, how he could have acted, we try to imagine how the situation could have evolved and, even if disco then turns out to never fundamentally branch, we can take pleasure in the fact that it has given us a lot of space to act.
 
 <h3>
 Disco ad Infinitum
 </h3>
 
-And so on the first day of disco
-we bumble around martinaise in an excited stupor,
-choosing all of the weird options,
-testing just how far the game is willing to let us go.
+And so on the first day of disco we bumble around martinaise in an excited stupor, choosing all of the weird options, testing just how far the game is willing to let us go.
 
-It lets you go far
-And it adds nuance to the boring GOOD and EVIL,
-by replacing EVIL with 3 different version of absolutely unhinged.
-
-Yeah, you might be an asshole, but you are an asshole with character,
-with style, with convictions, you are the loveable kind of deadbeat alcoholic, right?
+It lets you go far and it adds nuance to the boring GOOD and EVIL, by replacing EVIL with 3 different version of absolutely unhinged. Yeah, you might be an asshole, but you are an asshole with character, with style, with convictions, you are the loveable kind of deadbeat alcoholic, right?
 
 The first few active skillchecks
-are funnier if you fuck them up.
-this is where you can have a heart attack while trying grab your tie,
+are funnier if you fuck them up. This is where you can have a heart attack while trying grab your tie,
 this is where you can "I want to make fuck with you.
 and this is where raphael ambrosius costeau adds a new choice
 to almost every dialogue for the rest of your game,
-This is where disco elysiums is infinite,
+this is where disco elysiums is infinite,
 
-The first day feels so open and free because
-Every quest you get is actually a sidequest.
-
-You do not need to get body from the tree, you do not need to enter the harbour, you do not need to talk to joyce or the smoker on the balcony.
+The first day feels so open and free because every quest you get is actually a sidequest. You do not need to get body from the tree, you do not need to enter the harbour, you do not need to talk to joyce or the smoker on the balcony.
 
 All you need to do to progress is to wait for titus, who shows up on the second day of disco.
 
 <h3>
 Saving Scum Structurally
 </h3>
-Disco Elysium consist of a series of mandatory active skillchecks, that are surrounded by sidequests. If you fail at the main check, then the game pushes you to explore the sidecontent, leveling up and getting more information, enabling you to retry
+Disco Elysium consist of a series of mandatory active skillchecks, that are surrounded by sidequests. If you fail at the main check, then the game pushes you to explore the sidecontent, leveling up and getting more information, enabling you to retry.
 
 Here, for the first time you actually NEED to do something.
-Here failure not just a fun thing that adds roleplaying opportunities,
-Here failure just locks you out of progress.
+Here failure not just a fun thing that adds roleplaying opportunities, here failure just locks you out of progress.
 
-And then This pattern repeats itself 2 more times, once again with Titus, and once with the infamous feldt mural.
+And then This pattern repeats itself 2 more times, once again with Titus, and once with the infamous feldt mural. And as you are standing there, in front of these gates, dice in hand, you get to make the actual, the real decision of disco elysium:
 
-And as you are standing there, in front of these gates, dice in hand,
-You get to make the actual, the real decision of disco elysium:
 Do you want to sacescum or not.
 
 —-------------
 ----------------
 
-Playing without savescumming makes the game richer as a game,
-because it pushes you to use all of its systems,
-and to notice how they overlap with the narrative.
+Playing without savescumming makes the game richer as a game, because it pushes you to use all of its systems, and to notice how they overlap with the narrative.
  
-Unlike your ledger or your car,
-failing at an active skillcheck 
-is not an act of prescribed, static reformation,
-it is an act of randomness. 
+Unlike your ledger or your car, failing at an active skillcheck is not an act of prescribed, static reformation, it is an act of randomness. And while the odds of disco are very game designed, randomness always feels less authored, less forced. And so the power of discos structure reveals itself when you accept failure and just invest a point into the relevant skill in order to retry immediately, 
 
-And while the odds of disco are very game designed,
-Randomness always feels less authored, less forced.
-
-And so the power of discos structure reveals itself 
-When you accept failure.
-And just invest a point into the relevant skill 
-In order to retry immediately, 
-
-The point you just spent .. stays where you put it,
-permanently affecting your dynamically assembled stream of conciousness,
-makign that skill more likely to speak up... for the rest of the game.
-
+The point you just spent ... stays where you put it, permanently affecting your dynamically assembled stream of conciousness, making that skill more likely to speak up for the rest of the game.
 You havent just spent a point to increase a skill,
-you have, quite literllay
-changed your mind
+you have, quite literally, changed your mind
 and you have done so mechanically.
 
 Seeing this incremental change unfold over the course of the whole game,
-maybe, not even realising that it is happening until it is too late
-is the real magic of disco elysium.
+maybe, not even realising that it is happening until it is too late, is the real magic of disco elysium.
 
 <h3>
 Disco ad nauseam
 </h3>-
 
 But when failure consistenlty stops you from progressing,
-Then you need to hunt for quests
-And grind for xp
-You need to suck all the content out of disco elysium,
-unil all the dialogue trees are dull and gray,
+then you need to hunt for quests
+and grind for xp you need to suck all the content out of disco elysium, unil all the dialogue trees are dull and gray,
 
-The longer the game goes on, 
-the more the balance between talking and running
-tips in favour of running
-back and forth across the desolate
-empty coastline for hours,
-Unsure wether you softlocked yourself or not,
-desperately looking for someone to talk to,
-realising that the open world is closing soon.
+The longer the game goes on, the more the balance between talking and running tips in favour of running back and forth across the desolate, empty coastline for hours, unsure wether you softlocked yourself or not, desperately looking for someone to talk to, realising that the open world is closing soon.
 
 <h3>
 Doubling down on opting out
 </h3>
 
-It is the sad truth of any creative endeavour with commercial aspirations
-that you have to finish the work before the money runs out.
+It is the sad truth of any creative endeavour with commercial aspirations, that you have to finish the work before the money runs out. The way in which Disco elyisum shrivels up towards the end is especially heartbreaking because of the incredible openness of the first day. It migh be foolish to expect so much from a game, but it might also be irresponsible of a game to promise so much and then reign its branches in so suddenly and brutally.
 
-The way in which Disco elyisum shrivels up towards the end
-is especially heartbreaking because of the incredible openness of the first day.
-It migh be foolish to expect so much from a game,
-but it might also be irresponsible of a game to promise so much and then reign its branches in so suddenly and brutally.
+But only reason that we get to play and talk about disco elysium at all, Is that the seemingly infinite openness withers away as the book overtakes the dice, while the puzzle assembles itself, because Time does not stop for your grand visions, and, if you do not adapt your scope, then reality and rent will take everything from you.
 
-But only reason that we get to play and talk about disco elysium at all
-Is that the seemingly infinite openness
-Withers away 
-as the book overtakes the dice,
-While the puzzle assembles itself.
+Faced with such hard, horrible borders, it can be tempting to retreat into delusional fantasy or to dissolve your brain in an endless stream of stimulation. But the only way to deal with all of this is to take an honest look at yourself and to decide if it is time to double down.. or to opt out, and so it is very fitting that the story that disco tells is not one of heroic individual action its not about saving the world,
 
-Because Time does not stop for your grand visions.
-and, if you do not adapt your scope,
-then reality and rent will take everything from you.
-
-Faced with such hard, horrible borders
-it can be tempting to retreat into delusional fantasy or to dissolve your brain in an endless stream of stimulation.
-
-But the only way to deal with all of this is to take an honest look at yourself
-and to decide if it is time to double down.. or to opt out
-And so it is very fitting that the story that disco tells 
-Not only through its reflective surfaces,
-but also through its mechanics
-Is not one of heroic individual action 
-Its not about saving the world,
-
-Instead,
-its a story of pragmatism, 
-About facing yourself historically speaking
-And to then working with what you have
-Instead of running away from it.
+Instead, its a story of pragmatism, about facing yourself historically speaking and to then working with what you have instead of running away from it.
 
 <h3>
 Kaleidostropic Funnel
 </h3>
 
-When you replay the game, 
-when you go through the same events
-as a different harry with a different perspective,
-then the illusion of a truly dynamic experience shatters completely
-but the thematic coherence of the book beneath the dice becomes apparent.
+When you replay the game, when you go through the same events as a different harry with a different perspective, then the illusion of a truly dynamic experience shatters completely but the thematic coherence of the book beneath the dice becomes apparent.
 
-Now that you know that 
-The version of Harry that could not let go of the past
- killed the version of harry that ran away from it
-Your can focus on poking at the intricate, 
-dynamically assembled interactive web of connections,
-That makes disco elysium such an impossibly rich game.
+Now that you know that the version of Harry that could not let go of the past killed the version of harry that ran away from it, you can focus on poking at the intricate, dynamically assembled, interactive web of connections, that makes disco elysium such an impossibly rich game.
 
+As a pure book, Disco would be an unsubtle avalanche of subtext but because everything is assembled on the go and in response to randomness and probability you never see the whole picture.
 
-As a pure book, 
-Disco would be an unsubtle avalanche of subtext.
-But because everything is assembled on the go
-And in response to randomness and probability
-you never see the whole picture.
-
-Instead, You can imagine Disco Elysium as a huge, interactive funnel.
-The more time you spend inside of it, 
-The more you notice that it is pushing you towards a single conclusion.
-The longer the game goes on,
-The narrower it has to become,
-Until you, inevitably, arrive at the end.
+Instead, You can imagine Disco Elysium as a huge, interactive funnel. The more time you spend inside of it, the more you notice that it is pushing you towards a single conclusion. The longer the game goes on, the narrower it has to become, until you, inevitably, arrive at the end.
 
 You can also imagine Disco Elysium  as kaleidoscope.
-It can produce infinite colorful variations and patterns.
-but each and every one of them will,
-Eventually, turn out to emerge from a single focal point.
+It can produce infinite colorful variations and patterns, but each and every one of them will, eventually, turn out to emerge from a single focal point.
 
 <h3>
 The four endings
@@ -444,59 +297,29 @@ You can not change the past
 you can not change who did it.
 You can only change who arrives on that island to finally solve the case.
 
-It is here,
-In a place that was nearby
-But always out of reach,
-that disco elysium reveals its four endings.
+It is here, in a place that was nearby but always out of reach, that disco elysium reveals its four endings.
 
-the first ending is about the dream-something,
-The woman that you abandoned,
-Long before she left you
-Only to become a goddess
-in your memory.
-Here, you will tell yourself the truth, 
-you will finally separate fiction from reality
+The first ending is about the dream-something, the woman that you abandoned, long before she left you only to become a goddess in your memory.
+Here, you will tell yourself the truth, you will finally separate fiction from reality
 
-The second ending is about the deserter
-who has held on to his rifle
-for over 50 years.
-But who can not keep himself together any longer.
-Here you find out that He did it,
- but mostly, he did it to himself.
+The second ending is about the deserter who has held on to his rifle for over 50 years, but who can not keep himself together any longer.
+Here you find out that he did it, but also, that he did it to himself.
 
-The third ending is about the horrible beauty
-That is out there right now, 
-between the reeds and the rotten wood
-Waiting for you to find it,
-Waiting for you to believe in it.
+The third ending is about the horrible beauty that is out there right now,  between the reeds and the rotten wood, waiting for you to find it, waiting for you to believe in it.
 
-the last ending is about your group
-About the people that you hurt.
-That still came back for you
-One last time.
-Here, you will be judged for your actions
-And here you will be defended by your new friends.
+The last ending is about your group, about the people that you hurt, that still came back for you one last time.
+Here, you will be judged for your actions and here you will be defended by your new friends.
 
-Disco Elyisum has four endings.
-And they arrive suddenly,
-one after the other
-Right at the end of an exhausting investigation.
+Disco Elyisum has four endings and they arrive suddenly, one after the other, right at the end of an exhausting investigation.
 
-It is easy to miss them
-Because they take up so little space 
-compared to the piles of prose 
-that are dedicatet to the dumbest distractions.
+It is easy to miss them because they take up so little space compared to the piles of prose that are dedicatet to the dumbest distractions.
 
-It is easy to overlook the four endings of disco
-Because they come at the end of a long funnel
-Because they come hours after you realise that you never really had a choice.
-But maybe it is also easy to overlook the four endings of disco elysium,
-Because they all tell you the exact same thing.
-
+It is easy to overlook the four endings of disco, because they come at the end of a long funnel, because they come hours after you realise that you never really had a choice.
+But maybe, it is also easy to overlook the four endings of disco elysium, because they all tell you the exact same thing.
 
 Thank you for ~~watching~~ reading.
 
-(back)[thinking]
+[back](thinking)
 
 
 
