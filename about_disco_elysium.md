@@ -8,55 +8,38 @@
 
 <h3>The Four Introductions </h3>
   
-Disoc Elysium is a game for nerds who like to read.<br>
-there is no combat, no action, its all just text,<br>
+Disoc Elysium is a game for nerds who like to read. there is no combat, no action, its all just text...
         
-coming at you in short bursts, in precicse snippets<br>
-coming with superb voice acting, sublime sound effects and restrained screenshake so that<br>
-even if reading is everything you do, it feels expensive and luxurious.<br>
+...coming at you in short bursts, in precicse snippets, coming with superb voice acting, sublime sound effects and restrained screenshake so that even if reading is everything you do, it feels expensive and luxurious.<br>
 
 Because it is.<br>
-Coming in at around a million words, written over 5 years, Disco Elysium has won numerous awards for its writing,<br>
-Inlcuding 4 gameawards in 2019. It currently holds a near perfect metacritic score of 97<br>
+Coming in at around a million words, written over 5 years, Disco Elysium has won numerous awards for its writing, inlcuding 4 gameawards in 2019. It currently holds a near perfect metacritic score of 97...<br>
 
-and all of that is nice and good, but in the end Disco Elysium<br>
-is a game about re-imagining 
-yourself<br>
-and I wholeheartedly recommend you to go experience it on your own.<br>
+...and all of that is nice and good, but in the end Disco Elysium is a game about re-imagining yourself and I wholeheartedly recommend you to go experience it on your own.
 
-So This is you first and final warning:<br>
-Do not watch this video, if you are not done with disco elysium,<br>
-because I will casually spoil everything from here on out,<br>
+So This is you first and final warning:
+Do not read this text, if you are not done with disco elysium,
+because I will casually spoil everything from here on out.
 
 
 <h3>
 Built on Water
 </h3>
 
-Disco Elyisum is  crpg, a computer roleplaying game and, like all games of its genre, it is a walking contradtiction.
+Disco Elyisum is a CRPG, a computer roleplaying game and like all games of its genre, it is a walking contradtiction.
 
-Because roleplaying, exists in the moment, it is a collective delusion where
-everything takes place in your imagiations,
-where situations become real and reactive
-as soon as you describe them
-and  compared to this highspeed imagination-to-interactivity-pipeline,
-videogames are static, premeditated things,
-where even the most emergent narrative can only emerge from foundational rules and authored variables.
+Because roleplaying, exists in the moment, it is a collective delusion where everything takes place in your imagiations, where situations become real and reactive as soon as you describe them and  compared to this highspeed imagination-to-interactivity-pipeline, videogames are static, premeditated things,where even the most emergent narrative can only emerge from foundational rules and authored variables.
 
 
-And Disco Elysium knows this,
-because despite harrys best efforts, he does not actually start the game as a blank slate.
+And Disco Elysium knows this, because despite harrys best efforts, he does not actually start the game as a blank slate.
 
-Something has led to you waking up in that hotel room
-Just like someone must have killed that dude
-And you not only have to find out who did it, 
-But also why you did this to yourself.
+Something has led to you waking up in that hotel room. Just like someone must have killed that dude. And you not only have to find out who did it, but also why you did this to yourself.
 
 <h3>
 You - Emerge from predetermined variables
 </h3>
 
-In both cases, the past is at fault.
+In both cases, the past is at fault.<br>
 The past In general, the concept of time passing,
 slipping through your fingers unnoticed, until it is too late.
 until you realise that you have irrevocably lost the thing that means the world to you and you are left with the choice between two extremes
