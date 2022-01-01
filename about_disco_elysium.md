@@ -1,6 +1,6 @@
 (back)[thinking]
 
-*This is the unedited script of <a href="https://www.youtube.com/watch?v=sbj6BCLrZ_I" target="_blank">this video.</a>
+*This is the barely edited script of <a href="https://www.youtube.com/watch?v=sbj6BCLrZ_I" target="_blank">this video.</a>
 <br>Weird spacings, questionable grammar and wrong spelling ahead!*
 
 <h1>about Disco Elysium (again)</h1>
@@ -8,25 +8,25 @@
 
 <h3>The Four Introductions </h3>
   
-Disoc Elysium is a game for nerds who like to read.
-there is no combat, no action, its all just text,
+Disoc Elysium is a game for nerds who like to read.<br>
+there is no combat, no action, its all just text,<br>
         
-coming at you in short bursts, in precicse snippets
-coming with superb voice acting, sublime sound effects and restrained screenshake so that
-even if reading is everything you do, it feels expensive and luxurious.
+coming at you in short bursts, in precicse snippets<br>
+coming with superb voice acting, sublime sound effects and restrained screenshake so that<br>
+even if reading is everything you do, it feels expensive and luxurious.<br>
 
-Because it is.
-Coming in at around a million words, written over 5 years, Disco Elysium has won numerous awards for its writing,
-Inlcuding 4 gameawards in 2019. It currently holds a near perfect metacritic score of 97
+Because it is.<br>
+Coming in at around a million words, written over 5 years, Disco Elysium has won numerous awards for its writing,<br>
+Inlcuding 4 gameawards in 2019. It currently holds a near perfect metacritic score of 97<br>
 
-and all of that is nice and good, but in the end Disco Elysium
+and all of that is nice and good, but in the end Disco Elysium<br>
 is a game about re-imagining 
-yourself
-and I wholeheartedly recommend you to go experience it on your own.
+yourself<br>
+and I wholeheartedly recommend you to go experience it on your own.<br>
 
-So This is you first and final warning:
-Do not watch this video, if you are not done with disco elysium,
-because I will casually spoil everything from here on out,
+So This is you first and final warning:<br>
+Do not watch this video, if you are not done with disco elysium,<br>
+because I will casually spoil everything from here on out,<br>
 
 
 <h3>
