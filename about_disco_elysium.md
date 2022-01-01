@@ -8,18 +8,12 @@
 
 <h3>The Four Introductions </h3>
   
-Disoc Elysium is a game for nerds who like to read. there is no combat, no action, its all just text...
-        
-...coming at you in short bursts, in precicse snippets, coming with superb voice acting, sublime sound effects and restrained screenshake so that even if reading is everything you do, it feels expensive and luxurious.<br>
+Disoc Elysium is a game for nerds who like to read. there is no combat, no action, its all just text, coming at you in short bursts, in precicse snippets, coming with superb voice acting, sublime sound effects and restrained screenshake so that even if reading is everything you do, it feels expensive and luxurious.<br>
 
 Because it is.<br>
-Coming in at around a million words, written over 5 years, Disco Elysium has won numerous awards for its writing, inlcuding 4 gameawards in 2019. It currently holds a near perfect metacritic score of 97...<br>
+Coming in at around a million words, written over 5 years, Disco Elysium has won numerous awards for its writing, inlcuding 4 gameawards in 2019. It currently holds a near perfect metacritic score of 97 and all of that is nice and good, but in the end Disco Elysium is a game about re-imagining yourself and I wholeheartedly recommend you to go experience it on your own.
 
-...and all of that is nice and good, but in the end Disco Elysium is a game about re-imagining yourself and I wholeheartedly recommend you to go experience it on your own.
-
-So This is you first and final warning:
-Do not read this text, if you are not done with disco elysium,
-because I will casually spoil everything from here on out.
+So This is you first and final warning: Do not read this text, if you are not DONE with disco elysium, because I will casually spoil everything from here on out.
 
 
 <h3>
@@ -39,190 +33,96 @@ Something has led to you waking up in that hotel room. Just like someone must ha
 You - Emerge from predetermined variables
 </h3>
 
-In both cases, the past is at fault.<br>
-The past In general, the concept of time passing,
-slipping through your fingers unnoticed, until it is too late.
-until you realise that you have irrevocably lost the thing that means the world to you and you are left with the choice between two extremes
+In both cases, the past is at fault.
+
+The past In general, the concept of time passing, slipping through your fingers unnoticed, until it is too late, until you realise that you have irrevocably lost the thing that means the world to you and you are left with the choice between two extremes:
 
 You can either glorify what happened and refuse to let go of an increasingly ennobeld and inaccurate memory
 or
 you can try to earse memory itself, drowning in a spiral of self-pity and gradual self-destruction.
 
-Harrier duBois, like most people, can do both at the same time.
-
-Wich provides the conceptual glue that holds disco elysium together thematically.
+Harrier duBois, like most people, can do both at the same time, Wich provides the conceptual glue that holds disco elysium together thematically.
 
 For what is a theme, if not something that gets mentioned, like, all the time?
 
-While Harry might have tried his best to obliterate himself,
-his body, his limbic system, his RPG Stats
-can not let him forgtot what kind of animal he really is.
+While Harry might have tried his best to obliterate himself, his body, his limbic system, his RPG Stats, can not let him forgtot what kind of animal he really is:
 
-Intellect wants to pursue objective truth and to impose it on others with the biggest available words, but it also it confuses the history of the world with personal drama.
+>Intellect wants to pursue objective truth and to impose it on others with the biggest available words, but it also it confuses the history of the world with personal drama.
 
-Mototics is your muscle memory, prying open the hidden compartements of your past.
+>Mototics is your muscle memory, prying open the hidden compartements of your past.
 
-Physique does not want that, physique wants to get fucked up, chasing transient pleasures instead of facing reality
+>Physique does not want that, physique wants to get fucked up, chasing transient pleasures instead of facing reality
 
-Just like how Psyche wants you to understand how other people feel, it wants to make connections, it wants to hear voices where there arent any, as long as you dont have to deal with who you used to be and what you left behind.
+>Just like how Psyche wants you to understand how other people feel, it wants to make connections, it wants to hear voices where there arent any, as long as you dont have to deal with who you used to be and what you left behind.
 
 <h3>
 No Truce with the furries
 </h3>
 
-And so, no matter which combination of stats you start the game with, each of them is,
-not only internally torn and compromised, but also directly reflected in the case that you are trying to solve:
+And so, no matter which combination of stats you start the game with, each of them is, not only internally torn and compromised, but also directly reflected in the case that you are trying to solve:
 
-The murdered mercenary of international capital was a drug addled, man of the moment, stumbling around martinaise, muttering madly to himself, tearing it up solider of the apocalypse style.
-an extreme version of harry, all psyche and physique, all outwards, all violence, all insane, all NOW
-while
-Joseph, the murderer, is a communist how never surrendered, who has been hiding in the reeds, dreaming of the past,
-held together by composure and idiology, watching the world through the scope of his sniper rifle,
-the other extreme version of harry, the one that is all intellect and motorics that is all self contained, all glorification, all alone, all memory.
+The murdered mercenary of international capital was a drug addled, man of the moment, stumbling around martinaise, muttering madly to himself, tearing it up solider of the apocalypse style. He is an extreme version of harry, all psyche and physique, all outwards, all violence, all insane, all NOW.
 
-In Disco Elysium you can not forget or escape from the past,
+While Joseph, the murderer, is a communist how never surrendered, who has been hiding in the reeds, dreaming of the past, held together by composure and idiology, watching the world through the scope of his sniper rifle, the other extreme version of harry, the one that is all intellect and motorics that is all self contained, all glorification, all alone, all memory.
 
-Because The whole game, was designed, developed and written
-as a reflection of your characters internal conflict.
-
-The cool thing about disco elysium is that it is a video game
-and that you get to experience this internal conflict dynamically.
+In Disco Elysium you can not forget or escape from the past, because The whole game, was designed, developed and written as a reflection of your characters internal conflict. The cool thing about disco elysium is that it is a video game and that you get to experience this internal conflict dynamically.
 
 <h3>
 Frittte Bag Forever
 </h3>
 
-On the cold streets of martinaise, under the symbolic ramblings of a standard alcoholc, there is a yellow bag.
-You do not have to pick it up. You can finish the whole game without ever laying a finger on its worn plastic, but if you do equip it..
-then you will look upon the world with new eye.
-The crumbling streets and deyacing buildins are suddenly richer,
-as bottles become pick-uppable,
-as trash suddenly becomes cash.
+On the cold streets of martinaise, under the symbolic ramblings of a standard alcoholc, there is a yellow bag. You do not have to pick it up. You can finish the whole game without ever laying a finger on its worn plastic, but if you do equip it, then you will look upon the world with new eyes. The crumbling streets and deyacing buildins are suddenly richer, as bottles become pick-uppable, as trash becomes cash.
 
-And then... Maybe.. many days later,
-you are still seen carrying that yellow bag around with you out of pure habit
-collecting bottles to turn into cents that you no longer need.
--
+And then... Maybe.. many days later, you are still seen carrying that yellow bag around with you out of pure habit. collecting bottles to turn into cents that you no longer need.
 
-In Disco Elysium, your choices never fundamentally change the world,
-but they do change how you perceive that world and therefore how you engage with it.
+In Disco Elysium, your choices never fundamentally change the world, but they do change how you perceive that world and therefore how you engage with it.
 
-The constant interruptions and comments from your skills are much more dynamic than the fritte bag, because they rely on passive skillchecks,
-a PnP mechanic where the dice are rolled in secret
-to determine wether a character notices something that the player never even asked about.
+The constant interruptions and comments from your skills are much more dynamic than the fritte bag, because they rely on passive skillchecks, a PnP mechanic where the dice are rolled in secret to determine wether a character notices something that the player never even asked about.
 
-Passive skillchecks have not seen a lot of use in CRPGS, because of their exhorbitant cost.
-If you fail the check then all the work that went into creating it goes unappreciated.
+Passive skillchecks have not seen a lot of use in CRPGS, because of their exhorbitant cost. If you fail the check then all the work that went into creating it goes unappreciated and it is exactly this wasteful, luxurious use of passive skillchecks that makes reading text in disco elysium so engaging.
 
-and it is exactly this wasteful, luxurious use of passive skillchecks
-that makes reading text in disco elysium so engaging.
+When a passive roll fails... then the conversation just keeps moving smoothly, but when a passive roll succeeds... then a new, maybe crucial piece of information is given to you and ... then the conversation just keeps moving smoothly.
 
-When a passive roll fails... then the conversation just keeps moving smoothly,
-When a passive roll succeeds... then a new, maybe crucial piece of information is given to you and ... then the conversation just keeps moving smoothly
-
-And so every time a skill speaks up it makes you aware of all the times when.. it didnt speak up,
-and you wonder how much you might have missed, what kind of truths disco elysium might be hiding.
+And so every time a skill speaks up it makes you aware of all the times when.. it didnt speak up, and you wonder how much you might have missed, what kind of truths disco elysium might be hiding.
 
 <h3>
 Filtration Systems
 </h3>
 
-The much less dynamic, hardcoded reactivity fulfills a similar function, but from a different direction.
+The much less dynamic, hardcoded reactivity fulfills a similar function, but from a different direction. When kim mentions the fact that you spent the whole day running around with only shoe, then that is not only a funny and memorable moment, it also raises a questions.
 
-When kim mentions the fact that you spent the whole day running around with only shoe,
-then that is not only a funny and memorable moment, it also raises a questions.
+What else is the game keeping track of? which of your decisions are being logged and noted and which ones arent? You can not know and suddenly, every decision you make becomes more interesting, simply becasue... it might be recorded, it might be reacted to later and so you start to feel as if there actually was a real life game master, watching over you.
 
-What else is the game keeping track of?
-which of your decisions are being logged and noted and which ones arent?
+But Disco Elysium is a video game. Everything inside of it has been handmade and this constant micro reactivity is not sustainable, forcing the game to cast wider nets with its thought cabinet, A video game system that can lead to moments of hilarious emergence like when "rigorous self critique" is internalised after sitting alone on a bench for an hour or when you become a fascist after reading a cheap fantasy novel. Like drugs, clothes and items,Thoughts exist outside of disco dialogue system, but they all affect your skills, which, in turn determine how you engage with the world.
 
-You can not know and suddenly, every decision you make becomes more interesting,
-simply becasue... it might be recorded, it might be reacted to later and so you start to feel as if there actually was a real life game master, watching over you.
-
-But Disco Elysium is a video game.
-Everything inside of it has been handmade
-And this constant micro reactivity is not sustainable
-Forcing the game to cast wider nets with its thought cabinet,
-A vide game system that can lead to moments of hilarious emergence
-
-like when "rigorous self critique" is internalised after sitting alone on a bench for an hour
-or when you become a fascist after reading a cheap fantasy novel.
-
-Like drugs, clothes and items,Thoughts exist outside of disco dialogue system, but they all affect your skills, which, in turn determine how you engage with the world.
-
-Disco Elysiums  contains multiple novels of text.
-where not only hard coded reactions, 
-but dynamic systems act as filters, 
-laid over the text to determine 
-which paragraphs you get to read
-and which ones will remain hidden from you.
+Disco Elysiums  contains multiple novels of text, where not only hard coded reactions, but dynamic systems act as filters that laid over the text to determine which paragraphs you get to read and which ones will remain hidden from you.
 
 <h3>
 Reflection! Reflection everywhere!
 </h3>
 
-The four stats and the 24 skills that are forming this dynamic filter
-are all dealing with harries internal conflict in their own, unique way, referencing and remembering events and concepts through their own function and from their own perspective.
+The four stats and the 24 skills that are forming this dynamic filter are all dealing with harries internal conflict in their own, unique way, referencing and remembering events and concepts through their own function and from their own perspective.
 
-What grounds all of this high concept stuff
-Is that each possible perspective you can inhabit,
-is mirrored and represented in the world.
+What grounds all of this high concept stuff is that each possible perspective you can inhabit, is mirrored and represented in the world. Everything that your version of harry can think and feel is also somewhere, out there, for you to stumble upon and to recognise yourself in.
 
-everything that your version of harry can think and feel
-is also somewhere, out there, 
-for you to stumble upon
-And to recognise yourself in.
-
-The game is littered with reflective surfaces,
-With Npcs, groups and concepts that are representative of harry,
-That are laser focused on highlighting different aspects of who he once was
-And who he might become once more.
+The game is littered with reflective surfaces, with Npcs, groups and concepts that are representative of harry, that are laser focused on highlighting different aspects of who he once was and who he might become once more.
 
 <h3>
 Writing wicked wordies
 </h3>
 
-This extends to the incredibly dense history, lore and pop culture
-Which the game relies on to overwhelm you with raw information.
-With daunting, daedal details,
-With worldbuildingly memetic mutterings
-Connecting characters and concepts without calling for
-additional code or passive skillchecks.
-
-All of this would be a lot easier to understand, 
-if disco wasnt written by depressed intellectuals.
-
-
-Because dynamically assembled meat of the game,
-leans towards being
-very literary verbose prose
-standing in stark contrast to the
-"princess is in another dangerous to go alone" - type of videogame writing,
-
-And it is this comparative complexity of the text itself
-That turns the basic activity of reading into a constant, low key puzzle.
+This extends to the incredibly dense history, lore and pop culture which the game relies on to overwhelm you with raw information, with daunting, daedal details, with worldbuildingly memetic mutterings, connecting characters and concepts without calling for additional code.
+And all of this would be a lot easier to understand, if disco wasnt written by depressed intellectuals, because the dynamically assembled meat of the game, leans towards being very literary verbose prose standing in stark contrast to the "princess is in another dangerous to go alone" - type of videogame writing, and it is this comparative complexity of the text itself that turns the basic activity of reading into a constant, low key puzzle.
 
 <h3>
 Puzzling personalities
 </h3>
 
-Measurehead is not just a "black racist" he is a semanese supremacist,
-and since neither we not harry know what that means exactly
-we can approach the concept of racism from a conceptual angle.
-only to then find out that Harrys version of racism is stupid.
+Measurehead is not just a "black racist" he is a semanese supremacist, and since neither we not harry know what that means exactly we can approach the concept of racism from a conceptual angle, only to then find out that Harrys version of racism is pretty fucking stupid.
 
-Its based on territory, not pseudo-science,
-it wants "revachol forever" to turn from tag to truth,
-and it uses fantasy metaphors
-It is a fascism of the immediate feelings of the body,
-of physique, a stat that is trying to project manly strength while also being a drug driven paranoid masochist, 
-it is a very specific, gleefully vindidictive depiction of nationalism.
+Its based on territory, not pseudo-science, it wants "revachol forever" to turn from tag to truth, and it uses fantasy metaphors, it is a fascism of the immediate feelings of the body, of physique, a stat that is trying to project manly strength while also being a drug driven paranoid masochist. This is a very specific, gleefully vindidictive depiction of nationalism.
 
-Because when you play disco elysium earnestly, 
-when you select the answers 
-that you most closely align with your actual, reali life convictions,
-then, like a sadistic 40€ personality test,
-Disco will show you a distorted, grotesque, 
-Maybe even to some degree accurate reflection of yourself.
+Because when you play disco elysium earnestly, when you select the answers  that most closely align with your actual, reali life convictions, then, like a sadistic 40€ personality test, Disco will show you a distorted, grotesque, maybe even to some degree accurate reflection of yourself.
 
 You think you are a Nationalist? Nope, you are just stupid and you hate women and yourself, you sad fucking looser.
 You are an ultra-liberal? Nope, you are a psycopath, licking the idiological boots of even bigger psychopaths
