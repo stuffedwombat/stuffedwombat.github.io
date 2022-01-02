@@ -111,11 +111,9 @@ The game is littered with reflective surfaces, with Npcs, groups and concepts th
 Writing wicked wordies
 </h3>
 
-This extends to this world's incredibly dense history, lore and pop culture, on which the game relies to overwhelm you with raw information, with daunting, daedal details, with worldbuildingly memetic mutterings, connecting characters and concepts without calling for additional code.
+This extends to Disco Elysium's incredibly dense history, lore and pop culture, on which the game relies to overwhelm you with raw information, with daunting daedal details, with worldbuildingly memetic mutterings, connecting characters and concepts without calling for additional code.
 
-All of this would be a lot easier to understand, if disco wasnt written by depressed intellectuals, because the dynamically assembled meat of the game, leans towards being very literary verbose prose, standing in stark contrast to the "princess is in another dangerous to go alone" - type of videogame writing. 
-
-And it is this comparative complexity of the text itself, that turns the basic activity of reading into a constant, low key puzzle.
+All of this would be a lot easier to understand, if disco wasnt written by depressed intellectuals, because the dynamically assembled meat of the game, leans towards being very literary verbose prose, standing in stark contrast to the "princess is in another dangerous to go alone" - type of videogame writing and it is this comparative complexity of the text itself, that turns the basic activity of reading into a constant, low key puzzle.
 
 <h3>
 Puzzling personalities
