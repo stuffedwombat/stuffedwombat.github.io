@@ -113,17 +113,17 @@ Writing wicked wordies
 
 This extends to Disco Elysium's incredibly dense history, lore and pop culture, on which the game relies to overwhelm you with raw information, with daunting daedal details, with worldbuildingly memetic mutterings, connecting characters and concepts without calling for additional code.
 
-All of this would be a lot easier to understand, if disco wasnt written by depressed intellectuals, because the dynamically assembled meat of the game, leans towards being very literary verbose prose, standing in stark contrast to the "princess is in another dangerous to go alone" - type of videogame writing and it is this comparative complexity of the text itself, that turns the basic activity of reading into a constant, low key puzzle.
+All of this would be a lot easier to understand if disco wasnt written by depressed intellectuals, because the dynamically assembled meat of the game leans towards being very literary verbose prose, standing in stark contrast to the "princess is in another dangerous to go alone" - type of videogame writing and it is this comparative complexity of the text itself that turns the basic activity of reading into a constant, low key puzzle.
 
 <h3>
 Puzzling personalities
 </h3>
 
-Measurehead is not just a "black racist" he is a semanese supremacist, and since neither we not harry know what that means exactly we can approach the concept of racism from a conceptual angle, only to then find out that Harrys version of racism is pretty fucking stupid.
+Measurehead is not just a "black racist" he is a semanese supremacist and since neither we not harry know what that means exactly we can approach the concept of racism from a conceptual angle, only to then find out that Harrys version of racism is pretty fucking stupid.
 
-Its based on territory, not pseudo-science, it wants "revachol forever" to turn from tag to truth, and it uses fantasy metaphors, it is a fascism of the immediate feelings of the body, of physique, a stat that is trying to project manly strength while also being a drug driven paranoid masochist. This is a very specific, gleefully vindidictive depiction of nationalism.
+Its based on territory, not pseudo-science. It wants "revachol forever" to turn from tag to truth and it uses fantasy metaphors, it is a fascism of the immediate feelings of the body, of physique, a stat that is trying to project manly strength while also being a drug driven paranoid masochist. This is a very specific, gleefully vindidictive depiction of nationalism.
 
-Because when you play disco elysium earnestly, when you select the answers  that most closely align with your actual, reali life convictions, then, like a sadistic 40€ personality test, Disco will show you a distorted, grotesque, maybe even to some degree accurate reflection of yourself.
+Because when you play disco elysium earnestly, when you select the answers  that most closely align with your actual, real life convictions, then like a sadistic 40€ personality test, Disco will show you a distorted, grotesque, maybe even to some degree accurate reflection of yourself.
 
 You think you are a Nationalist? Nope, you are just stupid and you hate women and yourself, you sad fucking looser.
 You are an ultra-liberal? Nope, you are a psycopath, licking the idiological boots of even bigger psychopaths
@@ -132,10 +132,9 @@ You think you are a communist? Nope, you just like making videoessays.
 <h3>
 Connect or collapse!
 </h3>
-And so, when you read what people have to say about disco elysium, it is always pretty easy to guess what kind of cop they played, because they often look at the game only through the lens of communism or the feeling of shivers, completely ignoring all the other delicate perspectives,
+And so, when you read what people have to say about disco elysium it is always pretty easy to guess what kind of cop they played, because they often look at the game only through the lens of communism or the feeling of shivers, completely ignoring all the other delicate perspectives.
 
-Psyche, on the other hand is all about perspectives, its about understanding other people
-its about making connections,
+Psyche, on the other hand is all about perspectives. It'S about understanding other people, it's about making connections.
 
 Like, did you know that the movie harry rented all those years ago is a reference to georg büchners play “wojzeck?” or that rene arnaux is the name of an actual tip top race car driver?
 
