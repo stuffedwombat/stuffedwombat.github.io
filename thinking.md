@@ -1,7 +1,7 @@
 [back](index)
 
 <br>
---->[about Disco Elysium (again))](about_disco_elysium)
+--->[about Disco Elysium (again)](about_disco_elysium)
 
 [X Manifestos](x_manifestos)
 
