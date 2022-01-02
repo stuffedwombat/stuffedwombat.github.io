@@ -239,9 +239,6 @@ And then This pattern repeats itself 2 more times, once again with Titus, and on
 
 Do you want to sacescum or not.
 
-—-------------
-----------------
-
 Playing without savescumming makes the game richer as a game, because it pushes you to use all of its systems, and to notice how they overlap with the narrative.
  
 Unlike your ledger or your car, failing at an active skillcheck is not an act of prescribed, static reformation, it is an act of randomness. And while the odds of disco are very game designed, randomness always feels less authored, less forced. And so the power of discos structure reveals itself when you accept failure and just invest a point into the relevant skill in order to retry immediately, 
