@@ -1,4 +1,4 @@
-(back)[thinking]
+[more thinks](thinking)
 
 *This is the barely edited script of <a href="https://www.youtube.com/watch?v=sbj6BCLrZ_I" target="_blank">this video.</a>
 <br>Weird spacings, questionable grammar and wrong spelling ahead!*
@@ -178,7 +178,6 @@ Dont worry. We got this under control. Everything is fine. Focus on whats in fro
 
 Focus on the case.
 
-
 <h3>
 Choosing the action of acting on choices
 </h3>
@@ -254,8 +253,7 @@ maybe, not even realising that it is happening until it is too late, is the real
 
 <h3>
 Disco ad nauseam
-</h3>-
-
+</h3>
 But when failure consistenlty stops you from progressing,
 then you need to hunt for quests
 and grind for xp you need to suck all the content out of disco elysium, unil all the dialogue trees are dull and gray,
@@ -319,7 +317,7 @@ But maybe, it is also easy to overlook the four endings of disco elysium, becaus
 
 Thank you for ~~watching~~ reading.
 
-[back](thinking)
+[more thinks](thinking)
 
 
 
