@@ -6,7 +6,7 @@ current game<br>
 [PRODUCER (2021)](producer_2021)
 
 latest think<br>
-[about Disco Elysium (again))](about_disco_elysium)
+[about Disco Elysium (again)](about_disco_elysium)
 
 
 
