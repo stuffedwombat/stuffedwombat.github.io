@@ -4,7 +4,7 @@
 
 I do not like soup.<br>
 
-Soup is water with some chunks inside of it. Sad vegetables swim in luke-warm broth. Soup is a sorry mix of solid and liquid food, it can not decide what it wants to be and so it just throws two things into one pot and hopes for the best. You dont really eat soup, you drink and slurp and chew it at the same time. Instead of a spoon, they should give you a knife, a fork and a straw. Soup sucks.
+It's just water with some stuff  inside of it. Sad vegetables swim in luke-warm broth. Soup is a sorry mix of solid and liquid food, it can not decide what it wants to be and so it just throws two things into one pot and hopes for the best. You dont really eat soup, you drink and slurp and chew it at the same time. Instead of a spoon, they should give you a knife, a fork and a straw. Soup sucks.
 
 Stew, on the other hand, is a thick semi-fluid where solid chunks have soft edges and are slowly merging with everything else. Borders are becoming harder to define as vegetable becomes broth and broth becomes vegetable. In a stew, all parts are moving in the same direction, trying to become one unified, internally coherent eating experience.
 
