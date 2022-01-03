@@ -10,31 +10,27 @@ Stew, on the other hand, is a thick semi-fluid where solid chunks have soft edge
 
 I love stew.
 
-But this is, just like, my opinion, man. Like, it’s totally cool if you, like, disagree, or something.
-The important part about this distinction between soup and stew is not what you personally prefer, but how it reflects two opposing approaches to making videogames:
+But this is, just like, my opinion, man. Like, it’s totally cool if you, like, disagree, or something. The important part about this distinction between soup and stew is not what you personally prefer, but how it reflects two opposing approaches to making videogames:
 
-Do you aim to make a game that has several, separate systems? 
-If yes, then you want to make a soup that has distinct combat sequences, cutscenes and minigames!
+Do you aim to make a game that has several, separate systems? If yes, then you want to make a soup that has distinct combat sequences, cutscenes and minigames!
 
-Or do you aim to make a game that consists of as few distinct systems as possible? 
-If yes, then you want to make a stew, where every combat sequence is a little bit like a cutscene and a little bit like a minigame!
+Or do you aim to make a game that consists of as few distinct systems as possible? If yes, then you want to make a stew, where every combat sequence is a little bit like a cutscene and a little bit like a minigame!
 
-Stew is solving a sudoku that tells a short story.
+Stew is solving a sudoku that tells a short story.<br>
 Soup is solving a sudoku and then reading a short story.
 
 Making soup is fast. The individual ingredients should remain discrete from one another and so the soup has a limit to how long it is allowed to remain on the stove. 
 Making a stew takes a long time. It needs to simmer for hours until the hard edges between ingredients truly break down and begin to merge.
+
 Eating a stew is easy. It basically just slides down into your stomach, while consuming a soup requires you to constantly switch between drinking and chewing.
 
-Extreme soup is a piece of bread and a glass of water.
-First you take a bite and then you take a sip.
+Extreme soup is a piece of bread and a glass of water. First you take a bite and then you take a sip.
 
-Extreme stew is a single, gelatinous mass. 
-You slurp it all up with a big straw and then it is gone.
+Extreme stew is a single, gelatinous mass. You slurp it all up with a big straw and then it is gone.
 
 I just realised that I do not necessarily love stew unconditionally. The example of an extreme stew does not sound appealing to me at all and consequently I have decided to replace my previous statement regarding soup:
 
-I have nothing against soup, I just despise slurping.
+I have nothing against soup, <br>I just despise slurping.
 
 
 
