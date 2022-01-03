@@ -36,6 +36,8 @@ I just realised that I do not necessarily love stew unconditionally. The example
 
 I have nothing against soup, I just despise slurping.
 
-P.S.: In the weeks since writing this text I have encountered multiple very enjoyable soups and would like to redact all statements.
+
 
 [more thinks](thinking)
+
+*P.S.: In the weeks since writing this text I have encountered multiple very enjoyable soups and would like to redact all statements.*
