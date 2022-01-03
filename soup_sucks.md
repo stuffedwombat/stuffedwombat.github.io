@@ -2,31 +2,28 @@
 
 <h1>Soup sucks!</h1>
 
-I do not like soup.
-Soup is water with some chunks inside of it. Sad vegetables swim in luke-warm broth. Soup is a sorry mix of solid and liquid food, it can not decide what it wants to be and so it just throws two things into one pot and hopes for the best.
+I do not like soup.<br>
 
-You dont really eat soup, you drink and slurp and chew it at the same time. Instead of a spoon, they should give you a knife, a fork and a straw. Soup sucks.
+Soup is water with some chunks inside of it. Sad vegetables swim in luke-warm broth. Soup is a sorry mix of solid and liquid food, it can not decide what it wants to be and so it just throws two things into one pot and hopes for the best. You dont really eat soup, you drink and slurp and chew it at the same time. Instead of a spoon, they should give you a knife, a fork and a straw. Soup sucks.
 
 Stew, on the other hand, is a thick semi-fluid where solid chunks have soft edges and are slowly merging with everything else. Borders are becoming harder to define as vegetable becomes broth and broth becomes vegetable. In a stew, all parts are moving in the same direction, trying to become one unified, internally coherent eating experience.
+
 I love stew.
 
 But this is, just like, my opinion, man. Like, it’s totally cool if you, like, disagree, or something.
-
 The important part about this distinction between soup and stew is not what you personally prefer, but how it reflects two opposing approaches to making videogames:
 
 Do you aim to make a game that has several, separate systems? 
-If yes, then  you want to make a soup that has distinct combat sequences, cutscenes and minigames!
+If yes, then you want to make a soup that has distinct combat sequences, cutscenes and minigames!
 
 Or do you aim to make a game that consists of as few distinct systems as possible? 
 If yes, then you want to make a stew, where every combat sequence is a little bit like a cutscene and a little bit like a minigame!
 
-Soup is solving a sudoku and then reading a short story.
 Stew is solving a sudoku that tells a short story.
+Soup is solving a sudoku and then reading a short story.
 
-Ccooking a stew takes a long time. It needs to simmer for hours until the hard edges between ingredients truly break down and begin to merge.
-
-Making soup is faster and more immediate. The  individual ingredients should remain discrete from one another and so the soup does not need to simmer as long. 
-
+Making soup is fast. The individual ingredients should remain discrete from one another and so the soup has a limit to how long it is allowed to remain on the stove. 
+Making a stew takes a long time. It needs to simmer for hours until the hard edges between ingredients truly break down and begin to merge.
 Eating a stew is easy. It basically just slides down into your stomach, while consuming a soup requires you to constantly switch between drinking and chewing.
 
 Extreme soup is a piece of bread and a glass of water.
