@@ -1,6 +1,9 @@
 [back](index)
 
 <br>
+
+[quick notes on knife juggling](knife_juggling_190222)
+
 --->[about Disco Elysium (again)](about_disco_elysium)
 
 [X Manifestos](x_manifestos)
