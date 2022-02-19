@@ -1,4 +1,5 @@
 [back](thinking) 
+
 **quick notes on knife juggling:**
 
 for many years now i sometimes get the urge to juggle with a single knife. I want to throw the knife into the air, make it rotate X times and then catch it again, without hurting myself.
@@ -23,4 +24,4 @@ to do something consistently is a skill
 and i think i want to apply this principle to shipping & finishing games 🙂
 (also my hand is bleeding slightly)
 
-(back)[thinking]
+[back](thinking) 
