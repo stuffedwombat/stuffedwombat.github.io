@@ -18,9 +18,8 @@ today i just realised that while this works to get me to the highest possible X,
 
 this probably builds on years of knife juggling, but it is a lot harder and a lot more satisfying to exercise not just boundary pushing (get highest X) but also control within that boundary (get complicated sequence correctly) and it led me to this conclusion:
 
-to do something once is an achievement
-
-to do something consistently is a skill
+- to do something once is an achievement
+- to do something consistently is a skill
 
 and i think i want to apply this principle to shipping & finishing games 🙂
 (also my hand is bleeding slightly)
