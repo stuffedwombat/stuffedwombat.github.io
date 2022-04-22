@@ -1,4 +1,4 @@
-<h1>about the cost of choice in Dishonored 1 & 2</h1>
+<h1>the cost of choice in Dishonored 1 & 2</h1>
 
 <h3>Add & Abstract</h3>
 There are two important types of player choices in Dishonored:<br>
