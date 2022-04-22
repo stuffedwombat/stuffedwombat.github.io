@@ -70,7 +70,7 @@ In some instances this  unreflected dedication spills over into crude sexism, bu
 
 It is this compact coherence, this dramatic arc, that, together with the long term reactivity, makes dishonored 1 such an immensely replayable game.
 
-<h3>Coded Clockwork<h3>
+<h3>Coded Clockwork</h3>
  
 Dishonored 2 wants to be even more replayable. Not only does it frontload it's most impactfull decisions, it also heavily increases the amount of options you have, by simply growing in size. The streets of Karnaka are broad, the staircases are wide, the plazas are huge and the buildings are tall. The Levels are larger, more spacious and more interconnected, with less dead ends and more possible routes, with almost infinite ways to reach your goal.
 
