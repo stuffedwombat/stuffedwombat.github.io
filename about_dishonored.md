@@ -1,4 +1,4 @@
-<h1>Dishonored and the cost of choice</h1>
+<h1>about the cost of choice in Dishonored 1 & 2</h1>
 
 <h3>Add & Abstract</h3>
 There are two important types of player choices in Dishonored:<br>
@@ -66,21 +66,26 @@ Daud is THE killer, the murderer, the BAD assasin who killed the empress. You pl
 
 But where Dauds can be forgiven, Dishonored 1 is often incapable of delivering on its overly simplistic moral setup. To be GOOD you have to sneak and to not-kill, but most of the non-lethal takedowns are extremely cruel. These ironic reversal happen off-screen, in our imaginations, where they become much more brutal than any good clean videogame death could ever be. Lady boyles “crime” is of a sexual nature and so her punishement is as well, but as long as you dont kill the game thinks you are GOOD, even if you really aren't. In the same way, Pietro is not punished for peeking on callista, he is only ridiculed for getting caught, for being bad at stealth, because Dishonored 1 unquestioningly believes in its own ludonarrative setup.
 
-And it is exactly this dedication to it's own ideas that defines dishonored 1. In specific instances this dedication spills over into crude tastelessness, but for the most part it just creates a dense, responsive and dramatic gameplay experience.
-
-You have been betrayed and now you need to rescue emily and take revenge. After you get betrayed again, you rescue emily and take revenge again, but this time you climb from the lowest, plague ridden sewer to the highest hideout of the powerful in a single, breathless day.
+ In specific instances this dedication spills over into crude tastelessness, but for the most part it just creates a dense, responsive and dramatic gameplay experience. You have been betrayed and now you need to rescue emily and take revenge. After you get betrayed again, you rescue emily and take revenge again, but this time you climb from the lowest, plague ridden sewer to the highest hideout of the powerful in a single, breathless day.
 
 It is this compact coherence, this dramatic arc, that, together with it's dedication to the long term reactions to your short term actions, makes dishonored 1 such an immensely replayable game.
 
 <h3>Coded Clockwork<h3>
-  
-Where Dishonored 1 embraces it's GOOD/BAD dichotomy, Dishonored 2 embraces its frontloaded, abstract choice making to give you a world that is as full of different options as possible.
+ 
+Dishonored 2 wants to be even more replayable. Not only does it frontload it's most impactfull decisions, it also heavily increases the amount of moment to moment decisions, by simply increasing its size. The streets of Karnaka are broad, the staircases are wide, the plazas are huge and the buildings are tall. The Levels are larger, more spacious and more interconnected, with less dead ends and more possible routes, with almost infinite ways to reach your goal.
 
-Karnaka is beautiful. It's facades glimmer and shine even in desolation. Blue waves crash lazily against the white walls of the lively harbor. Yes, there is poverty and bloodflies and corruption, but it doesn't spill out into the streets, it remains compartmentalised and locked away in a city that, despite its problems, looks and feels like a perfect vacation destination.
+The replayability of Dishonored 2 comes not only from making a different accumulative choice, but also from choosing a different character, a different set of powers and an explicitly different path through the level. The Dust district allows you to not only choose how, but also who you want to neutralise, but then, just like with the no power mode, it also allows you to skip that choice all together.
   
-The streets are broad, the staircases are wide, the plazas are huge and the buildings are tall. The Levels are larger, more spacious and more interconnected, with less dead ends and more possible routes, almost infinite ways to reach your goals.
+The jindosh lock is microcosm of Dishonored 2. It's puzzle is abstractedly assembled out of a lot of unique options, meaning that it's solution always looks slightly different. There are different ways to get the solution but once you have opened the lock, it will always lead to the same place.
+
+The jindosh mansion takes this approach to game design and expands it into a whole level. the house has nearly infinite
+
+  
+Just as Dishonored 1 embraces it's GOOD/BAD dichotomy, Dishonored 2 embraces its frontloaded, abstract choice making to give you a world that is as full of different options as possible.
+
+Karnaka is beautiful. It's facades glimmer and shine even in desolation. Blue waves crash lazily against the white walls of the lively harbor. Yes, there is poverty and bloodflies and corruption, but it doesn't spill out into the streets, it remains compartmentalised and locked away in a city that, despite its problems, looks and feels like a perfect vacation destination. The streets are broad, the staircases are wide, the plazas are huge and the buildings are tall. The Levels are larger, more spacious and more interconnected, with less dead ends and more possible routes and almost infinite ways to reach your goal.
  
- 
+There are no dramatic turns and twists to the story,  you simply get closer and closer to your enemie before taking her down and in a general step back from the first games ethical problems, Dishonored 2s non-lethal takedowns are restorative instead of ironic. They dont punish, they reset your enemies back to how they where before the met delialah. 
 
   
   
