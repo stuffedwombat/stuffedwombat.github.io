@@ -12,7 +12,7 @@ I am not here to determine which of the two games is more or less "flawed". I ju
 
 <h3>The most important decision</h3>
 
-Exchanging cutscenes, voicelines and cinematics in response to Player Choice is expensive, but making mutually exclusive gameplay-content is extremely expensive. If we want to understand what specific type of player choice each dishonored game cares about, we just have to look for the decision that has the biggest impact on gameplay.
+Exchanging cutscenes, voicelines and cinematics in response to Player Choice is expensive, but making mutually exclusive gameplay-content is extremely expensive. If we want to understand what specific type of player choice each dishonored game cares about, we just have to look for the decision that has the biggest impact on gameplay.<br>
 
 The most important Player choice in Dishonored 1 is accumulative, because the later levels change in response to your chaos system.
 Your moment to moment actions not only add up to GOOD or BAD Ending Slides, they also add up to a completely different late-game experience.
@@ -107,11 +107,11 @@ Dishonored 2 removes that friction and replaces it with so many player choices. 
 
 Arkanes other Immersive Sims are also all moving into this less judgemental and more emergent direction. They are becoming less linear and more explicit about their status as simulations, turning into a collection of interactive systems that can all talk to each other but that dont have a lot to say, allowing you to enjoy them for what they are, instead of confronting you with what they want to represent.
 
-I did not write  this text to determine which Dishonored is "genius" and which is "garbage". I just wanted to compare the two games, to better understand how they work and to find out what they are.
-Now i can finally say that:
+I did not write  this text to determine which Dishonored is "genius" and which is "garbage". I just wanted to compare the two games, to better understand how they work and to find out what they are.<br>
+Now i can finally say that:<br>
 
-* Dishonored 1 is immersive, while
-* Dishonored 2 is a simulation.
+* Dishonored 1 is immersive, while<br>
+* Dishonored 2 is a simulation.<br>
 
 Thank you for reading.
 
