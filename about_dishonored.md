@@ -56,63 +56,39 @@ Dishonored 2 runs on emergence.
 
 <h3> Dedication to Drama </h3>
 
-Where Dishonored 2 is open and free, Dishonored 1 is linear and claustrophibic.
-It is full of narrow streets and cramped staircases, full of dead ends and small alleys. This compact enviornment gives the developers an almost cinematic control over when and how you see the vistas in the difference, it allows them to pace levels as a series of open and closed spaces, as a collection of dramatic differences.
+And where Dishonored 2 is open and free, Dishonored 1 is linear and claustrophibic.
+It is full of narrow streets and cramped staircases, full of dead ends and small alleys. This compact enviornment gives the developers an almost cinematic control over when and how you see the vistas in the distance, it allows them to pace levels as a series of open and closed spaces, as a collection of dramatic differences.
 
 Dunwall is a city of light and dark, of rich and poor, of plague and parties, it is a city of GOOD and BAD, a place as full of contrasts as one would expect from all the theatre spotlights that have been left lying around.
 
-Some of the characters that step onto this dramatic stage are given equally dramatic weight.
+Some of the characters that step onto this stage are given equally dramatic weight.
 Daud is THE killer, the murderer, the BAD assasin who killed the empress. You place Corvo, THE bodyguard, the protector of life, who now gets to decide if he wants to become like Daud or not. But when you finally meet the assasin, he himself has made the choice to change and asks for his life, just like you might have changed yourself, now  being unwilling to fulfill his request.
 
-But where Dauds can be forgiven, Dishonored 1 is often incapable of delivering on its overly simplistic moral setup. To be GOOD you have to sneak and to not-kill, but most of the non-lethal takedowns are extremely cruel. These ironic reversal happen off-screen, in our imaginations, where they become much more brutal than any good clean videogame death could ever be. Lady boyles “crime” is of a sexual nature and so her punishement is as well, but as long as you dont kill the game thinks you are GOOD, even if you really aren't. In the same way, Pietro is not punished for peeking on callista, he is only ridiculed for getting caught, for being bad at stealth, because Dishonored 1 unquestioningly believes in its own ludonarrative setup.
+But where Dauds can be forgiven, Dishonored 1 is often incapable of engaging with its reductive, simplistic moral setup. To be GOOD you have to sneak and to not-kill, but most of the non-lethal takedowns are extremely cruel. These ironic reversal happen off-screen, in our imaginations, where they become much more brutal than any good clean videogame death could ever be. Lady boyles “crime” is of a sexual nature and so her punishement is as well, but as long as you dont kill the game thinks you are GOOD, even if you really aren't. In the same way, Pietro is not punished for peeking on callista, he is only ridiculed for getting caught, for being bad at stealth, because Dishonored 1 unquestioningly believes in its own ludonarrative setup.
 
- In specific instances this dedication spills over into crude tastelessness, but for the most part it just creates a dense, responsive and dramatic gameplay experience. You have been betrayed and now you need to rescue emily and take revenge. After you get betrayed again, you rescue emily and take revenge again, but this time you climb from the lowest, plague ridden sewer to the highest hideout of the powerful in a single, breathless day.
+In some instances this  unreflected dedication spills over into crude sexism, but for the most part it just creates a dense, responsive and dramatic gameplay experience. You have been betrayed and now you need to rescue emily and take revenge. After you get betrayed again, you rescue emily and take revenge again, but this time you climb from the lowest, plague ridden sewer to the highest hideout of the powerful in a single, breathless day.
 
-It is this compact coherence, this dramatic arc, that, together with it's dedication to the long term reactions to your short term actions, makes dishonored 1 such an immensely replayable game.
+It is this compact coherence, this dramatic arc, that, together with the long term reactivity, makes dishonored 1 such an immensely replayable game.
 
 <h3>Coded Clockwork<h3>
  
-Dishonored 2 wants to be even more replayable. Not only does it frontload it's most impactfull decisions, it also heavily increases the amount of moment to moment decisions, by simply increasing its size. The streets of Karnaka are broad, the staircases are wide, the plazas are huge and the buildings are tall. The Levels are larger, more spacious and more interconnected, with less dead ends and more possible routes, with almost infinite ways to reach your goal.
+Dishonored 2 wants to be even more replayable. Not only does it frontload it's most impactfull decisions, it also heavily increases the amount of options you have, by simply growing in size. The streets of Karnaka are broad, the staircases are wide, the plazas are huge and the buildings are tall. The Levels are larger, more spacious and more interconnected, with less dead ends and more possible routes, with almost infinite ways to reach your goal.
 
-The replayability of Dishonored 2 comes not only from making a different accumulative choice, but also from choosing a different character, a different set of powers and an explicitly different path through the level. The Dust district allows you to not only choose how, but also who you want to neutralise, but then, just like with the no power mode, it also allows you to skip that choice all together.
+The replayability of Dishonored 2 comes not only from making a different accumulative choice, but also from choosing a different character, a different set of powers and an explicitly different path through the levels. The Dust district allows you to not only choose how, but also who you want to neutralise, but then, just like with the no power mode, it also allows you to skip that choice all together.
   
-The jindosh lock is microcosm of Dishonored 2. It's puzzle is abstractedly assembled out of a lot of unique options, meaning that it's solution always looks slightly different. There are different ways to get the solution but once you have opened the lock, it will always lead to the same place.
+The jindosh lock is a lot like Dishonored 2. It is a randomised puzzle, abstractedly assembled out of a lot of predefined options. It's solution always looks different and there are many, many different ways to get to that solution but once you have opened the lock, it always leads to the same place.
 
-The jindosh mansion takes this approach to game design and expands it into a whole level. the house has nearly infinite
-
-  
-Just as Dishonored 1 embraces it's GOOD/BAD dichotomy, Dishonored 2 embraces its frontloaded, abstract choice making to give you a world that is as full of different options as possible.
-
-Karnaka is beautiful. It's facades glimmer and shine even in desolation. Blue waves crash lazily against the white walls of the lively harbor. Yes, there is poverty and bloodflies and corruption, but it doesn't spill out into the streets, it remains compartmentalised and locked away in a city that, despite its problems, looks and feels like a perfect vacation destination. The streets are broad, the staircases are wide, the plazas are huge and the buildings are tall. The Levels are larger, more spacious and more interconnected, with less dead ends and more possible routes and almost infinite ways to reach your goal.
+The levels of dishonored 2 are compartmentalised, locked off from each other. There are no twists or turns in the story, you just get closer and closer to delilah until you detrone her, and so the levels are instead built around specific, unique selling points.
  
-There are no dramatic turns and twists to the story,  you simply get closer and closer to your enemie before taking her down and in a general step back from the first games ethical problems, Dishonored 2s non-lethal takedowns are restorative instead of ironic. They dont punish, they reset your enemies back to how they where before the met delialah. 
+The harbor welcomes and grounds you in the living, breathing city of karnaka, while dr hypatia directly negotiates the potential for GOOD and BAD of the chaos system. The conservatorium exhibits beautiful assets and the dukes palace is a modern piece of architecture, inhabited by a randomly placed body double. First and last levels are located in dunwall, allowing you to leave and return to changed city, but it are the manors of stilton and jindosh that stand out and that best represent Dishonored 2 as a whole.
 
-  
-  
-<h3> The whole wide world </h3>
+The crack in the slab allows you to experience the long term reactivity of the chaos system on fast forward. If you kill stilton, the world becomes worse and megan looses her arm and eye, but if you are GOOD, then the world will become better, all in the blink of an eye, made immedietly obeserveable only to you, significantly speeding up the delayed response of the first games larger arc, because Dishonored 2 wants you to have as many choices as possible NOW, in the moment to moment gameplay.
 
-These different approaches to player choice are most pronounced in the gameplay, but their effects go much deeper than that, reverberate through the games settings, plot and fantasies. The mechanical differences can be felt in every aspect of the two games.
-
-Dishonored 1 is really committed to it's overly simplistic GOOD and BAD dichotomy.
-To be GOOD you have to sneak and to not-kill, but the non-lethal takedowns are extremely cruel. These ironic reversal happen off-screen, in our imaginations, where they become much more brutal than any good clean videogame death could ever be. Lady boyles “crime” is of a sexual nature and so her punishement is as well, but as long as you dont kill the game thinks you are GOOD, even if you really aren't. In the same way, Pietro is not punished for peeking on callista, he is only ridiculed for getting caught, for being bad at stealth, because Dishonored 1 unquestioningly believes in its own ludonarrative setup. Daud is the BAD, murdering Assasin, while you are the GOOD bodyguard who protects life, but when you meet again, your roles might have changed.
-
-Dunwall is as full of contrasts as you would expect from all the spotlights that have been left lying around, its a city of rich and poor, of bright and dark, of healthy and sick, of GOOD and BAD, a city that runs on a dramatic arc, where you get betrayed, have to rescue emily and take revenge. The first two levels follow the same structure and introduce the city before the sokolv bridge and lady boaylse social stealth mix up the gameplay. Inbetween missions the many NPCs of the hounds pit pub react to your choices and give you your sidequest. After you get betrayed again, you rescue emily and take revenge again, but this time you climb from the lowest, plague ridden sewer to the highest hideout of the powerful in a single, breathless day.
-
-
-Because Karnaka is beautiful. It's facades glimmer and shine even in desolation and corruption. Blue waves crash lazily against the white walls of the lively harbor. The bloodflies dont spill out of their infected houses. Wide staircases run through tall buildings, connecting appartements and balconies to huge plazas and broad streets as you make your way through a city that feels like a perfect vacation destination.
-
-In a general move away from the ethical problems of the first game, nonlethal takedowns are no longer ironic reversals but restorative, resetting your targets to how they were before theymet delilah. Only Jindosh, the arrogant tech bro stand-in gets it bad, perhaps as a kind of apology for what happened to Lady Boyle.
-
-Instead of Daud, Dishonored 2 uses Dr. Hypatia to reflect the potential for GOOD and BAD that the player carries within them, but instead of having that confrontation at the end of the game,
-
-* All missions are small steps towards your single, overarching goal of bringing down delilah. The levels you travel through are disconnected from one another and instead all have memorable, unique selling points. As usual, the jindosh mansion and the crack in the slab stand out.
-
-* The Stilton manor allows you to experience the long term effects of your short term actions in fast forward. If you kill stilton, the world becomes BAD, if you dont kill him, the world become GOOD, but the change happens instantly and does not spill over into the gameplay of the other levels.
-
-* Jindosh Mansion is a level designers dream. Just like the testing chambers of Portal, it makes the artificial nature of videogames diegetic. The debugging voicelines of the clockwork soldiers run on the same code as the barks of human NPCs, but they have more movement options than humans, they are more versatile. They allow you to have FUN while fighting them because they are not alive and therefor, destroying them is not BAD.
-
-Dishonored 2 is like the jindosh lock. It only leads to one place, but how you open it is always different. 
-Dishonored 1 is like the water lock.  There is only one way through it, but the place it leads to varies.
+The game is so focused on this that in the Jindosh mansion it accidentally becomes explicit about its existance as a videogame. You pull a lever and the walls move, configuring themselves into a new position in reaction to your input. This is just how videogames look through the eyes of a level designer. You enter a room and the cutscene begins. You open a door and the enemies spawn, you pull a lever  and the world changes. The jindosh mansion just makes this diegetic and explicit. 
+ 
+The clockwork soldiers are literal walking, talking statemachines, their debugging voicelines are almost parodies of how NPCs actually work in games. The human guards you face probably use the same underlying AI code, but they are presented as human. Killing them has to be BAD, but the robots are free game.
+ 
+Where the special enemies of Dishonored 1 keep you from using your powers and counter your height advantage, the clockwork soldiers do not restrict you. Instead they have more options themselves. They can jump and walk and run and shoot and fight and overheat and they can be hacked and confused and beheaded and to explain all of their game states, they have to be machines, they have to be explicitly artificial, they have to reveal that they are running on coded clockwork.
 
 <h3>ImSim</h3>
 
