@@ -1,9 +1,5 @@
 <h1>Dishonored and the cost of choice</h1>
 
-Killing is BAD.<br>
-Not-killing is GOOD.<br>
-In this text, I will compare Dishonored 1 & 2, not to find out which game is more or less "flawed", but to better understand how they work and, maybe, to find out what they are. I am assuming you are familiar with both games and will spoil everything in the process.
-
 <h3>Add & Abstract</h3>
 There are two important types of player choices in Dishonored:<br>
 
@@ -11,17 +7,18 @@ The Chaos System Tracks your GOOD or BAD actions and when a certain threshold is
 
 The other type of player choice happens in menus where you can decide which of your powers you want to upgrade. Every single one of these choices has a huge and immediate impact on the game, radically change how you relate to the obstacles in the world, but they do not change the world itself. And so the second important type of player choice in dishonored is abstract.
 
-Both games use both types of choices, but they disagree heavily on which one they should focus on.
+It is the difference between these two types of player choices that also makes up the difference between Dishonored 1 and 2.
+I am not here to determine which of the two games is more or less "flawed". I just want to compare them to better understand how they work and to , maybe, find out what they are. I am assuming you are familiar with both games and will spoil everything in the process.
 
 <h3>The most important decision</h3>
 
-Exchanging cutscenes, voicelines and cinematics in response to Player Choice is expensive, but making mutually exclusive gameplay-content is extremely expensive. And so, if we want to understand what specific player choice each dishonored game cares about the most, we just have to search for the choice that leads to the most mutual exclusivity:
+Exchanging cutscenes, voicelines and cinematics in response to Player Choice is expensive, but making mutually exclusive gameplay-content is extremely expensive. If we want to understand what specific type of player choice each dishonored game cares about, we just have to look for the decision that has the biggest impact on gameplay.
 
-The most important Player choice in Dishonored 1 is accumulative, because the later levels of the game change in response to your chaos system.
-Your moment to moment actions not only add up to GOOD or BAD Ending Slides, they also add up to a completely different late-game experience
-Your abstract choices about powers and bonecharms will change how easy it is to be GOOD or BAD, but the most important decision, the actual player choice, is made incrementally, through the moment to moment gameplay.
+The most important Player choice in Dishonored 1 is accumulative, because the later levels change in response to your chaos system.
+Your moment to moment actions not only add up to GOOD or BAD Ending Slides, they also add up to a completely different late-game experience.
+The abstract choices about powers and bonecharms will change how easy it is to be GOOD or BAD, but the most important decision, the actual player choice, is made incrementally, through the moment to moment gameplay.
 
-Dishonored 2 also uses this Chaos System, but it does not lean into it so much. The last level will always be exactly the same, without regard for wether you have been Good or Bad . Instead, the most important choice of Dishonored 2 is abstract. it happens right in the beginning: Do you want to play Emily or Corvo? This single decision immediately locks you out of half the powers in the game and then, shortly afterwards, you get to decide if you even want any powers at all, creating a large amount of unique combinations of Character-powers-chaos rating for you to abstractedly player choose from.
+Dishonored 2 also uses this Chaos System, but it does not lean into it so much. The last level will always be exactly the same, without regard for wether you have been Good or Bad . Instead, the most important choice of Dishonored 2 is abstract and it happens right in the beginning: Do you want to play Emily or Corvo? This single decision immediately locks you out of half the powers in the game and then, shortly afterwards, you get to decide if you even want any powers at all, creating a large amount of unique combinations of Character-powers-chaos rating for you to abstractedly player choose from.
 
 In dishonored 1 you change the world accumulatively by making a single choice over and over again.<br>
 In dishonored 2 you change yourself at the click of a button, while the world remains the same.
@@ -52,10 +49,41 @@ It is exactly this calcification of playstyles that Dishonored 2 is attacking wi
 
 By frontloading it's most important decisions, Dishonored 2 is explicitly inviting you to replay in a different style not only once, but multiple times with different starting parameters. You have a lot more options to choose from in the moment to moment gameplay and you get judged less for enjoying yourself. The last mission will always be the same, no matter if you have been GOOD or BAD and so you can make your decisions without loosing out on any content.
 
-Once you embrace the chanche to accidentally kill someone, once you stop to reload and just let the systems run their course, they will produce truly unique, strange, interesting situations. This is also true for the first game, but here, in the sequel, your wide arsenal of choices allows for a much wider range of emergent gameplay.
+Once you embrace the chanche to accidentally kill someone, once you stop to reload and just let the systems run their course, they will produce truly unique, strange and interesting situations. This is also true for the first game, but here, in the sequel, the sheer amount of possible options, as well as the increased level size and reduced judgement for killing, leads to a incredibly rich and free sandbox experience.
 
-Because while Dishonored 1 runs on friction, Dishonored 2 runs on emergence.
+Because while Dishonored 1 runs on friction,
+Dishonored 2 runs on emergence.
 
+<h3> Dedication to Drama </h3>
+
+Where Dishonored 2 is open and free, Dishonored 1 is linear and claustrophibic.
+It is full of narrow streets and cramped staircases, full of dead ends and small alleys. This compact enviornment gives the developers an almost cinematic control over when and how you see the vistas in the difference, it allows them to pace levels as a series of open and closed spaces, as a collection of dramatic differences.
+
+Dunwall is a city of light and dark, of rich and poor, of plague and parties, it is a city of GOOD and BAD, a place as full of contrasts as one would expect from all the theatre spotlights that have been left lying around.
+
+Some of the characters that step onto this dramatic stage are given equally dramatic weight.
+Daud is THE killer, the murderer, the BAD assasin who killed the empress. You place Corvo, THE bodyguard, the protector of life, who now gets to decide if he wants to become like Daud or not. But when you finally meet the assasin, he himself has made the choice to change and asks for his life, just like you might have changed yourself, now  being unwilling to fulfill his request.
+
+But where Dauds can be forgiven, Dishonored 1 is often incapable of delivering on its overly simplistic moral setup. To be GOOD you have to sneak and to not-kill, but most of the non-lethal takedowns are extremely cruel. These ironic reversal happen off-screen, in our imaginations, where they become much more brutal than any good clean videogame death could ever be. Lady boyles “crime” is of a sexual nature and so her punishement is as well, but as long as you dont kill the game thinks you are GOOD, even if you really aren't. In the same way, Pietro is not punished for peeking on callista, he is only ridiculed for getting caught, for being bad at stealth, because Dishonored 1 unquestioningly believes in its own ludonarrative setup.
+
+And it is exactly this dedication to it's own ideas that defines dishonored 1. In specific instances this dedication spills over into crude tastelessness, but for the most part it just creates a dense, responsive and dramatic gameplay experience.
+
+You have been betrayed and now you need to rescue emily and take revenge. After you get betrayed again, you rescue emily and take revenge again, but this time you climb from the lowest, plague ridden sewer to the highest hideout of the powerful in a single, breathless day.
+
+It is this compact coherence, this dramatic arc, that, together with it's dedication to the long term reactions to your short term actions, makes dishonored 1 such an immensely replayable game.
+
+<h3>Coded Clockwork<h3>
+  
+Where Dishonored 1 embraces it's GOOD/BAD dichotomy, Dishonored 2 embraces its frontloaded, abstract choice making to give you a world that is as full of different options as possible.
+
+Karnaka is beautiful. It's facades glimmer and shine even in desolation. Blue waves crash lazily against the white walls of the lively harbor. Yes, there is poverty and bloodflies and corruption, but it doesn't spill out into the streets, it remains compartmentalised and locked away in a city that, despite its problems, looks and feels like a perfect vacation destination.
+  
+The streets are broad, the staircases are wide, the plazas are huge and the buildings are tall. The Levels are larger, more spacious and more interconnected, with less dead ends and more possible routes, almost infinite ways to reach your goals.
+ 
+ 
+
+  
+  
 <h3> The whole wide world </h3>
 
 These different approaches to player choice are most pronounced in the gameplay, but their effects go much deeper than that, reverberate through the games settings, plot and fantasies. The mechanical differences can be felt in every aspect of the two games.
@@ -65,8 +93,6 @@ To be GOOD you have to sneak and to not-kill, but the non-lethal takedowns are e
 
 Dunwall is as full of contrasts as you would expect from all the spotlights that have been left lying around, its a city of rich and poor, of bright and dark, of healthy and sick, of GOOD and BAD, a city that runs on a dramatic arc, where you get betrayed, have to rescue emily and take revenge. The first two levels follow the same structure and introduce the city before the sokolv bridge and lady boaylse social stealth mix up the gameplay. Inbetween missions the many NPCs of the hounds pit pub react to your choices and give you your sidequest. After you get betrayed again, you rescue emily and take revenge again, but this time you climb from the lowest, plague ridden sewer to the highest hideout of the powerful in a single, breathless day.
 
-Dishonored 1 runs on a dramatic arc.
-Dishonored 2 is compartmentalised. 
 
 Because Karnaka is beautiful. It's facades glimmer and shine even in desolation and corruption. Blue waves crash lazily against the white walls of the lively harbor. The bloodflies dont spill out of their infected houses. Wide staircases run through tall buildings, connecting appartements and balconies to huge plazas and broad streets as you make your way through a city that feels like a perfect vacation destination.
 
@@ -94,13 +120,11 @@ The faster, the smoother, the more convenient it is to just move my character, t
 On its own, this is just how videogames work, what sets the old immersive sims apart is that they dont just model murder, that they try to treat their worlds as more-dimensional, that they have more than just combat simulations, that they allow you to play your own way.
 
 On the surface, dishonored 1 is a modern game. Its controls are standardised, its quick access wheel is best practictified and the all powerful contextual "E" button always knows which keys you have. The friction, the jankyness of old Immersive Sims is less surface level, less easy to find, but it is still there. Where it's predecessors require you to immerse yourself into their control schemes, Dishonored 1 requires you to immerse yourself in it's morality system. 
-If you are BAD, you will get the dramatic ending, if you are GOOD you will get an anti-climax. From the perspective of its own internal logic, this makes sense, from a modern videogame perspective, this is strange and weird, and it is exactly this friction, this unwillingness to try to always please every player, that defines dishonored 1.
+If you are BAD, you will get the exciting ending, if you are GOOD you will get an anti-climax. From the perspective of its own internal logic, this makes sense, from a modern videogame perspective, this is strange and weird, and it is exactly this friction, this unwillingness to try to always please every player, that defines dishonored 1.
 
 Dishonored 2 removes that friction and replaces it with so many player choices. Making the hard decision between GOOD and BAD is now merely one of many tasty options that the buffet of Dishonored 2 offers you. This truly modern game is not interested in making you believe in its world, it wants you to enjoy its gameplay, it wants you to replay the scenario for days, with the variables replaced, and to facilitate that, it needs to be as smooth as possible.
 
 Arkanes other Immersive Sims are also all moving into this less judgemental and more emergent direction. They are becoming less linear and more explicit about their status as simulations, turning into a collection of interactive systems that can all talk to each other but that dont have a lot to say, allowing you to enjoy them for what they are, instead of confronting you with what they want to represent.
-
-Where Dishonored 1 has audiologs that tell you stories about the world. Dishonored 2 has typewriters that allow you to tell your own stories about yourself.
 
 I did not write  this text to determine which Dishonored is "genius" and which is "garbage". I just wanted to compare the two games, to better understand how they work and to find out what they are.
 Now i can finally say that:
