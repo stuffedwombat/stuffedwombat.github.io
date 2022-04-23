@@ -124,5 +124,7 @@ Now i can finally say that:
 
 Thank you for reading.
 
+*Thanks to Felix, Fynn, Klipo and the people from the Arkane Discord for help with the script. I will record and edit this thing when I have more time :)*
+
 [back](index)<br>
 [more thinks](thinking)
