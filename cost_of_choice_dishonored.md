@@ -1,7 +1,7 @@
 [back](index)<br>
 [more thinks](thinking)
 
-<h1>The Cost of choice in Dishonored 1 & 2</h1>
+<h1>The Cost of Choice in Dishonored 1 & 2</h1>
 
 *This is the script for a video essay. Sadly, I do not have the time to actually record and edit it, so I am publishing it here for now. Spelling mistakes & spoilers ahead. ~ josh 23.04.2022*
 
