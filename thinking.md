@@ -2,7 +2,7 @@
 
 <br>
 
----> [the cost of choice in Dishonored 1 & 2](cost_of_choice_dishonored)
+---> [The Cost of Choice in Dishonored 1 & 2](cost_of_choice_dishonored)
 
 [quick notes on knife juggling](knife_juggling_190222)
 
