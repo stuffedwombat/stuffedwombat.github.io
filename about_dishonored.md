@@ -3,7 +3,7 @@
 <h3>add & abstract</h3>
 There are two types of player choice in Dishonored:
 
-The chaos system tracks your GOOD or BAD actions and when a certain threshold is crossed, the games switch over into the corresponding state of LOW or HIGH Chaos. A single, specific action might push you over the edge in either direction, but it will never be enough to sway the tide on its own. It is the sum of your moment to moment gameplay decisions that changes the world and so the first type of player choice in Dishonored is accumulative.
+The chaos system tracks your GOOD or BAD actions and when a certain threshold is crossed, the games switch over into the corresponding state of low or high Chaos. A single, specific action might push you over the edge in either direction, but it will never be enough to sway the tide on its own. It is the sum of your moment to moment gameplay decisions that changes the world and so the first type of player choice in Dishonored is accumulative.
 
 The other type of player choice happens in menus where you can decide which of your powers you want to upgrade. Every single one of these more removed choices has a huge and immediate impact on the game, radically changing how you relate to the obstacles in the world, but they do not change the world itself. And so the second type of player choice in dishonored is abstract.
 
@@ -117,3 +117,4 @@ Now i can finally say that:
 * Dishonored 2 is a simulation.<br>
 
 Thank you for reading.
+
