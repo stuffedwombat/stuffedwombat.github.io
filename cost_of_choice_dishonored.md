@@ -32,8 +32,6 @@ In dishonored 2 you change yourself at the click of a button, while the world re
 
 <h3>The cost of choice</h3>
 
-This fundamental difference between the two games has a heavy impact on how expensive it is to make choices.
-
 Dishonored 1, with its focus on the difference between GOOD and BAD, makes you pay a high price to be GOOD. If you want to not-kill then you have to ignore more than half of the tools that you are given. You can not shoot your pistol, you can not use crowd control, you can not drop-down-assasinate. Instead, you have to sneak, you have to slowly choke people from the shadows and you have to run away.
 
 This is less immediate, less direct, less FUN than simply using your full arsenal, but the gratification is merely delayed. The satisfaction of stealth is just a different, slower paced, less accessible type of fun. Instead of removing every enemy in your path, you have removed yourself from their paths.
