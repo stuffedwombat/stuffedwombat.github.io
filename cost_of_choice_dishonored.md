@@ -1,11 +1,11 @@
 [back](index)
 
-<h1>the cost of choice in Dishonored 1 & 2</h1>
+<h1>The Cost of choice in Dishonored 1 & 2</h1>
 
 *This is the script for a video essay. Sadly, I do not have the time to actually record and edit it, so I am publishing it here for now. Spelling mistakes & spoilers ahead. ~ josh 23.04.2022*
 
 
-<h3>add & abstract</h3>
+<h3>Add & abstract</h3>
 There are two types of player choice in Dishonored:
 
 The chaos system tracks your GOOD or BAD actions and when a certain threshold is crossed, the games switch over into the corresponding state of low or high Chaos. A single, specific action might push you over the edge in either direction, but it will never be enough to sway the tide on its own. It is the sum of your moment to moment gameplay decisions that changes the world and so the first type of player choice in Dishonored is accumulative.
