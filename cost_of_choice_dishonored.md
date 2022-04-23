@@ -62,7 +62,7 @@ It is exactly this calcification of playstyles that Dishonored 2 is attacking wi
 
 By frontloading it's most important decisions, Dishonored 2 is explicitly inviting you to replay in a different style not only once, but multiple times with different starting parameters. You have a lot more options to choose from in the moment to moment gameplay and you get judged less for enjoying yourself. The last mission will always be the same, no matter if you have been GOOD or BAD and so you can make your choices without loosing out on any content.
 
-Once you embrace the chanche to accidentally kill someone, once you stop to reload, once you just let the systems run their course they will produce truly unique, strange and interesting situations. This is also true for the first game, but here, in the sequel, the sheer amount of possible options, as well as the increased level size and reduced judgement for killing, leads to a incredibly rich and free sandbox experience that, managed to break me out of my routine playstyle and encouraged me to enjoy the experimentation.
+Once you embrace the chanche to accidentally kill someone, once you stop to reload, once you just let the systems run their course they will produce truly unique, strange and interesting situations. This is also true for the first game, but here, in the sequel, the sheer amount of possible options, as well as the increased level size and reduced judgement for killing, leads to a incredibly rich and free sandbox experience that managed to break me out of my routine playstyle and encouraged me to enjoy the experimentation.
 
 Because while Dishonored 1 runs on friction,
 Dishonored 2 runs on emergence.
