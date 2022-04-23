@@ -1,4 +1,5 @@
-[back](index)
+[back](index)<br>
+[more thinks](thinking)
 
 <h1>The Cost of choice in Dishonored 1 & 2</h1>
 
