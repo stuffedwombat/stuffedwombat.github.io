@@ -2,11 +2,11 @@
 
 <br>
 
-[the cost of choice in Dishonored 1 & 2](cost_of_choice_dishonored)
+---> [the cost of choice in Dishonored 1 & 2](cost_of_choice_dishonored)
 
 [quick notes on knife juggling](knife_juggling_190222)
 
---->[about Disco Elysium (again)](about_disco_elysium)
+[about Disco Elysium (again)](about_disco_elysium)
 
 [X Manifestos](x_manifestos)
 
