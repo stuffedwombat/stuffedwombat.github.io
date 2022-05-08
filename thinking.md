@@ -11,12 +11,11 @@
 **all thinks:**
 - [about Dishonored 1 & 2](about_dishonored)
 - [quick notes on knife juggling](knife_juggling_190222)
-- [about Disco Elysium (again)](about_disco_2)
+- [about Disco Elysium](about_disco_elysium)
 - [X Manifestos](x_manifestos)
 - [about Rainworld](about_rainworld)
 - [about Limbo & INSIDE](about_limbo_inside)
 - [Discourse Tracker](discourse_tracker)
-- [about Disco Elysium](about_disco_1)
 - [Discourse Tracker](discourse_tracker)
 - [thoughts on wholesome games](wholesome)
 - [10000](10000)
