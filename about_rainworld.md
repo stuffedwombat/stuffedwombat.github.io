@@ -1,10 +1,8 @@
-[index](index)<br>
-[more thinks](thinking)
-
 # about Rainworld
 
-*I wanted to put the script for [this youtube video](https://www.youtube.com/watch?v=cw6cCOrkaSQ) here, but I lost it.*
-*sry*
+*This was supposed to be the place for the script of [this](https://www.youtube.com/watch?v=cw6cCOrkaSQ) youtube video*<br>
+*I appear to have lost the script.*<br>
+*sry*<br>
 
 [index](index)<br>
 [more thinks](thinking)
