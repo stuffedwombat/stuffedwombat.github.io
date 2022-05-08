@@ -1,7 +1,9 @@
 [more thinks](thinking)
 
 *This is the barely edited script of <a href="https://www.youtube.com/watch?v=sbj6BCLrZ_I" target="_blank">this video.</a>
-<br>Weird spacings, questionable grammar and wrong spelling ahead!*
+<br>Weird spacings, questionable grammar and wrong spelling ahead!*<br>
+<br> *I have also tried to talk [about Disco Elysium](https://www.youtube.com/watch?v=eqgKnwjRC6I) in my first video essay, but I did not like it and made this one instead.* <br> *Sadly, I am also not a big fan of the new attempt.*<br> *I am currently working on my last attempt at talking about Disco Elysium.*
+
 
 <h1>about Disco Elysium (again)</h1>
 
