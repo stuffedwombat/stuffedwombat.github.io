@@ -16,7 +16,6 @@
 - [about Rainworld](about_rainworld)
 - [about Limbo & INSIDE](about_limbo_inside)
 - [Discourse Tracker](discourse_tracker)
-- [Discourse Tracker](discourse_tracker)
 - [thoughts on wholesome games](wholesome)
 - [10000](10000)
 - [design terms](design_terms)
