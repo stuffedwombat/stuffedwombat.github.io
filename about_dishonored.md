@@ -117,7 +117,7 @@ Now i can finally say that:
 Thank you for ~~watching~~ reading.
 
 
-Thanks to Felix, Fynn, Mer, Klipo and the people from the Arkane Discord for help with the script and Clovelt for invaluable audio magic!
+*Thanks to Felix, Fynn, Mer, Klipo and the people from the Arkane Discord for help with the script and Clovelt for invaluable audio magic!*
 
 [index](index)<br>
 [more thinks](thinking)
