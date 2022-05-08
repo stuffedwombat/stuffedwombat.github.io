@@ -2,6 +2,7 @@
 
 **good thinks:**
 - [about Dishonored 1 & 2](about_dishonored)
+- [about Rainworld](about_rainworld)
 - [design terms](design_terms)
 - [the small game](the_small_game)
 - [The three ways of designing games](threeways)
