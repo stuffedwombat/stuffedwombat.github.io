@@ -1,7 +1,7 @@
 [back](thinking)<br>
 13.08.2022
 <h1>producing PRODUCER 2021</h1><br>
-<h2>01 - the week of sinus</h2>
+<h2>01 - the week of sine</h2>
 
 After losing my glasses in a lake, I had to start writing text in a google doc with font size 16. This means that there is now a huge gap in my workflow. I have to first set up the logical structure of a sequence, then switch to the doc to write and then copy-paste the text into the visual scripting blocks of my homebrew framework.
 This has been great for the linear parts of the game, where the quality of text is more important than the quality of interaction.
@@ -12,7 +12,7 @@ The problem with setting up structure first and copy-pasting text in later is th
 Because of my glasslessness, I spent most of my time on making art. Here, my inability to see tiny details has sped up production significantly. I can no longer hunt for stupid pixels and obsess over slight color gradings, simply because I can’t see shit.
 This faster speed, combined with a series of happy accidents, has lead to significant process in the art department. 
 
-The mockup clouds I used to test the sunset-system turned out to be extremely pretty, allowing me to instead test the horizon-system on the main hub area of the game. I adjusted the hub background slightly to make it all work and in that process accidentally created a perfect stage for a secret  sequence that can happens at the end of the game. You have to do a lot of extra work to see this dialogue, so I wanted to make it’s NPC especially visually interesting, to reward the people that put up with my stupid puzzles.
+The mockup clouds I used to test the sunset-system turned out to be extremely pretty, allowing me to instead test the horizon-system on the main hub area of the game. I adjusted the hub background slightly to make it all work and in that process accidentally created a perfect stage for a secret  sequence that can happen at the end of the game. You have to do a lot of extra work to see this dialogue, so I wanted to make it’s NPC especially visually interesting, to reward the people that put up with my stupid puzzles.
 Depicting NPCs has been a constant headache since the beginning of PRODUCER. I have went through a lot of different solutions but now, accidentally, I found the perfect one while playing around with the art of this secret NPC:
 
 Sine-Puppets!<br>
