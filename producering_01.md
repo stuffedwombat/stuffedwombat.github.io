@@ -3,7 +3,7 @@
 <h1>producing PRODUCER 2021</h1><br>
 <h2>01 - the week of sinus</h2>
 
-After loosing my glasses in a lake, I had to start writing text in a google doc with font size 16. This means that there is now a huge gap in my workflow. I have to first set up the logical structure of a sequence, then switch to the doc to write and then copy-paste the text into the visual scripting blocks of my homebrew framework.
+After losing my glasses in a lake, I had to start writing text in a google doc with font size 16. This means that there is now a huge gap in my workflow. I have to first set up the logical structure of a sequence, then switch to the doc to write and then copy-paste the text into the visual scripting blocks of my homebrew framework.
 This has been great for the linear parts of the game, where the quality of text is more important than the quality of interaction.
 
 Since I am trying to work from back to front, I have tested this new writing process on the X endings of the game and am very happy with the results.
