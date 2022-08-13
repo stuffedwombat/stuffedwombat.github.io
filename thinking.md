@@ -1,7 +1,7 @@
 [back](index)
 
 **producing PRODUCER 2021**
-- [01 - the week of sinus](producering_01)
+- [01 - the week of sine](producering_01)
 
 **good thinks:**
 - [about Dishonored 1 & 2](about_dishonored)
