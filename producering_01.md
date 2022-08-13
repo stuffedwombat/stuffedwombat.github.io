@@ -1,4 +1,5 @@
-[back](thinking)
+[back](thinking)<br>
+13.08.2022
 <h1>producing PRODUCER 2021</h1><br>
 <h2>01 - the week of sinus</h2>
 
@@ -41,5 +42,6 @@ Next week will see me try out new narrative structures that lend themselves to c
 Cheers,<br>
 josh
 
-<a href="https://store.steampowered.com/app/1667320/PRODUCER_2021/?beta=1" target="_blank">PRODUCER 2021 on Steam</a>
+<a href="https://store.steampowered.com/app/1667320/PRODUCER_2021/?beta=1" target="_blank">PRODUCER 2021 on Steam</a><br>
+<br>
 [back](thinking)
