@@ -16,7 +16,7 @@ The mockup clouds I used to test the sunset-system turned out to be extremely pr
 Depicting NPCs has been a constant headache since the beginning of PRODUCER. I have went through a lot of different solutions but now, accidentally, I found the perfect one while playing around with the art of this secret NPC:
 
 Sine-Puppets!<br>
-Each NPC consists of a collection of individual bodyparts, where each bodypart is transformed, turned or stretched by construct sine behaviour. Additionally, each bodyparts position can can be either
+Each NPC consists of a collection of individual bodyparts, where each bodypart is transformed, turned or stretched by construct's sine behaviour. Additionally, each bodypart's position can can be either
 
 >Static,<br>
 >pinned to another bodypart, or<br>
