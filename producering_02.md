@@ -15,7 +15,7 @@ I have not managed to discover any more dialogue patterns or structures that all
 
 The varying system turned out to be extremely effective at creating dynamic open world type conversation branches, which is very reassuring. The NPCs, sequences and rewards now all have to be funneld through these system and are therefore easier to write.
 
-The game is also really congealing around a few hyper-reactive parts. Here, the game has to know about a lot about your actions (not just decisions), forcing me to continually update them as the rest of the game is written. As soon as a specific action is referenced in these hyper reactive parts, it has to be locked-in semi-permanently. Basically, the game is so far along along now that even smaller changes are becoming prohibitvely expensive. In terms of themes, the current "AI" discourse is providing me with a lot of insanity that can be worked seamlessly into one of the three questlines of the 2nd act. Thanks nerds!
+The game is also really congealing around a few hyper-reactive parts. Here, the game has to know about a lot about your actions (not just decisions), forcing me to continually update them as the rest of the game is written. As soon as a specific action is referenced in these hyper reactive parts, it has to be locked-in semi-permanently. The game is so far along  now that even smaller changes are becoming prohibitvely expensive. In terms of themes, the current "AI" discourse is providing me with a lot of insanity that can be worked seamlessly into one of the three questlines of the 2nd act. Thanks nerds!
 
 I also spend some time on 
 - Unifying the User Interface (and juicing it)
