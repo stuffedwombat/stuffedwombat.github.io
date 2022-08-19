@@ -1,5 +1,3 @@
-Producing Producer 02
-
 [back](thinking)<br>
 19.08.2022
 <h1>producing PRODUCER 2021</h1><br>
@@ -17,13 +15,13 @@ I have not managed to discover any more dialogue patterns or structures that all
 
 The varying system turned out to be extremely effective at creating dynamic open world type conversation branches, which is very reassuring. The NPCs, sequences and rewards now all have to be funneld through these system and are therefore easier to write.
 
-The game is also really congealing around a few hyper-reactive parts. Here, the game has to know about a lot about your actions (not just decisions), forcing me to continually update them as the rest of the game is written. As soon as a specific action is referenced in these hyper reactive parts, it has to be locked-in semi-permanently. Basically, the game is so far along along now that even smaller changes are becoming prohbitvely expensive.
+The game is also really congealing around a few hyper-reactive parts. Here, the game has to know about a lot about your actions (not just decisions), forcing me to continually update them as the rest of the game is written. As soon as a specific action is referenced in these hyper reactive parts, it has to be locked-in semi-permanently. Basically, the game is so far along along now that even smaller changes are becoming prohibitvely expensive. In terms of themes, the current "AI" discourse is providing me with a lot of insanity that can be worked seamlessly into one of the three questlines of the 2nd act. Thanks nerds!
 
 I also spend some time on 
 - Unifying the User Interface (and juicing it)
-- rewriting/testing the save/load/menu system (it works)
-- breaking the text-to-speech narrator (idk how)
-- fixing the text to speech narrator (idk how)
+- Rewriting/testing the save/load/menu system (it works)
+- Breaking the text-to-speech narrator (idk how)
+- Fixing the text to speech narrator (idk how)
 - Using EXP rewards to spice up dialogue (thats fun)
 - Animating your eyes and some of your hands (thats crepy)
 - Watching the 5 hour documentary on the making of princess mononoke (pretty technical)
@@ -37,3 +35,7 @@ I am now looking forward to a long, physically active weekend full of human cont
 
 Cheers,
 Josh
+
+<a href="https://store.steampowered.com/app/1667320/PRODUCER_2021/?beta=1" target="_blank">PRODUCER 2021 on Steam</a><br>
+<br>
+[back](thinking)
