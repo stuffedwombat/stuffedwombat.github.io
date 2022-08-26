@@ -1,6 +1,7 @@
 [back](index)
 
 **producing PRODUCER 2021**
+- [02 - the week of the readable blogpost](producering_03)
 - [02 - the week of back there again](producering_02)
 - [01 - the week of sine](producering_01)
 
