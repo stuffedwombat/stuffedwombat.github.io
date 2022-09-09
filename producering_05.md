@@ -9,7 +9,7 @@ I believe this type of technical tweaking is the worst kind of “zoomed in” w
 
 Immediately after finishing that rewrite on monday I switched over to tweaking and editing and polishing the first act. This continuation of “zoomed in” work was a horrible mistake.
 
-Agonising over single sentences, adding small flavour interactions and tweaking animations doesn’t feel like progress. Again, this eventually accumulates into a game that feels deep and concrete. But if it goes on for too long, you loose all sense of perspective.
+Agonising over single sentences, adding small flavour interactions and tweaking animations doesn’t feel like progress. Eventually this accumulates into a game that feels deep and concrete, but if it goes on for too long, all sense of perspective is lost.
 
 Doubts started to creep up on me. What am I doing here? This is all useless! I am wasting my time and money on this garbage!!
 
