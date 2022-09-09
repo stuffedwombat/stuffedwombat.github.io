@@ -20,6 +20,7 @@ Immediately, things started to look better. Sure, none of this makes any sense, 
 I guess that, just like I try to work on multiple acts every week, I’ll also have to try to work on different levels of zoom every week. Some days of desperate polish and tweaking and some days of grand sweeps and glorious declarations, hoping that, somewhere inbetween, a finished game will emerge.
 
 Cheers,
+
 josh
 
 
