@@ -7,11 +7,11 @@ After writing last weeks post I immediately fucked it all up by working on a Sat
 
 I believe this type of technical tweaking is the worst kind of “zoomed in” work. Sure, over time it accumulates and makes a game feel complete and whole, but it is so complicated and annoying that it completely obscures sight of the bigger picture.
 
-Immediately after finishing that rewrite on monday I switched over to tweaking and editing and polishing the first act. This continuation of “zoomed in” work, was a horrible mistake.
+Immediately after finishing that rewrite on monday I switched over to tweaking and editing and polishing the first act. This continuation of “zoomed in” work was a horrible mistake.
 
-Agonising over single sentences, adding small flavour interactions here and tweaking animations doesn’t feel like progress. Again, this eventually accumulates into a game that feels deep and concrete. If it goes on for too long, you loose all sense of perspective.
+Agonising over single sentences, adding small flavour interactions and tweaking animations doesn’t feel like progress. Again, this eventually accumulates into a game that feels deep and concrete. But if it goes on for too long, you loose all sense of perspective.
 
-Doubts started to creep up on me. What am I doing here? This is all useless! I am wasting my time and money on this garbage!!!
+Doubts started to creep up on me. What am I doing here? This is all useless! I am wasting my time and money on this garbage!!
 
 It took me 3 full days to pull my head out of my ass and work on “macro” stuff instead, jumping around between the 4 acts again.
 
