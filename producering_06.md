@@ -4,11 +4,11 @@
 <h1>producing PRODUCER 2021</h1><br>
 <h2>06 - the week of weekend</h2>
 
-Once again, I worked on the weekend. This has been the secod time in a row and the effects are very direct. Irritability is up. Falling asleep is hard. I’ve written a thread on twitter. The situation is truly dire.
+Once again, I made the mistake of working on the weekend. This has been the second time in a row and the effects are impossible to ignore. Irritability is up. Falling asleep is hard. I’ve written a thread on twitter. The situation is truly dire.
 
 Today (friday), I’ve been unable to get any work done at all. For the first time in years, I feel as stressed and out of balance as in my early twenties. I’ve been eating more and moving less again.
 
-The work itself is going well enough, it’s thecontinued  lack of good, deep rest that has eroded my quality of life. It’s really amazing how drastic and immediate the effects of these two non-weekends have been. I used to live my whole life exactly like this. No wonder I constantly broke down.
+The work itself has been going well enough, it’s the continued lack of good, deep rest that has eroded the quality of life. It’s really amazing how drastic and direct  the effects of these two non-weekends have been. I used to live my whole life exactly like this. No wonder I constantly broke down.
 
 **Anyways.**
 
@@ -22,17 +22,17 @@ The three major sequences of the third act have all seen some heavy editing this
 
 > Sequence 2 has seen some improvements in movement logic, allowing me to add more options later, if I have the time.
 
-> Sequence 3 used to be a parody of adventure game logic that played… exactly like an old adventure game. This extremely slow pace, at a crucial story moment, has been completely removed. This sequence is now much more linear and features a lot of granular reactivity to previous actions.
+> Sequence 3 used to be a parody of adventure game logic that played… exactly like an old adventure game. This boring and slow paced tedium (at a crucial story moment) has been completely removed. The sequence is now linear and features a lot of granular reactivity to previous actions, making sure that it still pulls it's weight.
 
-I have also found a very good workflow that I now try to follow everyday. I call it the big cycle and it tries to ensure that I work on both micro and macro levels of the game, to not loose sight of the bigger picture.
+Yesterday, I also found a very good workflow that I will try to follow for a bit. I call it the big cycle and it tries to ensure that I work on both micro and macro levels of the game, to not loose sight of the bigger picture.
 
 **The big Cycle**
 1. Play through whole game and take notes of bugs & clunky things
 2. Take a break
-3. Work on a specific dialogue or sequence or piece of art.
+3. Work on a specific dialogue or sequence or piece of art
 4. Take another break
-5. Go through the list of bugs & clunk and remove it step by step.
-6. Take a big break. Go for a walk.
+5. Go through the list of bugs & clunk and fix them step by step
+6. Take a big break, go for a walk
 7. Back to 1
 
 
