@@ -2,7 +2,7 @@
 [back](thinking)<br>
 30.09.2022
 <h1>producing PRODUCER 2021</h1><br>
-<h2>06 - the week of september</h2>
+<h2>08 - the week of september</h2>
 
 I’ve never stated it directly, but I was trying to finish Producer by the end of September. This would have given me all of October to fix bugs, polish details and prepare the marketing.
 
