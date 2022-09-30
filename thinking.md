@@ -1,6 +1,7 @@
 [back](index)
 
 **producing PRODUCER 2021**
+- [07 - the week of september](producering_08)
 - [07 - the week of cutting to the bone](producering_07)
 - [06 - the week of weekend](producering_06)
 - [05 - the week of zooming in and out](producering_05)
