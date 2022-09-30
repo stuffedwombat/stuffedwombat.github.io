@@ -39,7 +39,7 @@ It’s been a very busy September.<br>
 It’s going to be an even busier October.<br>
 I’m very happy that I get to do this.<br>
 
-cheers,
+cheers,<br>
 josh
 
 <a href="https://store.steampowered.com/app/1667320/PRODUCER_2021/?beta=1" target="_blank">PRODUCER 2021 on Steam</a><br>
