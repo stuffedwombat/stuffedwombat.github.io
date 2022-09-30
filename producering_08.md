@@ -29,11 +29,14 @@ I’ve spent more than a year on Producer by now, but, as usual, only very littl
 
 This highly iterative beginning appears to be a necessary part of my creative process, but there is that crucial point where exploration turns to procrastination. Beyond that point, I am actively trying to not even start to finish the game because I am scared of what I’ll have to cut to get it done.
 
-Now, as I look back on a whole month of relatively ruthless culling, I feel like a weight has been removed from my shoulders. I’m looking forward to flesh out the scenes that are left. I’m excited to add finishing touches the artwork. I can’t wait for next week. Making games is hard, but DAMM. It’s a lot of fun as well.
+Now, as I look back on a whole month of relatively ruthless culling, I feel like a weight has been removed from my shoulders. I’m looking forward to flesh out the scenes that are left. I’m excited to add finishing touches to the artwork. I can’t wait for next week. 
 
-It’s been a very busy September.
-It’s going to be an even busier October.
-I’m very happy that I get to do this.
+Making games is hard, but DAMM. 
+It’s a lot of fun as well.
+
+It’s been a very busy September.<br>
+It’s going to be an even busier October.<br>
+I’m very happy that I get to do this.<br>
 
 cheers,
 josh
