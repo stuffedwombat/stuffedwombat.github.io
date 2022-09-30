@@ -25,7 +25,7 @@ Nevertheless, I have to finish the game in October. I also have to do some playt
 
 This last week has shown me that I can do it, as long as I actually, genuinely try to finish. 
 
-It's been more than a year of Producer by now. As usual, only very little of that time has been actually spent on trying to finish the game. 
+It's been more than a year of Producer by now. As usual, only very little of that time has been spent on trying to finish the game. 
 Most of it was idle exploration. Lazy daydreaming through code. Endless iteration over the same three details. 
 
 This highly iterative phase of hopes and dreams appears to be a necessary part of my creative process, but there is a crucial point where it turns to procrastination. Beyond that point, I'm actively delaying the work because I'm afraid of what'll have to be cut to get it done.
