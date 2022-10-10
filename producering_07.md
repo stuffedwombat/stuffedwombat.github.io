@@ -2,7 +2,7 @@
 [back](thinking)<br>
 23.09.2022
 <h1>producing PRODUCER 2021</h1><br>
-<h2>06 - the week of cutting to the bone</h2>
+<h2>07 - the week of cutting to the bone</h2>
 
 After qomp, I wanted to learn how to tell stories with games. Now, as I look at the construction site that is Producer 2021, It doesn’t feel like a story. It’s more of a self-indulgent exercise in nothing. I know what it’s made out of, but I can’t understand what it wants to say.
 
