@@ -29,7 +29,7 @@ Besides the late start at actually WRITING the game, the biggest mistake of Prod
 Maybe it won't even need artwork.
 
 In the evenings I'm reading essays by Orwell. Yesterday I started a low-chaos, steel-and-flesh run of Dishonored 1.
-As usual, I'm pushing the marketing stuff out of my mind to focus on the game. It doesn't need to sell a lot of copies, but UI believe that it needs to be the best versio nof itself do sell enough.
+As usual, I'm pushing the marketing stuff out of my mind to focus on the game. It doesn't need to sell a lot of copies, but I believe that it needs to be the best version of itself to sell enough.
 
 Like, it really needs to be a complete package from start to finish.
 Let's just try our very best and wait and see.
