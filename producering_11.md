@@ -20,7 +20,9 @@ I genuinly enjoy writing. Should have started doing that in earnest much earlier
 
 It's all pretty okay. I'm going for a lot of walks with the dogs. Rearranging my room. Cooking meals. Shopping. And there right next to me is this hugely impossible task of finishing a strange videogame that I just keep slowly chipping away at.
 
-Last weeks euphoria has vanished, but the despair has not set in. Because I've been through this a couple of times now? Because panicking won't help? Who knows.
+Last weeks euphoria has vanished, but the despair has not set in. <br>
+Why?
+Because I've been through this a couple of times now? Because panicking won't help? Who knows.
 
 Besides the late start at actually WRITING the game, the biggest mistake of Producer was the short character-lenght of the options you can choose between. I now have to assemble more complicated input out of menus within menus. The next one (there has to be a next one, this is just too much fun) will focus heavily on options only I guess.
 
