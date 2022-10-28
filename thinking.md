@@ -1,6 +1,7 @@
 [back](index)
 
 **producing PRODUCER 2021**
+- [12 - the week of the cap'n](producering_12)
 - [11 - the week of calm end](producering_11)
 - [10 - the week of workflow](producering_10)
 - [09 - the week of four days](producering_09)
