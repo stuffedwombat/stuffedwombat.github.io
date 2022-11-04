@@ -32,8 +32,8 @@ Also, the deadline. Novemeber 14th. I had to get the game out to a large number 
 
 Initial feedback is very positive. No gamebreaking bugs.
 
-Next week will be marketing. Way too late as usualy, but I got some tricks up my sleeve. Time to channel the inner psychopath.
-PRODUCER 2021 is my dream game. Please wishlist support indie dev retweets wouldn't ahve thought I could zelda who made dis?!?!?
+Next week will be marketing. Way too late as usual, but I still got some tricks up my sleeve. Time to channel the inner psychopath.
+PRODUCER 2021 is my dream game please wishlist support indie dev retweets wouldn't have thought I could zelda inspired.
 
 Cheers,
 josh
