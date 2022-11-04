@@ -1,6 +1,7 @@
 [back](index)
 
 **producing PRODUCER 2021**
+- [13 - the week of never learn](producering_13)
 - [12 - the week of the cap'n](producering_12)
 - [11 - the week of calm end](producering_11)
 - [10 - the week of workflow](producering_10)
