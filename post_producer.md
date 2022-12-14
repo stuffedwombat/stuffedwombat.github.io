@@ -1,5 +1,6 @@
 [back](thinking)
-<h3>14.12.22 - Post Producer</h3>
+14.12.22 
+<h3>post-producer</h3>
 
 It's been exactly one month since the release of [PRODUCER 2021](https://store.steampowered.com/app/1667320/PRODUCER_2021/?beta=1). Thank you all so much for the support, reviews and recommendations. The game has been received extremely (100%) positively by cool consumers and candid colleagues alike.
 
