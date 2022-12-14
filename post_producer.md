@@ -1,7 +1,7 @@
 [back](thinking)
 <h3>14.12.22 - Post Producer</h3>
 
-It's been exactly one month since the release of [PRODUCER 2021](https://store.steampowered.com/app/1667320/PRODUCER_2021/?beta=1). Thank you all so much for the support, reviews and recommendations.
+It's been exactly one month since the release of [PRODUCER 2021](https://store.steampowered.com/app/1667320/PRODUCER_2021/?beta=1). Thank you all so much for the support, reviews and recommendations. The game has been received extremely (100%) positively by cool consumers and candid colleagues alike.
 
 Sadly, the game has not sold as many units as I hoped. But for an ill-defined, under-marketed and extremely weird niche product it's done remarkably well. Again, thanks.
 
@@ -24,6 +24,9 @@ This relative security, more than anything else perhaps, has motivated me to act
 I've also heard from multiple people that they miss these weekly blogposts, so I'll try to bring them back. The last month just wasn't filled with thoughts the world needs to hear. 
 
 Lacking a specific project, I'll just write about [whatever](https://twitter.com/wombatstuff/status/1602592154873888773). It's gonna be fun.
+
+Oh, also: 
+If you haven't already, please consider buying [PRODUCER 2021](https://store.steampowered.com/app/1667320/PRODUCER_2021/?beta=1) and telling me what you think about it. I'm still waiting for the first negative review.
 
 Cheers,
 
