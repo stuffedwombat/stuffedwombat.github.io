@@ -4,7 +4,7 @@
 
 <br><br>
 
-**17.12.22 - week of meadows**
+**17.12.22 - the week of various meadows**
 
 Work work, time for some more work! But it's all pretty relaxed, really. It's more of a tentative exploring of various avenues. There's that flowery kind of spring in the step as one frolicks across beautiful meadows.
 
