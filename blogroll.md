@@ -1,4 +1,4 @@
-[back](thinking)
+[back](index)
 <h2>STUFFED WOMBAT'S BLOGROLL</h2>
 <i>it's just a single page with all my little blogs! Good luck finding anything!</i>
 
@@ -25,7 +25,7 @@ But then again, do I really need to start writing? Isn't it a bit soon? Shouldn'
 Oh shit gtg
 <br>
 
-[back](thinking)
+[back](index)
 
 
 
