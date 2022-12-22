@@ -1,6 +1,8 @@
 [back](index)
 
 **games you can buy**
+- <a href="https://store.steampowered.com/app/1667320/PRODUCER_2021" target="_blank">PRODUCER 2021</a>, 9.99$ together with ThorHighHeels
+- <a href="https://store.steampowered.com/app/1910260/Geballer/?beta=1" target="_blank">GEBALLER</a>, 3.99$ together with Inko
 - <a href="https://store.steampowered.com/app/1066900?beta=1" target="_blank">qomp</a> 6$, together with Clovelt, Miroko & Britt Brady
 - <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 1$
 - <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> 2$, together with Mujo Games
@@ -19,6 +21,9 @@
 
 
 **all games**
+- <a href="https://www.newgrounds.com/portal/view/831674" target="_blank">SOON</a> (2022) Are you telling me a ritual made this meaning? Weird.
+- <a href="https://www.newgrounds.com/portal/view/830515">Flute Person Symphony</a> (2022) A not so tiny show. Clap Clap Clap.
+- <a href="https://www.newgrounds.com/portal/view/830515">PRODUCER 2021 DEMO</a> (2021) First steps. Extremely detailed.
 - <a href="https://stuffedwombat.itch.io/tiny-show" target="_blank">Tiny Show</a> (2020) A tiny show. Clap Clap.
 - <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a> (2020) An experience. Trippy.
 - <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a> (2020) Trying to tell a story. Nice.
