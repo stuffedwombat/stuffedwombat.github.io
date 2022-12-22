@@ -1,8 +1,8 @@
 [back](index)
 
 **games you can buy**
-- <a href="https://store.steampowered.com/app/1667320/PRODUCER_2021" target="_blank">PRODUCER 2021</a>, 9.99$ together with ThorHighHeels
-- <a href="https://store.steampowered.com/app/1910260/Geballer/?beta=1" target="_blank">GEBALLER</a>, 3.99$ together with Inko
+- <a href="https://store.steampowered.com/app/1667320/PRODUCER_2021" target="_blank">PRODUCER 2021</a>, 10$ together with ThorHighHeels
+- <a href="https://store.steampowered.com/app/1910260/Geballer/?beta=1" target="_blank">GEBALLER</a>, 4$ together with Inko
 - <a href="https://store.steampowered.com/app/1066900?beta=1" target="_blank">qomp</a> 6$, together with Clovelt, Miroko & Britt Brady
 - <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 1$
 - <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> 2$, together with Mujo Games
