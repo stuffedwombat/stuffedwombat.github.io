@@ -1,6 +1,6 @@
 [back](index)
 <h2>STUFFED WOMBAT'S BLOGROLL</h2>
-<i>it's just a single page with all my little blogs! Good luck finding anything!</i>
+<i>it's just a single page! Good luck finding anything!</i>
 
 <br><br>
 
