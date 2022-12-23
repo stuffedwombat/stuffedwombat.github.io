@@ -27,7 +27,7 @@ And so this week has been spent on getting ready to leave. Tying up loose ends, 
 
 As part of these preparations, I've also gotten a fully functioning smartphone for the first time in forever. There's now a very strict "no screens in bed" policy to protect me from this pocket demon.
 
-It's been a stressful & expensive week, but it's extremely nice to be moving again. I've spent the last years mainly in this one room, alone in front of the computer, working on qomp, Geballer, Producer and all the essays. I learned to cook and I went on a lot of hikes and met up with friends on the weekends for hikes and boardgames. It's been extremely nice. A kind of very comfortable halfway house between the nerveous breakdown of three years ago and the hopefully normal-human-shaped future.
+It's been a stressful & expensive week, but it's extremely nice to be moving again. I've spent the last years mainly in this one room, alone in front of the computer, working on qomp, Geballer, Producer and all the essays. I learned to cook and I went on a lot of hikes and met up with friends on the weekends for some more hikes and boardgames. It's been extremely nice. A kind of very comfortable halfway house between the nerveous breakdown of three years ago and the hopefully normal-human-shaped future.
 
 Let's see what happens.
 
