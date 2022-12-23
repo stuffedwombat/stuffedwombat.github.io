@@ -12,7 +12,7 @@ The explosive prototyping energy has ebbed, leaving me with four pretty well def
 
 One uses variables from game-y gameplay to determine branching, while the other requires you to take real-life notes to solve a detective case. Deciding between them would've been impossible if not for some outside influence:
 
->I got a small & very part-time freelance job! Again! This time I won't fuck it up though! I hope? Yay! It's about developing complicated level design patterns. Funnily enough, that's also what I'll be doing for an as-of-yet secret collaboration with another game developer that I've been wanting to work with for years!
+I got a small & very part-time freelance job! Again! This time I won't fuck it up though! I hope? Yay! It's about developing complicated level design patterns. Funnily enough, that's also what I'll be doing for an as-of-yet secret collaboration with another game developer that I've been wanting to work with for years!
 
 My pensum for traditional game-y game design being thusly filled quite to the brim, I can safely discard the former prototype in favour of the latter.
 Decisionmaking! Hurray!
