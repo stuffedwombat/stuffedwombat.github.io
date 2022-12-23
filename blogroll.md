@@ -1,6 +1,39 @@
 [back](index)
 <h2>STUFFED WOMBAT'S BLOGROLL</h2>
-<i>it's just a single page! Good luck finding anything!</i>
+<i>It's just a single page! Good luck finding anything!</i>
+
+<br><br>
+
+**23.12.22 - the week of starting to leave**
+
+This last week has been marked by a committed avoidance of working on Producer yet again. At least I didn't work on anything else either, so it balances out.
+
+I did do a lot of thinking and deciding though!
+
+The explosive prototyping energy has ebbed, leaving me with four pretty well defined ideas. Each of them would be worth pursuing in their own right, but only two have commercial potential. Both of those contain writing, but approach it from two completely different perspectives. 
+
+One uses variables from game-y gameplay to determine branching, while the other requires you to take real-life notes to solve a detective case. Deciding between them would've been impossible if not for some outside influence:
+
+>I got a small & very part-time freelance job! Again! This time I won't fuck it up though! I hope? Yay! It's about developing complicated level design patterns. Funnily enough, that's also what I'll be doing for an as-of-yet secret collaboration with another game developer that I've been wanting to work with for years!
+
+My pensum for traditional game-y game design being thusly filled quite to the brim, I can safely discard the former prototype in favour of the latter.
+Decisionmaking! Hurray!
+
+The other big decision that was made was to move out of my current, extremely low-rent, habitat. I've spent the pandemic (which is not over but you know what I mean) in a former air-bnb, out in the semi-country side. While it's been quite nice and beautiful and full of trees, I feel like I need to return to urban society. Or at least move closer to other people my age.
+
+Falling perfectly in line with this desire, a couple of opportunities for low/free rent have presented themselves to me on the international stage. If everything goes well I'll spend the next 6 months on the road, scurrying from couch to couch like a belaptopped roach.
+
+And so this week has been spent on getting ready to leave. Tying up loose ends, sorting through unkept books and generally preparing to bananabox the majority of my belongings.
+
+As part of these preparations, I've also gotten a fully functioning smartphone for the first time in forever. There's now a very strict "no screens in bed" policy to protect me from this pocket demon.
+
+It's been a stressful & expensive week, but it's extremely nice to be moving again. I've spent the last years mainly in this one room, alone in front of the computer, working on qomp, Geballer, Producer and all the essays. I learned to cook and I went on a lot of hikes and met up with friends on the weekends for hikes and boardgames. It's been extremely nice. A kind of very comfortable halfway house between the nerveous breakdown of three years ago and the hopefully normal-human-shaped future.
+
+Let's see what happens.
+
+cheers,
+josh
+
 
 <br><br>
 
