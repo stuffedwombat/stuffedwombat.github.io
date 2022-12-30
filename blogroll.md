@@ -2,6 +2,43 @@
 <h2>STUFFED WOMBAT'S BLOGROLL</h2>
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
+
+**30.12.22 - the year of productivity**
+
+Last friday of the year. Time to look back.
+
+In 20222 I learned how to work. Like, really work. Not the fitful start and stop, nor the desperate sprinting of previous projects but real, hard, continous work.
+
+The naked power of routine. Get up, work, walk, cook, sleep. Meet friends on the weekends. Don't get too drunk. Don't stay up too late. Focus. Externally boring,  internally explosive.
+
+Going over PRODUCER again and again, always cutting, always boiling it down into the thickest possible stew of itself.
+
+The goal now is to get back there. Back into the longterm flow, which, of course, requires a certain amount of headless chicken time to accumulate fresh ideas and theories.
+
+But I'm getting ahead of myself.
+
+The year actually started with a certain disrespect toward work and it's processes. I'd already thaught a class that was very well received, so surely I'd be able to do it again without preparing too much!
+
+Wrong. The first 6 months of 2022 were a slow trainwreck. Unable to get my course back on track completely and equally unable to work on PRODUCER, I instead fled forward into a new project.
+
+GEBALLER is a pretty nice game, considering how much I fucked up the development cycle. We developed amazing tools early on and then, scared and unable to make decisions, I never really used them. At least the few people that bought the game seemed to enjoy it.
+
+We had some updates planned, but the programmer has dissapeared from the face of the earth. Felix, for fucks sake, call me.
+
+With both the course and GEBALLER wrapped up I was able to escape from all of my problems for 2 weeks to spain. It was that break, that first vacation in many years, that kept me from folding in on myself after all of these failures. Mucho Gracias.
+
+Then, bed-bound with corona for a week, deliriously dreaming I was a 3D tetris piece. Then, a whole summer of extensive physical activity in a desperate attempt to to balance out the long term dmg. Swimming is the best.
+
+This is when the work really started. I realised how much there was to do and started cutting. One month later I started to summarise my work in blogposts. I needed to become more effective to finish the game. The weekly reflections helped me to come up with procecesses and identify bottle-necks like never before. I worked consistently, but rarely more than 5 hours per day. It grew more stressful with autuum. The swimming stopped. The game got done.
+
+Then, of course, the inevitable breakdown after release. The hat hurts, no matter how old.
+
+A kind of loose phase of playing a whole bunch of games. Preparing the next steps by exploring in 400 directions at once. Finding a few really interesting things. Getting within reach of recouping the cost of making PRODUCER with to heavy discounts. Deciding to return to the road and being surprised with a whole boat-load of opportunities. Hoping to be able to get back to work soon. To that beautiful place of purpose and progress.
+
+Cheers,
+josh
+
+
 **23.12.22 - the week of starting to leave**
 
 This last week has been marked by a committed avoidance of working on Producer yet again. At least I didn't work on anything else either, so it balances out.
