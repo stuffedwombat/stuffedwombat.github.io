@@ -3,6 +3,42 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
+**06.01.23 - the week of 3D**
+I'd made two new years resolutions:
+- use as little screens as possible on the weeekends
+- write a diary entry before going to sleep everyday
+
+The idea was to not attempt something specific, but to create as many opportunities for reflection as possible. Then, if I want to do something specific, I can spend all the videogame-less weekends and late night writing sessions to think about it. That worked pretty well for Producer and so far it also seems to work for real life.
+
+Not that I actually got anything done. I now just have a detailed record of a week full of semi-failure.
+
+Two projects I'd planned on starting this week got pushed back, leaving me antsy and weird. Unable to focus and confused, I caught up on all the screen time I'd missed on the weekend, playing through SIGNALIS twice.
+
+Luckily, the deadline for a submission was also pushed back, so while my lackluster effort on it wasn't rewarded, it also wasn't punished. Yay?
+
+Thanks to the steam sale, PRODUCER has sold more than 1000 units! Yay!
+
+The main event of the week, however, was intense and sudden backpain. Not inexplicable, but unexpected. Why now? I'd been going... oh, yeah. I'd stopped going on walks.
+
+Back to that, then. 
+
+And wow. Why did I ever stop? I guess it was a slow process, a gradual erosion, like always when habits die. But how could this happen? I love going on walks. It's weirdly warm right now and sometimes I don't even need a jacket. 
+
+I climb up through a path of tight trees and emerge into a wide panorama, tall blue clouds parralaxing like distant mountains above rolling hills of orange reeds.
+
+The sunsets are glorious red and blue and purple and sometimes yellow, bright and surreal in the afternoon.
+
+There is thick fog at night and I can't even see 3 meters ahead of me. The trees are black silhouettes and hikers rotate their phones like lighthouses. A car cuts through the white soup only to dissolve in it a short time later.
+
+I hike and wander and think of 3D level desigm. How rich and dense. How many possibilities for amazing vistas and winding passages. If only I could work with that.
+
+I can't, so I close off this wildly unproductive week with a little private game jam. [The result](https://stuffedwombat.itch.io/slippy) is quite nice. Maybe I'll get some shit done next week. I really have to. There's not much time left.
+
+Cheers,
+josh
+
+
+
 **30.12.22 - the year of productivity**
 
 Last friday of the year. Time to look back.
