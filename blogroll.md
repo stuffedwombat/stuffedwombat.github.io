@@ -31,7 +31,7 @@ The sunsets are glorious red and blue and purple and sometimes yellow, bright an
 
 There is thick fog at night and I can't even see 3 meters ahead of me. The trees are black silhouettes and hikers rotate their phones like lighthouses. A car cuts through the white soup only to dissolve in it a short time later.
 
-I hike and wander and think of 3D level desigm. How rich and dense. How many possibilities for amazing vistas and winding passages. If only I could work with that.
+I hike and wander and think of 3D level design. How rich and dense. How many possibilities for amazing vistas and winding passages. If only I could work with that.
 
 I can't, so I close off this wildly unproductive week with a little private game jam. [The result](https://stuffedwombat.itch.io/slippy) is quite nice. Maybe I'll get some shit done next week. I really have to. There's not much time left.
 
