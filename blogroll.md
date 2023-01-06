@@ -4,6 +4,7 @@
 <br><br>
 
 **06.01.23 - the week of 3D**
+
 I'd made two new years resolutions:
 - use as little screens as possible on the weeekends
 - write a diary entry before going to sleep everyday
