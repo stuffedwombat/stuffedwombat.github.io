@@ -3,6 +3,35 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
+**13.01.23 - the week of pain**
+
+As a dear friend would say: 
+
+"It's a shit."
+
+Stop moving for mere 7 years and you get backpain. Pretty fucked up. The only way to get rid of that backpain? Start hiking and stretching and moving. Okay, so let's say that you really enjoy that and start doing it way too much. Without the proper buildup. Now let's assume that the weather is suspiciously nice for january  and you often don't even need a jacket, even if it then ends up being kinda cold, which causes the muscles in your lower back to pull together. Now let's also assume that last sunday, you're running late for lunch and your train has just pulled into the station but you're all the way down at the bottom of the stairs leading up to the platform. Now, finally, let's assume one last time: You start to run up the stairs to catch the train but the something in your lower back kind of clamps shut and starts to hurt.
+
+Not so much at first, but, like, this really isn't pleseant. 
+
+Now let's assume that the pain doesn't stop. 
+
+It gets more and more intense and 4 hours later you're lying on the floor of a friend's appartement and you want to cry because you can't stand up. But let's say that your parents gave you a chinese heating plaster with tiger balsam and (after getting the highest score ever in Sherlock Holmes: Consulting Detective, hell yeah) another friend slaps that plaster onto your back and you manage to stumble home.
+
+Then, on monday, you roll around on the floor with tears in your eyes, unable to get up, but for real this time. It will take you one hour to finally claw your way to a standing position and then you can't bend back down and you go to the doctor in untied shoes and without socks.
+
+The injections really help. The painkillers do to.
+
+You can't sit down for the whole week. It hurts too much. You wait for as long as possible and then drink a lot of coffee, so that yu only have to go to the toilet once.
+
+You walk and walk and walk. Slowly, indoors, in tight circles, reading children's literature and with a thermophor tied to your back. At some point the covering slips and you get blisters from the heat, but fuck, it's worth it.
+
+Anything is better than to be back there, on the floor, teeth clenched and unable to see, only checking if the latest movement made the pain increase or if it made it increase a lot. Like a punished neural network, wriggling and falling and clenching your way to a position that is the least unbearable.
+
+Then, slowly, you start to feel human again. You start to eat again and enjoy the clouds from the safety of the inside. It wasn't that bad, you think. Sure, it still hurts like hell if I sit wrong, but I mean, come on, don't exaggerate. The memory of the pain fades quickly, but the fear of pain remains in your muscles and sometimes you freeze, unable to continue the motion because it might bring you back down to the floor.
+
+But then you push through and it doesn't kill you and come on, it wasn't that bad, there's probably no need to ACTUALLY start doing yoga, oh I dropped my pen let's just bend down real quic
+
+
 **06.01.23 - the week of 3D**
 
 I'd made two new years resolutions:
