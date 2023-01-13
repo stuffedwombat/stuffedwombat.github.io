@@ -21,7 +21,7 @@ Then, on monday, you roll around on the floor with tears in your eyes, unable to
 
 The injections really help. The painkillers do to.
 
-You can't sit down for the whole week. It hurts too much. You wait for as long as possible and then drink a lot of coffee, so that yu only have to go to the toilet once.
+You can't sit down for the whole week. It hurts too much. You wait for as long as possible and then drink a lot of coffee, so that you only have to go to the toilet once.
 
 You walk and walk and walk. Slowly, indoors, in tight circles, reading children's literature and with a thermophor tied to your back. At some point the covering slips and you get blisters from the heat, but fuck, it's worth it.
 
