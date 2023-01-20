@@ -3,6 +3,39 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
+**20.1.23 - the week of envy and sweat**
+
+The backpain is gone, mostly. Certain movements hurt, but, compared to last week, the pain is laughable. 
+Just in time as well, because I just spent 13 hours on a plane to argentinia, sitting and sweating and watching adam sandler movies.
+
+I'll spend the next month on a workaction, alternating between sightseeing, getting used to new locations and working on various projects.
+
+Finally, the digital nomad life-style has manifested itself.
+
+The digital nomad life-style seems to consist mainly of sweating a lot. It's fucking summer in argentinia. I've perspirated my way through like 5 shirts already and it's only been 2 days.
+
+Showering is only a brief window of time between high tides of salty water. There are fruit salads with cold, sweet water in little plastic cups for 25 cents though. Worth it.
+
+But other than the sweat, my ability to just do something like this, pack up my stuff and leave for another country, has produced a lot of directly expressed envy in the people I hang out with.
+
+Understandably so. This is pretty cool.
+
+Is this the reward for living below the poverty line for half a decade, of buying no nice things and never going on vacations and now splurging on this one? The result of me working really hard, being supported by family and patrons to then get lucky? Or is it more a function of me never having really set down roots anywhere, not owning any furniture, not knowing how to decorate a living room and just embracing that and running away from it? 
+
+As always, it's a bit of everything.
+
+I limply respond to expressions of envy by saying that I, in return, envy other people's ability to have a home, to really make a space their own. On the one hand this is extremely sincere and on the same hand I'm an extreme cliché. 
+
+A sweating cliché. So be it.
+
+The other things I'd hoped to come together down the line seem to all work out as well, enabeling me to avoid facing the domestic, collected and responsible version of myself for the next six months.
+
+Six months?
+
+No!
+
+Forever!!!
+
 **13.01.23 - the week of pain**
 
 As a dear friend would say: 
