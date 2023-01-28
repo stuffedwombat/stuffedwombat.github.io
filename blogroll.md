@@ -3,6 +3,18 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
+**27.1.23 - the week of unmentionable liquids**
+
+Going on a workation is pretty nice. Especially if you don't actually work. Especially if you eat a lot of food and drink a lot of drinks that you're not used to. Oh oh. What's this? 
+
+Endless Sweat? 
+
+The inability to keep anything down?
+
+A stomach bug? 
+
+Oh oh.
+
 **20.1.23 - the week of envy and sweat**
 
 The backpain is gone, mostly. Certain movements hurt, but, compared to last week, the pain is laughable. 
