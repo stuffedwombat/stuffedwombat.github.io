@@ -3,6 +3,28 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
+**06.2.23 - change on the blogroll**
+
+Originally conceived to help with development of PRODUCER, the weekly blogposts have been somewhat pointless since release.
+
+People enjoyed the posts. They asked for more and so I kept going, evem though I had nothing concrete to write about. Lacking a specific project to iterate on, the blog quickly turned into a lesser version of my personal diary.
+
+The tango I danced with an argentinian stomach bug is important to me, but, frankly, nobody else gives a shit.
+
+Last friday I just straight up didn't feel like writing something about my week and just skipped it, completely free from shame or guilt.
+
+Today, I'm changing the purpose of the blogroll.
+
+Instead of weekly updates on my life, I'll post infrequent but interesting reflections on games and their development.
+
+These thoughts are raw, specific and weird. They never survive the doubts thrown up by rigorous research. And so, instead of dying as half-finished articles or videos, they'll live on the blogroll from now on.
+
+Hope you enjoy.
+
+Cheers,
+josh
+
+
 **27.1.23 - the week of unmentionable liquids**
 
 Going on a workation is pretty nice. Especially if you don't actually work. Especially if you eat a lot of food and drink a lot of drinks that you're not used to. Oh oh. What's this? 
