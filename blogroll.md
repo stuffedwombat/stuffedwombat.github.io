@@ -3,7 +3,7 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
-**06.2.23 - change on the blogroll**
+**06.2.23 - changes on the blogroll**
 
 Originally conceived to help with development of PRODUCER, the weekly blogposts have been somewhat pointless since release.
 
@@ -21,7 +21,7 @@ These thoughts are raw, specific and weird. They never survive the doubts thrown
 
 Hope you enjoy.
 
-Cheers,
+Cheers,<br>
 josh
 
 
