@@ -3,6 +3,104 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
+**11.02.23 - system and content**
+
+Understanding how games work doesn't really help you to make your own. The creative process always overpowers abstract dichotomies and boiled-down observations. Actual action washes endless reflection away without effort.
+
+However, I can't stop myself from thinking and theorising, coming up with neat little dividers, happily pretending to compartmentalise the medium. Filling the idle time inbetween actual work.
+
+The most inhabitable of these personal sandcastles deals with the sharp divide between systems and content.
+
+It's simple, really.
+
+Systems repeat.
+Content dissapears.
+
+A system will spit out endless gamestates. They're all unique.
+
+- 10 randomly selected enemies spawn at random positions.
+- Your character jumps from x-position 1537 and touches down on x-position 1548.
+- The storage facility is holding 186 wood, 25 iron ingots and 165 food.
+
+System-driven games embrace these small differences. Incremental changes to limited variables. Infinite replayability. Technically. 
+
+The difference between gamestate 1.51725 and gamestate 1.51728 is neglible. It has very little impact on your actual experience, because the differences always boil down into binaries:
+
+- Is there enough room to dodge?
+- Did you land on the spikes?
+- Do you have enough ressources to build that house?
+
+Sure, systems allow you to ask a large amount of questions at the same time, but the total amount of them is finite. Because, while the exact specifics of WHAT YOU DO are always slightly different, the things YOU ARE ALLOWED TO DO never fundamentally change.
+
+This is because, no matter how dynamic, everything in videogames was handmade. Sure, you can remove and place blocks anywhere in the world, but you can only remove and place.
+
+The game only has a specific number of sprites and only a specific number of positions and configurations to spawn them in. Technically infinite, yes, but practically similar, even functionally identical over a long enough period of time.
+
+Knowing how a system works doesn't make it less appealing to interact with, it just marks a switch in how you engage with it. Instead of exploring and learning, you are now executing, strategising and looking for larger-scale goals and challenges.
+
+While systems remains the same over the course of the game, content constantly dissapears.
+
+- You finish a level and never return.
+- You listen to the audiofile and get the information you needed.
+- You solve a puzzle and remember the solution.
+
+Since content doesn't have to show up again, it can be carefully handcrafted to fit its unique position in the game.
+
+Since the parts of the game are allowed to dissapear, since they don't have to show up again in a slightly different combination, they can be much more precicse. There is a higher level of control, allowing for more traditional narrative, pacing and development.
+
+- There is only one mountain, so it holds emotional significance.
+- You will never see this piece of dialogue again, so it retains it's emotional weight.
+- Once you have defeated the boss, it's arena remains empty forever.
+
+It's the promise of finality, of conclusion, that is at the heart of content-driven games.
+They will not only end, they will conclude spectacularily. Wether that happens mechanically or emotionally doesn't matter as much as the fact that it really does end.
+
+Your relationship with the game doesn't stop at the credits, of course. After experiencing the content, you think about it. You look back, reflecting on larger themes and implications only made tangible by the finite nature of the whole experience, by the fact that you lean back and let go.
+
+Systems repeat.
+Content dissapears.
+
+In theory, at least.
+In practice, everything is chaos and tension and connection, a boiling soup where push and pull are indistinguishable.
+
+Every content-driven game contains systems. You always interact with the game through a limited set of verbs. You always run and jump and pull or select options from a menu or press dozens of contextual button prompts. You are interfacing with the content through a system, just like how you use the system of reading to suck the story out of a book.
+
+Every system-driven game is made up of content. It's just small, jumbled and randomised, hidden behind seemingly infinite combinations of game states. Over a long enough period of time, however, the larger motifsemerge. You will find reocurring moments of high and low tension, a consistent emergence of resolution, an emergent order of play. There is a pacing and rythm inherent in each round of endless repetition, driven by abstract rules that, in the end, always converge back into the binary.
+
+And I didn’t even mention the culture that happens around the games!
+
+
+Speedrunning takes any content driven game and turns it into a systemic competition. It's now the inherent variable of time that produces success or failure, forever.
+
+Let's-players take any system driven game and turn it into a linear narrative. It's now the dramatic tension and release of the video that engages the audience, for a while.
+
+
+The harder you pull two things apart, the more clearly you can see their connective tissue. 
+So, like all dichotomies, my artificial divide between system and content only helps to shore up their symbiosis, their inevitable coexistence. 
+
+Nevertheless, it's interesting. 
+I want to pretend that it will help me to make games.
+
+Systems are hard to create. They need to work in any possible situation, so you need to know which situations you allow to happen in your game before you start writing code. This kind of pre-cognition is easier if you work from existing formulas and genres. You keep the hard rules and only tweak the numbers. 
+
+This is why the largest companies only keep iterating over their previous work. Switching style radically would be to expensive.
+
+But this is also why small developers tend to work with platformers a lot. The tools and knowledge for creating systems of running and jumping are easy to access and understand. Creating a complex economy that doesn't spiral out of control after 5 hours of playing is a completely different matter.
+
+Content is fairly cheap to create in comparison. Sure, you can spend millions of dollars on your cinematics, but a simple black screen that says "you have to reach the end of the level" fulfills the same function. Content dissapears behind you, it can be janky and weird. You can just hardcode your way around it, you can be imprecise and poetic. Initially, it's easier to make.
+
+This is why most small developers make short, linear games, but content doesn't scale. The recent wave of slotmachine-idle games shows the true power of raw systems. They pull you in. They don't let you go. And people love it. They want systems.
+
+In the same way, you might believe that a single youtube video has had a big impact on you, but youtube itself, the system that distributes the content, served it up to you. Owning the road is more profitable than owning the vegetables inside of a truck.
+
+Economically, repetiton rules. 
+Code is made of loops, computers run in circles. 
+
+And so, for all the connections between system and content, for all the symbiosis and dependency, it are the systems that come out on top. Content driven games are brushing the medium against the grain.
+
+Maybe that's why I like them so much.
+
+
 **06.2.23 - changes on the blogroll**
 
 Originally conceived to help with development of PRODUCER, the weekly blogposts have been somewhat pointless since release.
