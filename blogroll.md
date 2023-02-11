@@ -5,8 +5,6 @@
 
 **11.02.23 - system and content**
 
-SYSTEM AND CONTENT
-
 Understanding how games work doesn't really help you to make your own. The creative process always overpowers abstract dichotomies and boiled-down observations. Actual action washes endless reflection away without effort.
 
 However, I can't stop myself from thinking and theorising, coming up with neat little dividers, happily pretending to compartmentalise the medium. Filling the idle time in between actual work.
