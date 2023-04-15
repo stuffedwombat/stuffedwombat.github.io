@@ -3,7 +3,7 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
-**no nomand**
+**15.04.2023 - no nomand**
 
 Nomads follow the ressources they need. When I left home ~3 months ago, I was following cheap rent.
 
@@ -19,7 +19,7 @@ I wake up early, work, cook, read on the couch until I drift away into a  nap af
 
 It's kind of horrifiyng to me. I love it.
 
-No crazy art happenings, no drug excesses, no intense socialisation, just a quiet, reliable routine where I can slowly chip away at my work. There are even daily calisthenics now.
+No crazy art happenings, no drug excesses, no intense socialisation, just a quiet, reliable routine where I can slowly chip away at my work. There is a lot of tea. There are daily calisthenics.
 
 I'm looking for a new place to stay, something more permanent, something that I can interior decorate and call my own.
 
