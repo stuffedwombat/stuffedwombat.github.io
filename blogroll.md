@@ -3,6 +3,35 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
+**no nomand**
+
+Nomads follow the ressources they need. When I left home ~3 months ago, I was following cheap rent.
+
+Traveling through Argentina and the Rabbit Residency in Germany were amazing, but then the third thing fell through. After being well taken care of by friends and goverments before, I now realised that cheap rent needs consistent organisation.
+
+After a few days in a gray & miserable berlin hostel, I stopped pretending to be a nomad.
+
+It was LOT of fun, but extending that fun is not for me. I'd much rather explore new places as a tourist than as a perpetual stranger.
+
+Already, I have returned to my old ways, but, as always after travel appereantly, invigorated & highly motivated to lead the most boring life possible.
+
+I wake up early, work, cook, read on the couch until I drift away into a  nap after lunch, then work some more. At random intervals I go for little walks.
+
+It's kind of horrifiyng to me. I love it.
+
+No crazy art happenings, no drug excesses, no intense socialisation, just a quiet, reliable routine where I can slowly chip away at my work. There are even daily calisthenics now.
+
+I'm looking for a new place to stay, something more permanent, something that I can interior decorate and call my own.
+
+Large amounts of files have appeared on my computer in anticipation . Movies, PS2 games, ebooks. Files, not streams. I put them in their little folders and organise them a little. Que lindo!
+
+But already, after just one week, the danger of routine rears its round & wooly head:
+
+Every day it's a bit harder to plan my tasks for the next one, every day I find myself watching a bit more useless drivel on youtube, every day I grow more comfy.
+
+It seems like escape from the need for constant organisation is impossible, but at least I'm now organising in favor of extreme boredom, manufacturing the peace and stability I need to carefully craft some weird fucking games.
+
+
 **11.02.23 - system and content**
 
 Understanding how games work doesn't really help you to make your own. The creative process always overpowers abstract dichotomies and boiled-down observations. Actual action washes endless reflection away without effort.
