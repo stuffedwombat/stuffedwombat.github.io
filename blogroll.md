@@ -7,7 +7,7 @@
 
 Nomads follow the ressources they need. When I left home ~3 months ago, I was following cheap rent.
 
-Traveling through Argentina and the Rabbit Residency in Germany were amazing, but then the third thing fell through. After being well taken care of by friends and goverments before, I now realised that cheap rent needs consistent organisation.
+Traveling through Argentina and the Rabbit Residency in Germany was amazing, but then the third thing I had planned fell through. After being well taken care of before, I now realised that cheap rent needs consistent organisation.
 
 After a few days in a gray & miserable berlin hostel, I stopped pretending to be a nomad.
 
