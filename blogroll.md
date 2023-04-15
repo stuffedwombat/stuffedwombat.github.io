@@ -32,6 +32,8 @@ Every day it's a bit harder to plan my tasks for the next one, every day I find 
 It seems like escape from the need for constant organisation is impossible, but at least I'm now organising in favor of extreme boredom, manufacturing the peace and stability I need to carefully craft some weird fucking games.
 
 
+
+
 **11.02.23 - system and content**
 
 Understanding how games work doesn't really help you to make your own. The creative process always overpowers abstract dichotomies and boiled-down observations. Actual action washes endless reflection away without effort.
