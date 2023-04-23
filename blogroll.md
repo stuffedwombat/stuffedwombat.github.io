@@ -3,6 +3,112 @@
 <i>It's just a single page! Good luck finding anything!</i>
 <br><br>
 
+**23.04.2023 - Process**
+
+I'm in that happy place again, where I was last summer. Routine, effective work and constant reflection, broken up by proper weekends, meetings with friends and lots of walks. 
+
+It feels very similar to how I felt during PRODUCER 2021, so I wanted to quickly write down the larger pattern that seems to lead to this state of extended bliss.
+
+*1-IDEAS*
+
+There are some strange game design concepts that I just enjoy thinking about. New ideas flake off from these ruminations.
+
+Once I've had an Idea in my head for a couple of months it usually asserts itself as a concrete idea. Something that, if scoped down sufficiently, could actually be done!
+
+ 
+*2-FIRST STEPS*
+
+An intense phase of prototyping usually results in dissatisfaction. The idea is dropped and replaced with the next interesting thing.
+
+If things go especially well (or I feel particularily sluggish and want to shake that off) there is a small solo jam. Maybe a weird game makes it onto itch.io.
+
+But usually I just show gifs of my experiments to friends, gauging their reactions and discussing ramifications, before my interest in the idea peters out and is replaced with something new.
+
+To stop this deathloop, I am trying my best to return to old ideas as often as possible. Now, with more experience, looking at it with new eyes, maybe, if I just change this thing and then...
+
+... nope, still doesn't work. Time for the next idea.
+
+Then, after a few of these switches, I'll try to make it real, but things will feel off from the start. I'm unsure of the direction and don't want to make decisions, so instead I get lost in polish and superficial changes. This part feels pretty shit so I get the desire to make some other prototypes and then one of them is kind of nice and then....
+
+
+*3-RESCUE*
+
+I would, probably, remain in this state forever, were it not for lucky circumstances that allow me to travel for some time, that pull me out of my usual surroundings.
+
+Basically, I get put into a situation where I can't work as focused as I would normally. New people, new places, new cultures and experiences. A kind of sudden shock, an avalanche of things outside of my experience.
+
+These travels always give me perspective, showing me how lucky I am to be able to spend all my time on this weird stuff. With that understanding, I start to feel the responsability. I'm living the dream, I can't just fuck around. I have to take this seriously.
+
+When I come back home, I am hungry for work.
+
+
+*4-WORK*
+
+This is where shit becomes real.
+
+It's not just an attempt anymore, but an internal committement. A deadline is set. A promise is made:
+I will finish this.
+
+And then the actual work can begin.
+
+  *4.1-RESTART*
+
+  Having been around the block a few times, I am very careful to not overextend myself in the beginnig of development and just slowly rev up the old engine.
+
+  Having done a lot of prototypes of the idea before getting serious with it, I simply start the project from scratch once more. I know where the previous attempts
+  stalled, so I can tackle those areas early and deliberately. 
+
+  It takes around a week until I have recreated the most important parts of all the old prototypes, but now they are set up in a much more stable and editeable way.
+
+  *4.2-REFLECTION*
+  
+  Years of prototyping and making small games have made me very quick and proficient with my engine. The main problem is never the code itself, but the struggle of
+  deciding what to work on next.
+
+  While it doesn't look like work at all, taking a step back to find bottlenecks and weak spots in the game takes a lot of energy. Like, a LOT of energy, but the
+  result is worth it.
+
+  The feeling of tackling a problem, considering it in the larger context of the whole game and then deciding how to handle it brings with it an intense sense of
+  competency.  Knowing that, without that crucial bit of reflection, without that step back, the whole game would have taken weeks longer to develop, is extremely
+  satisfying.
+
+  Instead of filling sheets of paper with endless ideas and visions I fill pages with concrete problems and, eventually, solutions.
+
+  It doesn't look lime I'm working hard, the code itself is trivial, but the whole process is so exhausting and intense that I'll switch to a 4 day work week.
+
+  *4.3-STAMINA*
+
+  Because it's all about consistency now. Small steps, everyday.
+  Cutting, adjusting, iterating, rewriting. Whittling away at the game, slowly, deliberatly working towards your larger goals.
+
+  To do this, I require relative material safety, but I also require truckloads of trust:
+
+> The musician will deliver amazing work, I don't need to worry.
+
+> I will polish those mechanics later, there's more important stuff to do. 
+
+> I will be able to make amazing levels later, they can suck for now.
+
+> The game will be finished, no matter how bad this day way.
+
+  It's a kind of faith in the process that allows you to look up one day and be amazed: There's not a lot of uncertainty left. The questionmarks have dissapeared
+  from the papers. The remaining tasks are extremely concrete. It's true:
+
+  I will finish this.
+
+  These are the times where I can strongly feel that I never want to do anything else. This is it, this is what I am good at, this is where I can contribute.
+
+To maintain my ability to do that, I'll need to take selling games more seriously. This is why NEW GAME will not be released for quite some time. I'll finish it up and then spend the summer doing marketing, steam festivals and whishlist begging. I'm even willing to talk with a publisher.
+
+I've known for years that I'm in this for the long run. 
+Time to start acting like it.
+
+Cheers,<br>
+josh
+
+
+
+
 **15.04.2023 - no nomand**
 
 Nomads follow the ressources they need. When I left home ~3 months ago, I was following cheap rent.
