@@ -83,13 +83,13 @@ And then the actual work can begin.
 
   To do this, I require relative material safety, but I also require truckloads of trust:
 
-> The musician will deliver amazing work, I don't need to worry.
+- The musician will deliver amazing work, I don't need to worry.
 
-> I will polish those mechanics later, there's more important stuff to do. 
+- I will polish those mechanics later, there's more important stuff to do. 
 
-> I will be able to make amazing levels later, they can suck for now.
+- I will be able to make amazing levels later, they can suck for now.
 
-> The game will be finished, no matter how bad this day way.
+- The game will be finished, no matter how bad this day was.
 
   It's a kind of faith in the process that allows you to look up one day and be amazed: There's not a lot of uncertainty left. The questionmarks have dissapeared
   from the papers. The remaining tasks are extremely concrete. It's true:
