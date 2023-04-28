@@ -23,8 +23,11 @@ Making fun & easy stuff boosts morale, so I came up with some wonky machines, ob
 Like, what really IS a level and what do I require of it for this specific game?
 
 > A level is a single screen with some tiles, some coins, maybe some obstacles or NPCs, and a portal where the player spawns.
+
 <br>
 and also, much more crucially:
+
+<br>
 > A level belongs to an area, which has a unique set of tiles and animations, a distinct theme and a specific difficulty level. 
 
 Of course!
@@ -47,6 +50,7 @@ No more new things, no more new toys, no emergent surprises in the testing room.
 Because now that it's behind me, I can say that the level designer's block was twofold:
 
 On the one hand, I wasn't committed to the current amount of tools and toys in the game. I was always thinking about trying out just one more feature, which makes any level subject to potential obsolescence down the line.
+
 On the other hand, I had put myself into too tight of a box. Each level had both it's unique tiles and specific expectations towards type of gameplay and difficulty.
 
 Instead of trying to comply with all of these heavy rules, I am now just happily coming up with new weird stuff, deleting it and remaking it, completely uncaring about where exactly those levels will end up. 
