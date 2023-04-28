@@ -1,7 +1,63 @@
 [back](index)
 <h2>STUFFED WOMBAT'S BLOGROLL</h2>
-<i>It's just a single page! Good luck finding anything!</i>
+<i>This is just a continuously updated page! Good luck finding anything!</i>
 <br><br>
+
+**28.04.2023 - Level Design Block**
+
+For the last weeks, I've been struggling with making levels for NEW GAME. Today I finally resolved the issue and want to take some time to reflect on what happened.
+
+When it comes to level design, I'm a firm believer in making a looooot of levels very quickly and then deleting them. The idea is that the most interesting and concrete aspects will remain imprinted in your brain, while you forget all the bland stuff. It's like making 100 sketches and then not needing to look at them while doing the final drawing.
+
+And so I made ~100 levels, deleted them and then... had intense problems remaking them. I could remember the most interesting shapes, but I couldn't make them real. Something inside me was against it. I just couldn't do it. Writers block.
+
+As usual in those moments, I resorted to a trusted creative exercise:
+Instead of coming up with concrete levels, I started drawing random arrows on the screen. By placing tiles in the areas where there was no arrow, these lines would turn into intended player paths, giving me specific shapes to work with.
+Usually this technique is super useful to understand what kind of motion across the screen makes sense for your game, but now it didn't help me at all. It was just some arrows. I couldn't fill them with life.
+
+Writer's block intact.
+
+So then I stepped away from the problem.
+Making fun & easy stuff boosts morale, so I came up with some wonky machines, obstacles and items. This type of distraction is nice, but what really helped much more was to step away from the game (and all screens) as a whole.
+
+Like, what really IS a level and what do I require of it for this specific game?
+
+> A level is a single screen with some tiles, some coins, maybe some obstacles or NPCs, and a portal where the player spawns.
+<br>
+and also, much more crucially:
+> A level belongs to an area, which has a unique set of tiles and animations, a distinct theme and a specific difficulty level. 
+
+Of course!
+I had boxed myself in!
+There were too many specific expectations towards any single level, stifling my ability to create.
+Each level had to do things based on it's position in the whole game, but the whole game didn't exist yet because I was so frozen on making levels!
+It was an ouroboros!
+
+Cutting back on all of these requirements required a complete rework of the tiles and their animation system, but it was worth the extremely strange bugs I encountered along the way.
+
+The game is now a lot less visually diverse, because all areas use the same tiles, but I am infinitely more free to create.
+I can make 10 iterations on an idea without having to worry about where they show up. I can focus on immediate gameplay without having to worry about larger structure and suddenly the juices are flowing.
+
+Actually, they're flowing too much! I'm coming up with new level ideas again, new types of enemies and new types of systems!
+It's great, but it's also too late.
+
+If I want to maintain my ability to make levels I need to put a systems lock on the game:
+No more new things, no more new toys, no emergent surprises in the testing room.
+
+Because now that it's behind me, I can say that the level designer's block was twofold:
+
+On the one hand, I wasn't committed to the current amount of tools and toys in the game. I was always thinking about trying out just one more feature, which makes any level subject to potential obsolescence down the line.
+On the other hand, I had put myself into too tight of a box. Each level had both it's unique tiles and specific expectations towards type of gameplay and difficulty.
+
+Instead of trying to comply with all of these heavy rules, I am now just happily coming up with new weird stuff, deleting it and remaking it, completely uncaring about where exactly those levels will end up. 
+
+I'm confident that I'll be able to find a good place for them.
+
+Once they're actually done.
+
+Cheers,
+josh
+
 
 **23.04.2023 - Process**
 
