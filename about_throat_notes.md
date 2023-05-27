@@ -13,7 +13,7 @@ Throat Notes is driven by a sense of playfulness and exploration that would have
 
 A dry world. Solid bricks. Heavy greek statues, frozen forever in fake motion. The living frog emerges. A cartoon bug scampers into the scene, turning it's head to reveal tentacles beneath it's cute face. The horrible face of the frog appears as a reflect in it's fake eye. The bug is caught under the frogs tongue. It's face cracks open while being swallowed. The corpse drops into a stomach. Digested. Turned into energy, fuelling a shining star. The frog croaks. Music. All frogs sing a happy song. A child emerges, gleefully brabbling, glowing with the light of a thousand murdered bugs.
 
-This is very fast paced opening contains every piece of the larger question: 
+This incredibly fast-paced opening contains every piece of the larger question: 
 What is the cost of bringing something new into the world? The energy has to come from somewhere and that place is very messy. It contains a lot more legs than we're comfortable with.
 
 Throat Notes spends the rest of it's runtime ruminating on the brutal messyness of life and art.
