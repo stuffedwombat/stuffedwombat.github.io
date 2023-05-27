@@ -1,5 +1,13 @@
 [back](index)
 
+**good thinks:**
+- [about Dishonored 1 & 2](about_dishonored)
+- [about Rainworld](about_rainworld)
+- [design terms](design_terms)
+- [the small game](the_small_game)
+- [The three ways of designing games](threeways)
+- [Make mechanics & forget the game](make_mechanics)
+
 **producing PRODUCER 2021**
 - [post-producer](post_producer)
 - [14 - the week of fog](producering_14)
@@ -17,15 +25,8 @@
 - [02 - the week of back there again](producering_02)
 - [01 - the week of sine](producering_01)
 
-**good thinks:**
-- [about Dishonored 1 & 2](about_dishonored)
-- [about Rainworld](about_rainworld)
-- [design terms](design_terms)
-- [the small game](the_small_game)
-- [The three ways of designing games](threeways)
-- [Make mechanics & forget the game](make_mechanics)
-
 **all thinks:**
+- [about Throat Notes](about_throat_notes)
 - [about Dishonored 1 & 2](about_dishonored)
 - [quick notes on knife juggling](knife_juggling_190222)
 - [about Disco Elysium](about_disco_elysium)
