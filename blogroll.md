@@ -3,6 +3,59 @@
 <i>This is just a continuously updated page! Good luck finding anything!</i>
 <br><br>
 
+**22.06.23 - Fear Of Finishing**
+<br>
+
+Time to stop kidding myself: I'll not be able to wrap up NEW GAME in June. 
+
+There's just too much going on at the moment. I'm being pulled in 6 directions at once. This amount of pressure would have ripped me apart a few years ago. I'm a lot more stable now, but also have to be careful to not overestimate my newfound resiliance.
+
+Instead of pushing myself to the brink of exhaustion to finish NEW GAME in time, I'll only announce the game next week and then slowly wrap it up over the summer.
+
+While sensible, this feels like shit. 
+
+To make sure that something like this doesn't happen again, let's take a step back and examine how I fucked up NEW GAME's schedule. Not that fucking up schedules is a new thing for me.
+
+For much of qomp's 4 years of on/off development, I was frozen with fear. What if it isn't a perfect game made by a very smart genius? Paralysed by high expectations, I did nothing.
+
+During the first year of PRODUCER 2021, I was afraid of the act of writing. What if I accidentally reveal that I'm a complete idiot? Unwilling to be honest, I just developed tools and structures without ever using them.
+
+Now, during the last three months of working on NEW GAME, I was...
+
+Hm.
+
+Not sure.
+
+Initially afraid of alienating people with unconventional design, I managed to (again and again) stay strong. It's going to be a pretty uncompromising game.
+
+So if it isn't fear, then what has caused the delays?
+
+Hm.
+
+How about the lack of a systematic reflective process?
+
+Sounds about right. 
+
+This was what allowed me to finish PRODUCER:
+Weekly blogposts, summing up the efforts and failings of the previous days. A kind of project diary and archive, storing all my fuck-ups and successes, allowing me to read up on them and remember which processes actually worked and which ones were just idle distractions meant to obscure the *fear of finishing*.
+
+The fear of finishing is ever present. It can be easily overcome in short bursts, during jams and sketching hours, but in the long run, when the project is large and self-inflicted it can slowly sneak up on you, strangling you incrementally, so you don't even notice you're running short on oxygen until it's too late.
+
+I'm afraid of finishing NEW GAME, but I only realise that now.
+I couldn't even try to admit it before, so I just kept noodling around these last few weeks, not cutting what I had to cut, not thinking about what I was actually doing, being a horrible collaborateur and an inefficient developer.
+
+How!?
+
+How can this happen, again and again, project after project? How can the fear of finishing still grab hold of me, after all these published games? Could it be an inevitable part of the creative process?
+
+At least I seem to be getting faster at noticing it. It took me four years to finally start to finish qomp. But I only wasted 9 months on cowering in fear during PRODUCER. And now, with NEW GAME, it only robbed me of four weeks. 
+
+It's progress!
+
+Yehaw.
+
+
+
 **28.04.2023 - Level Design Block**
 
 For the last weeks, I've been struggling with making levels for NEW GAME. Today I finally resolved the issue and want to take some time to reflect on what happened.
