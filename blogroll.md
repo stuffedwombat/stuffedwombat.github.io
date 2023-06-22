@@ -20,7 +20,7 @@ For much of qomp's 4 years of on/off development, I was frozen with fear. What i
 
 During the first year of PRODUCER 2021, I was afraid of the act of writing. What if I accidentally reveal that I'm a complete idiot? Unwilling to be honest, I just developed tools and structures without ever using them.
 
-Now, during the last three months of working on NEW GAME, I was...
+Now, during the last three months (*actually, it's been four! I lost track of time!) of working on NEW GAME, I was...
 
 Hm.
 
