@@ -3,7 +3,7 @@
 <i>This is just a continuously updated page! Good luck finding anything!</i>
 <br><br>
 
-**the very bad day**
+**the very bad day**<br>
 *CW: mental health stuff*
 
 Yesterday was a very bad day.
