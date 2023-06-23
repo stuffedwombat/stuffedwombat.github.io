@@ -3,6 +3,57 @@
 <i>This is just a continuously updated page! Good luck finding anything!</i>
 <br><br>
 
+**the very bad day**
+*CW: mental health stuff*
+
+Yesterday was a very bad day.
+Most days of my early twenties were like this. I'm putting the specifics down in writing to make it all graspable for myself, hopefully stopping days like yesterday from becoming more common again.
+
+It all starts with me not doing things I have to for a long time. Currently I have to do my [REDACTED] and find a [REDACTED] and also finish NEW GAME and also go to [REDACTED] and also, probably, I should start trying to [REDACTED].
+
+But I am not REALLY doing any of it and I know that this is not sustainable and will lead to big problems down the line.
+
+I can handle it now, slowly chipping away at the large tasks, getting it done bit by tiny bit, even if I can't muster the power for the decisive sweep I long for.
+
+But back then, 6 years ago, I felt like a complete idiot. It was all I could think about. Idiot. To shut off my brain, I ate and consumed media.
+
+Yesterday it was like that again.
+
+Lack of activity causes a lot of excess energy to be stored up. It releases in short bursts of nerveousness. I deeply analyse the media I consume. I form strong opinions. I find connections. 
+
+Specific turns of words ("breaking plastic") and ideas ("I should write horror stories") rain down on me. I am unable to act on any of them. When the nerveous burst is over, I immediatly return to the stimulation, sinking into self-loathing lethargy.
+
+The only way to temporarily escape this loop is to focus the occasional flare-up of nerveous energy into doing creative work (like writing yesterdays blogpost). This is where a lot of my gifs came from: Short bursts of productivity, impossible to keep up over longer periods of time.
+
+I spent years of my life like this and it seemed like there was no way out.
+
+But being able to look at the slowly accumulating creative output and seeing how it developed over time forced me to aknowledge that things actually do change. I had to realise that my state was not permanent, but even then, without my family pushing me to get help, I'd probably still be stuck in that destructive loop.
+
+It's a testiment to the inherent strenght of the human body that I survived such consistent self-abuse with only a little bit of long-term damage.
+
+I've been very, very well these last few years. But now, yesterday, I was back there again. 
+
+Amazing, how silently my safe-guards had crumbled. Strange, how impossible it is to escape from such a feeling in the moment. Scary, how familiar and safe and comfortable it feels.
+
+Luckily, it was only a single day. I feel collected today and in control. A warning shot, I hope.
+
+How do I stop this from becoming more common again?
+
+Reading back what I wrote here (this is why I do this, it helps me to really think) I have to finally finish doing my [REDACTED]. And take care of [REDACTED]. I should probably not use NEW GAME to avoid going to [REDACTED]. And then, when all of these other things are taken care of, maybe... maybe I can finally start trying to [REDACTED].
+
+Basically, I've let things slide for too long. The constant pressure from not doing my shit has resulted in a very bad day. But the stability reserves of years of being happier and healthier have kept the very bad day contained and stopped it from turning into a very bad week/month/year/early adulthood.
+
+It's kind of crazy how simple it all is in the end. 
+
+Just gotta do my shit. 
+
+It's that very simplicity that makes it dangerous. If it's so easy but I still can't do it... what does that say about me?
+
+It probably means that it's not easy at all. And that I should be nicer to myself. 
+
+:)
+
+
 **22.06.23 - Fear Of Finishing**
 <br>
 
