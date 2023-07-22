@@ -25,6 +25,7 @@ Good question.
 
 **the very bad day**<br>
 *CW: mental health stuff*
+*EDIT: forgot the exact date of publication, early june 23 probably*
 
 Yesterday was a very bad day.
 Most days of my early twenties were like this. I'm putting the specifics down in writing to make it all graspable for myself, hopefully stopping days like yesterday from becoming more common again.
