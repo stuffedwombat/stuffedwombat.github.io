@@ -3,6 +3,26 @@
 <i>This is just a continuously updated page! Good luck finding anything!</i>
 <br><br>
 
+
+**22.07.23 - Magazine Dreams**
+
+Every Saturday I get the urge to start a magazine. It would be so cool. I'd call it The Fake Times and it would be about, for and by small game developers.
+
+Essays, interviews, reviews, selfmade ads for our weird games. The Fake Times would have it all.
+
+The Fake Times would be a tight little magazine. No endlessly self-indulgent rants, no wishy-washy writing without teeth. No needless verbosity, no expository vomiting.
+ 
+There would be a rigorous editorial process, whittling each contribution down into it's most direct version. The Fake Times would be exciting to read. Even inflammatory maybe.
+
+There'd be one issue per month. I'd make the first one (#000) myself, putting down hard rules, creating a template on which we could then build collectively.
+
+The Fake Times would be beautiful.
+
+So why don't I make it?
+
+Good question.
+
+
 **the very bad day**<br>
 *CW: mental health stuff*
 
