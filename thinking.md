@@ -1,5 +1,7 @@
 [back](index)
 
+less coherent thoughts live on the [blogroll](blogroll)
+
 **good thinks:**
 - [about Dishonored 1 & 2](about_dishonored)
 - [about Rainworld](about_rainworld)
