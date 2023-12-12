@@ -1,5 +1,8 @@
 [back](index)
 
+I'm currently answering a bunch of questions from twitter:
+- [Tips for Rapid Prototyping?](qa_rapid_prototyping)
+
 less coherent thoughts live on the [blogroll](blogroll)
 
 **good thinks:**
