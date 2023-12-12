@@ -1,4 +1,4 @@
-[back](thinks)
+[back](thinking)
 
 @DicedBasilisk asks:
 ### Any tips and tricks of rapid prototyping, or however you like to go about testing game ideas out so quickly?
@@ -18,4 +18,4 @@ The prototype you are making right now is just a small stepping stone towards a 
 Hope this helps :)
 Josh
 
-[back](thinks)
+[back](thinking)
