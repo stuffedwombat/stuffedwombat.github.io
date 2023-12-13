@@ -1,5 +1,24 @@
 [back](thinking)
 
+*@h_a_l_e_x asked:*
+### What are your ways of working specifically on Game Feel (Steve Swink) and Juiciness please!
+
+I add it like a sprinkle of salt here and there. When I started to make games I was really obsessed with these concepts and saw them as integral to my process. I used to add screenshake before I even had a gameplay loop. This intense focus lead to me becoming quite intuitive with juice, but over time I lost interest in it. My focus shifted to more abstract game design stuff. I guess I still always try to get the "Game Feel" to a place where whatever I am making is enjoyable to touch and play with, but beyond that I haven't really been thinking about these concepts a whole lot.
+
+Actually, thinking about it, I had to actively stop myself from focusing so much on juice. It was like a compulsion, a kind of automatism, but it slowed down my work. Once a protoype is all juiced up, it automatically **feels** cool, no matter wether it actually is. It's the whole "investing too much into an early prototype" thing again, where your attachement to your very first attempt is so large that you get lost in the sauce.
+
+ACTUALLY, this happened to me a lot! In the years before shipping qomp, I was in this kind of desperate manic state. Always prototyping, always experimenting, only sometimes finishing. I would have an Idea, quickly bang out a rough approximation of gameplay and then (here comes the mistake) add some juice to it. Then, once the joy of having a cool looking thing on the screen faded, I would be left out of the flow, directionless, vaguely dreading the next steps. So why not add some more juice? Wouldn't it be fun to code a really smooooth camera system? Nobody wants to face the uncertainty of the games larger direction and pacing!
+
+
+
+*someone who's @ I didn't copy properly and whose reply I can't find rn asked:*
+### From what I can gather, you seem like you don't like to dwell on past projects too much (or you get consumed by ideas for new projects). Do you think that moving on to the next game would be better for you personally? Do you want to work on ML for the forseeable future?"
+
+Yes, I am very much always moving on from whatever I just did.
+I don't consider Mosa Lina to be finished yet, but I really needed the current break from it. Still, I won't be able to move on to the next project until I consider Mosa Lina to be done. So yes, I will work on it a bit more. But not for too long ;)
+<br><br><br>
+
+
 *Geist Traft (@traft25372) asks:*
 ## How did you make the slope collisions for Mosa Lina? Because from what I’ve heard good slope collisions in platformers is like finding how to turn lead into gold.
 
