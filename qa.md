@@ -4,6 +4,55 @@ Having no specific topic burning inside me but still wanting to write about game
 
 13.12.23
 
+*@YemmyTheFerret asks:*
+### What is your go to meal while working on games. Or meals? Or food in general? I'm hungry
+I'm trying to figure that out right now. My go to meal changed a lot over the last years. It used to be midnight pizza, then it became probably sage-sauce-spaghetti and now it is... I don't know. I made some onion & pees soup today. Before that I ate sausages with mashed potatoes two days in a row because I didn't know that you shouldn't freeze mashed potatoes. I'm working on it.
+
+*@TinyBox11 asks:*
+### How do you decide whether a feature or anything at all belongs in the game or not? Let’s say you want to add an enemy that attacks in a specific pattern, how do you decide if it compliments the game or is just redundant/ worse?
+
+This is a question of vision. You can only make decisions like that when you have a pretty accurate idea of what the game should be.
+
+Is the game about memorising attack patterns or is it about finding weak spots? If you can't answer this question, then you can't know if your enemie compliments the game or not.
+
+The idea of a vision (or northstar or pillar etc) is that it is larger than any single problem. It is not concerned with details, but with the larger impact. It's about what the finished game wants to achieve. 
+
+List of things that you could want to achieve with the finished games:
+- Goty
+- earn a living
+- test a new engine feature
+- impress your friends
+- learn to code
+- have a nice afternoon
+
+It doesn't really matter what your vision is. As long as you commit to it, you can use it to help with decisions like the ones you described.
+Just ask yourself:
+
+Does doing THING make the game more aligned with VISION?
+- If yes, do it.
+- If no, don't do it.
+- If maybe, try and evaluate.
+
+*@tsallast_ asks:*
+### Do you feel like there's any aspects of interactivity that have gone largely unexplored by games?
+
+Yes, luckily! 
+
+ Three things are especially interesting to me here:
+- removing external motivators from games to destroy the desire to win and be smart and correct and cool.
+- dynamically changing the game in reaction to how people play the game (not necessarily unexplored, but underexplored in my opinion)
+- communication with NPCs on an level of verb-equality
+
+
+
+*@ms_frogrammer asks:*
+## what are your thoughts on having a message in your game? should there be one or is the game on its own enough of a message?
+
+Every game has a message. Most of the times the message is something like: "Hey! Look at this!! Isn't this super fucking cool?!?"
+
+You can make games for any reason whatsoever. Most people make games because they love games. You can love more than one thing though.
+
+Actually, I would highly recommend it.
 
 
 
