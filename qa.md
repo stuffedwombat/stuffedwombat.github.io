@@ -1,7 +1,7 @@
 [back](thinking)
 
 *Geist Traft (@traft25372) asks:*
-### How did you make the slope collisions for Mosa Lina? Because from what I’ve heard good slope collisions in platformers is like finding how to turn lead into gold.
+## How did you make the slope collisions for Mosa Lina? Because from what I’ve heard good slope collisions in platformers is like finding how to turn lead into gold.
 
 Basically, there's an invisible sensor at the bottom of the player object that checks if you're overlapping ground or not. This sensor is VERY wide. Like, almost as wide as the character, allowing you to kind of jump-climb even super steep slopes.
 
@@ -10,7 +10,7 @@ When you're not giving any input while standing on the ground, the game will rad
 <br><br><br>
 
 *Vlp (@SomeVolp) asks:*
-### Is it hard to self-publish?
+## Is it hard to self-publish?
 
 In some ways, it's is a lot easier because I really dislike negotiations and paperwork. 
 Companies also move  slowly. I don't want to spend 6 months writing emails to *maybe* get funding. By self-publishing I can spend that time on making the games instead.
@@ -23,7 +23,7 @@ It's only with Mosa Lina that a self-published game actually produced enough mon
 <br><br><br>
 
 *@0ozymandias1 asks:*
-### Whats your usual method for coming up with game ideas? Are they epiphanies? Inspiration from existing works?  Just dabbling and seeing what sticks?
+## Whats your usual method for coming up with game ideas? Are they epiphanies? Inspiration from existing works?  Just dabbling and seeing what sticks?
 
 It all comes from being interested in things. The more things you're interested in, the wider the variety of ideas that you'll have. The more intensely you focus on a single thing, the more specific ideas you'll have. But if you are not paying attention to the world around you, if you aren't curious about the stuff you experience, then ideas will be slow to come and you'll imbue every single one with way too much importance, potentially dragging you down for years to come.
 
@@ -42,12 +42,12 @@ Interestingly enough, most of my ideas seem to come from engagement with games &
 <br><br><br>
 
 *@YemmyTheFerret asks:*
-### What is your go to meal while working on games. Or meals? Or food in general? I'm hungry
+## What is your go to meal while working on games. Or meals? Or food in general? I'm hungry
 I'm trying to figure that out right now. My go to meal changed a lot over the last years. It used to be midnight pizza, then it became sage-sauce-spaghetti and now it is... I don't know. I made some onion & pees soup today. Before that I ate sausages with mashed potatoes two days in a row because I didn't know that you shouldn't freeze mashed potatoes. I'm working on it.
 <br><br>
 
 *@TinyBox11 asks:*
-### How do you decide whether a feature or anything at all belongs in the game or not? Let’s say you want to add an enemy that attacks in a specific pattern, how do you decide if it compliments the game or is just redundant/ worse?
+## How do you decide whether a feature or anything at all belongs in the game or not? Let’s say you want to add an enemy that attacks in a specific pattern, how do you decide if it compliments the game or is just redundant/ worse?
 
 This is a question of vision. You can only make decisions like that when you have a pretty accurate idea of what the game should be.
 
@@ -73,7 +73,7 @@ Does doing THING make the game more aligned with VISION?
 <br><br><br>
 
 *@tsallast_ asks:*
-### Do you feel like there's any aspects of interactivity that have gone largely unexplored by games?
+## Do you feel like there's any aspects of interactivity that have gone largely unexplored by games?
 
 Yes! 
 
@@ -94,17 +94,17 @@ Actually, I would highly recommend it.
 <br><br><br>
 
 *@DicedBasilisk asks:*
-### Any tips and tricks of rapid prototyping, or however you like to go about testing game ideas out so quickly?
+## Any tips and tricks of rapid prototyping, or however you like to go about testing game ideas out so quickly?
 
 Three things come to mind immediatly:
 
-## Get comfortable with failing
+### Get comfortable with failing
 If your prototype isn't doing what you hoped it would, throw it away. Don't be too precious about specific ideas or approaches. Holding on to a failed prototype and investing more and more time into it in order to salvage the previous effort is just going to leave you with a thing that you won't recognise. Instead of trying to realise a specific vision, it will only be a reaction to the problems you encountered. Such a thing can not serve as a building block for future work, it just muddies the water with weak direction.
 
-## Work within your technical comfort zone
+### Work within your technical comfort zone
 You don't want to constantly have to look up how to code that specific thing again. If you can't realise your idea quickly and without substantial googling, then the idea is too complicated for you right now. Simplify it, dumb it down, abstract it and try again. 
 
-## Work on a large conceptual scale
+### Work on a large conceptual scale
 The prototype you are making right now is just a small stepping stone towards a larger goal. You are not trying to find the perfect implementation of that cool idea you had, you are just exploring the possibility space around that idea. If you try to approach the same concept from 3 angles I guarantee you that you will find surprising commonalities and contrasts, the kind of raw fundamentals that you can use to make something that's genuinly your own.
 <br><br><br>
 
