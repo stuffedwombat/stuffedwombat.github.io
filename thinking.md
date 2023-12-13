@@ -1,7 +1,6 @@
 [back](index)
 
-I'm currently answering a bunch of questions from twitter:
-- [Tips for Rapid Prototyping?](qa_rapid_prototyping)
+I'm currently answering [a bunch of questions](qa) from twitter!
 
 less coherent thoughts live on the [blogroll](blogroll)
 
