@@ -7,7 +7,7 @@ Basically, there's an invisible sensor at the bottom of the player object that c
 
 It's also just pretty heavily tweaked physics!
 When you're not giving any input while standing on the ground, the game will radically slow down the character, resulting in this kind of slow sliding. There's probably a whole lot of small clamps and lerps and little tweaks that I can't remember right now. Making non-90-degree-ground enjoyable to traverse was one of the very first things that I tackled with this version of Mosa Lina. It took like six or seven iterations to get it to where it's at now.
-
+<br><br>
 
 *Vlp (@SomeVolp) asks:*
 ### Is it hard to self-publish?
@@ -20,7 +20,7 @@ Self publishing on steam really makes it pretty easy to reach a large amount of 
 Even though most of my games made back the money that was spent on them (and even though I was living very cheaply) the profit would not have been enough to finance my life. I was living off of the money from a low-stake loan and the freak accident of selling an IP. 
 
 It's only with Mosa Lina that a self-published game actually produced enough money to live off of directly. 
-
+<br><br>
 
 *@0ozymandias1 asks:*
 ### Whats your usual method for coming up with game ideas? Are they epiphanies? Inspiration from existing works?  Just dabbling and seeing what sticks?
@@ -39,12 +39,12 @@ Here is a list of the places where some of my ideas came from:
 - interest in merging humans and computers
 
 Interestingly enough, most of my ideas seem to come from engagement with games & game design!
-
+<br><br>
 
 *@YemmyTheFerret asks:*
 ### What is your go to meal while working on games. Or meals? Or food in general? I'm hungry
 I'm trying to figure that out right now. My go to meal changed a lot over the last years. It used to be midnight pizza, then it became sage-sauce-spaghetti and now it is... I don't know. I made some onion & pees soup today. Before that I ate sausages with mashed potatoes two days in a row because I didn't know that you shouldn't freeze mashed potatoes. I'm working on it.
-
+<br><br>
 
 *@TinyBox11 asks:*
 ### How do you decide whether a feature or anything at all belongs in the game or not? Let’s say you want to add an enemy that attacks in a specific pattern, how do you decide if it compliments the game or is just redundant/ worse?
@@ -70,7 +70,7 @@ Does doing THING make the game more aligned with VISION?
 - If yes, do it.
 - If no, don't do it.
 - If maybe, try and evaluate.
-
+<br><br>
 
 *@tsallast_ asks:*
 ### Do you feel like there's any aspects of interactivity that have gone largely unexplored by games?
@@ -81,8 +81,7 @@ Yes, luckily!
 - removing external motivators from games to destroy the desire to win and be smart and correct and cool.
 - dynamically changing the game in reaction to how people play the game (not necessarily unexplored, but underexplored in my opinion)
 - communication with NPCs on an level of verb-equality
-
-
+<br><br>
 
 *@ms_frogrammer asks:*
 ## what are your thoughts on having a message in your game? should there be one or is the game on its own enough of a message?
@@ -92,7 +91,7 @@ Every game has a message. Most of the times the message is something like: "Hey!
 You can make games for any reason whatsoever. Most people make games because they love games. You can love more than one thing though.
 
 Actually, I would highly recommend it.
-
+<br><br>
 
 *@DicedBasilisk asks:*
 ### Any tips and tricks of rapid prototyping, or however you like to go about testing game ideas out so quickly?
@@ -107,7 +106,7 @@ You don't want to constantly have to look up how to code that specific thing aga
 
 ## Work on a large conceptual scale
 The prototype you are making right now is just a small stepping stone towards a larger goal. You are not trying to find the perfect implementation of that cool idea you had, you are just exploring the possibility space around that idea. If you try to approach the same concept from 3 angles I guarantee you that you will find surprising commonalities and contrasts, the kind of raw fundamentals that you can use to make something that's genuinly your own.
-
+<br><br>
 
 Thanks for all the questions <3
 
