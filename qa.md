@@ -1,5 +1,34 @@
 [back](thinking)
 
+*@Thi_o_Oliveira asks:*
+### How do you decide which idea turns into a full game and which not?
+
+This is always different. Full productions take a long time, so I need to make sure that there is some driving force, some concrete interest that will help me to push through the endless slog of actually making a game. But what exactly that driving thing is will always be different. There's no formula. I only want to encourage you to try and be honest with yourself about what you desire to gain from making the game. Whatever it is (and you can desire anything, it's fine, really) will make the decision about which idea to focus on a lot easier.
+
+This is all a bit vague, so I'll just describe the decision making process for some of the commercial games as I remember them now:
+
+- turning "pomg" into a commercial game wasn't my idea. Edu Verz (of Brainwash Gang) told me that he could get me a publisher for a bigger version of that game and so I embarked on a 4 year long journey, not because I was super convinved about the game's design, but simply because someone else was ready to support it. I was, at that time, really depressed and lonely.
+- 
+- Ord. was a game that could be made with very low effort, so we decided to pursue it in order to learn how to publish & sell games on Steam. It was a kind of opportunistic move.
+
+- When I got fired from my hostel job at the start of the pandemic, I wanted to make a game in a single month to try and see if I could earn more money than I would've earned in the hostel.
+
+- PRODUCER 2021 (a visual novella) was made because, after finally releasing qomp, I felt the strong desire to make something completely different from the platform-y type games I'd been making so far. 
+
+These are, of course, only the decisions that worked out, the ones that got finished. All the failed attempts at commercial games are hidden in unreleased-status, making me look like I really know what I am doing. Lol. Lmao.
+<br<br><br>
+
+
+*@Vrixyz asked:*
+### I love what you're doing and very curious about your process, (estimated) dev time / project, and how do you think something will work or not
+Thanks!
+
+My "process" is always changing, but I'd roughly describe it as "highly iterative dirtbag development" where I don't really care about clean code or appealing visuals for a loooong time while I make prototypes and ponder philosophical implications before, after a few fitful starts & stops, I snap into full production mode and end up cutting a lot of features in order to finish for the final, hard deadline.
+
+I tend to radically misjudge how long projects will take. I wanted to finish qomp in 3 months, but it took 4 years. Producer was planned to take 5 months or so and it ended up taking 1 1/2 years. Mosa Lina was supposed to be done in a single month but it took 7 or 8 months to release and is still receiving updates.
+
+You never really know if a project will work or not when you start. Never. It's what makes the work interesting.
+
 *@h_a_l_e_x asked:*
 ### What are your ways of working specifically on Game Feel (Steve Swink) and Juiciness please!
 
