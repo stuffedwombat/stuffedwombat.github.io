@@ -34,7 +34,7 @@ I should state here that every engine I've ever worked with has some sort of vis
 
 So, at this point in the summer of 2017, I could do stuff with Construct, but I didn't feel super comfortable yet. Luckily, only a few months later, I was in a hotel room in Johannesburg, trying to fix a collision bug in the demo of pomg before Amaze kicked off. Quike, who came along to babysit my inexperienced ass, stepped in to help. He quickly wrote a few lines of direct movement code. Something like 
 
-> "every tick set X to self.x+self.hor_dir".
+> every tick set X to self.x+self.hor_dir.
 
 This simple line unlocked something in my brain about how code works. I was using inbuilt behaviours and strange hacks to get stuff working before, but now I felt like I had clean access to the core of the engine.
 
