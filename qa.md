@@ -32,7 +32,11 @@ Edu told me to drop Stencyl and switch over to Construct 2, the engine they were
 
 I should state here that every engine I've ever worked with has some sort of visual scripting component. I don't know how to write c# or whatever. My main concern is always with making games, not with writing code. For many years I didn't understand basic coding concepts and just did all my work by trial and error.
 
-So, at this point in the summer of 2017, I could do stuff with Construct, but I didn't feel super comfortable yet. Luckily, only a few months later, I was in a hotel room in Johannesburg, trying to fix a collision bug in the demo of pomg before Amaze kicked off. Quike, who came along to babysit my inexperienced ass, stepped in to help. He quickly wrote a few lines of direct movement code. Something like "every tick set X to self.x+self.hor_dir". This simple line unlocked something in my brain about how code works. I was using inbuilt behaviours and strange hacks to get stuff working before, but now I felt like clean access to the core of the engine.
+So, at this point in the summer of 2017, I could do stuff with Construct, but I didn't feel super comfortable yet. Luckily, only a few months later, I was in a hotel room in Johannesburg, trying to fix a collision bug in the demo of pomg before Amaze kicked off. Quike, who came along to babysit my inexperienced ass, stepped in to help. He quickly wrote a few lines of direct movement code. Something like 
+
+> "every tick set X to self.x+self.hor_dir".
+
+This simple line unlocked something in my brain about how code works. I was using inbuilt behaviours and strange hacks to get stuff working before, but now I felt like clean access to the core of the engine.
 
 For the next few years I would manically prototype lots of stuff, becoming so proficient at Construct 3 that I can not imagine working with anything else. I assume/hope that when/if I start working on 3D games, someone else will handle the code and technology. 
 <br><br><br>
