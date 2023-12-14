@@ -1,5 +1,21 @@
 [back](thinking)
 
+*@gingerbeardman asks:*
+### How did you settle on an engine/technology?
+
+I didn't intentionally settle on an engine so much as that I just got stuck with Construct.
+Don't get me wrong, I love this piece of software. I am VERY fast with it. Switching to any other engine feels like a huge setback in realisation speed. Anyways, I got stuck with Construct in 2017, thanks to Edu and Quike from Brainwashgang.
+
+Edu told me to drop Stencyl and switch over to Construct 2, the engine they were using at the time as well. Being generally very impressed with Edu, I followed his advice and really enjoyed the new engine, managing to cobble together a prototype of what would eventually become qomp. 
+
+I should state here that every engine I've ever worked with has some sort of visual scripting component. I don't know how to write c# or whatever. My main concern is always with making games, not with writing code. For many years I didn't understand basic coding concepts and just did all my work by trial and error.
+
+So, at this point in the summer of 2017, I could do stuff with Construct, but I didn't feel super comfortable yet. Luckily, only a few months later, I was in a hotel room in Johannesburg, trying to fix a collision bug in the demo of pomg before Amaze kicked off. Quike, who came along to babysit my inexperienced ass, stepped in to help. He quickly wrote a few lines of direct movement code. Something like "every tick set X to self.x+self.hor_dir". This simple line unlocked something in my brain about how code works. I was using inbuilt behaviours and strange hacks to get stuff working before, but now I felt like clean access to the core of the engine.
+
+For the next few years I would manically prototype lots of stuff, becoming so proficient at Construct 3 that I can not imagine working with anything else. I assume/hope that when/if I start working on 3D games, someone else will handle the code and technology. 
+<br><br><br>
+
+
 *@Creta5164 asks:*
 ### What's the start point of idea when you making Mosa Lina?"
 It occured to me at some point after writing an essay about the Dishonored series. I played a lot of immersive sims as research and felt the general trend of the genre drifting towards a systems-driven-playground style. Genuine creative problem solving became less of a focus, because all possible playstyles seemed to always be accounted for. You could do everything, at all times. Playing Dishonored 2 without using any abilities is relatively easy because the designers always put an route in the game that doesn't require you to use any abilities. The game essentially formalised some of the player-made challenges & playstyles from the first game, loosing the judgemental edge of it's morality system in the process.
