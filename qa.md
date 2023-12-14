@@ -3,7 +3,9 @@
 *@Thi_o_Oliveira asks:*
 ### How do you decide which idea turns into a full game and which not?
 
-This is always different. Full productions take a long time, so I need to make sure that there is some driving force, some concrete interest that will help me to push through the endless slog of actually making a game. But what exactly that driving thing is will always be different. There's no formula. I only want to encourage you to try and be honest with yourself about what you desire to gain from making the game. Whatever it is (and you can desire anything, it's fine, really) will make the decision about which idea to focus on a lot easier.
+This is always different. Full productions take a long time, so I need to make sure that there is some driving force, some concrete interest that will help me to push through the endless slog of actually making a game. But what exactly that driving thing is will always be different. 
+
+There's no formula. I only want to encourage you to try and be honest with yourself about what you desire to gain from making the game. Whatever it is (and you can desire anything, it's fine, really) will make the decision about which idea to focus on a lot easier.
 
 This is all a bit vague, so I'll just describe the decision making process for some of the commercial games as I remember them now:
 
