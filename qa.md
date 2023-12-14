@@ -16,7 +16,8 @@ This is all a bit vague, so I'll just describe the decision making process for s
 - PRODUCER 2021 (a visual novella) was made because, after finally releasing qomp, I felt the strong desire to make something completely different from the platform-y type games I'd been making so far. 
 
 These are, of course, only the decisions that worked out, the ones that got finished. All the failed attempts at commercial games are hidden in unreleased-status, making me look like I really know what I am doing. Lol. Lmao.
-<br<br><br>
+
+<br><br><br>
 
 
 *@Vrixyz asked:*
