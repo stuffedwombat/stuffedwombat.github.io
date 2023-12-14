@@ -1,5 +1,19 @@
 [back](thinking)
 
+*@Creta5164 asks:*
+### What's the start point of idea when you making Mosa Lina?"
+It occured to me at some point after writing an essay about the Dishonored series. I played a lot of immersive sims as research and felt the general trend of the genre drifting towards a systems-driven-playground style. Genuine creative problem solving became less of a focus, because all possible playstyles seemed to always be accounted for. You could do everything, at all times. Playing Dishonored 2 without using any abilities is relatively easy because the designers always put an route in the game that doesn't require you to use any abilities. The game essentially formalised some of the player-made challenges & playstyles from the first game, loosing the judgemental edge of it's morality system in the process.
+
+I am rambling about Dishonored so much because this was the headspace I was bouncing around in when I had the Idea to push the immersive sim to it's breaking point. What if a game presented you with a problem that has not intended solution? 
+
+But this is only one composite part of the whole idea. 
+- The level selection system, where you draw random levels from a pool until you have beaten them all, comes from a very old interested in dynamic progression structures. I had countless prototypes (and one released browser game) about this type of stuff lying around.
+- I've  been interested in physic platforming for years because of Rain World.
+- The idea for an inversion of the Mona Lisa, a really "imperfect" game came during a voicecall with Fynn, with whom I'd been talking a lot about game design ever since we wrote Ord. together.
+
+All of this disparate stuff then came together in what now looks like a single, concrete thing, but which is actually a whole melting pot of ideas and interests!
+<br><br><br>
+
 *@Thi_o_Oliveira asks:*
 ### How do you decide which idea turns into a full game and which not?
 
