@@ -1,5 +1,27 @@
 [back](thinking)
 
+
+*@ZackViper3 asks:*
+### How do I stop fiddling with/accept the janky parts of my game systems and actually just make a damn game with them
+
+We all have this kind of shameful desire to be seen as very smart-game-design-genuises. Hm, maybe not **all** of us, but most of us. Okay, maybe I'm projecting, but we all have these expectations within us, this drive to do "good work", whatever that means to us.
+
+The fiddling that you describe is a delay tactic, brought on by uncertainty and doubt and fear. Sure, you want to do well, but what if you fuck up? It's much more comfortable to endlessly tweak some isolated variables than it is to deal with the overarching dynamics of a complicated system. By limiting your perspective to a small part of the game, by endlessly trying to make it "perfect", you can safely ignore the larger context in which those janky sub-system will operate. Better to never finish than to see your work in the harsh light of day. 
+
+There is no permanent solution to this. It's a basic instinct to be afraid of failing. No matter how often I overcome it, it pops back up in the next project. Pushing through this fear is simply a substantial part of the creative process. You might fail. You might show your ass on stage. Overcoming fear is what making stuff is all about (at least it was for me for a long time) and nobody can do that for you. Nothing I write is going to allow you to automatically overcome your fear of finishing.
+
+But maybe it can help! Whenever I recognise that the fear of failing has snuck up on me and taken over my process, I try to remind myself of a few things:
+
+- I need to finish or I will never be able to move on to the next cool thing.
+- Nobody really cares about (or notices) the tiny details I obsess about.
+- If I'm not showing your ass a little bit, then I've been playing it too safe.
+
+What also helps (and what everyone hates to hear) is to make many small projects. The smaller the game, the smaller the potential humiliation of being a bad-stupid-dumb-designer and so it's easier to overcome the fear.
+
+After many years of being afraid of it, I have actually really fallen in love with the last third of my projects, the phase where all fiddling has to cease and decisions have to be made. It's really, really satisfying to overcome your fear. Even if the project actually does fail, at least you actually finished it. From this perspective, you can only win. Yehaw.
+<br><br><br>
+
+
 *@gingerbeardman asks:*
 ### How did you settle on an engine/technology?
 
