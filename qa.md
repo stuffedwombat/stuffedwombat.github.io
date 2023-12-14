@@ -14,7 +14,7 @@ But maybe it can help! Whenever I recognise that the fear of failing has snuck u
 
 - I need to finish or I will never be able to move on to the next cool thing.
 - Nobody really cares about (or notices) the tiny details I obsess about.
-- If I'm not showing your ass a little bit, then I've been playing it too safe.
+- If I'm not showing my ass a little bit, then I've been playing it too safe.
 
 What also helps (and what everyone hates to hear) is to make many small projects. The smaller the game, the smaller the potential humiliation of being a bad-stupid-dumb-designer and so it's easier to overcome the fear.
 
