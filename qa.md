@@ -36,7 +36,7 @@ So, at this point in the summer of 2017, I could do stuff with Construct, but I 
 
 > "every tick set X to self.x+self.hor_dir".
 
-This simple line unlocked something in my brain about how code works. I was using inbuilt behaviours and strange hacks to get stuff working before, but now I felt like clean access to the core of the engine.
+This simple line unlocked something in my brain about how code works. I was using inbuilt behaviours and strange hacks to get stuff working before, but now I felt like I had clean access to the core of the engine.
 
 For the next few years I would manically prototype lots of stuff, becoming so proficient at Construct 3 that I can not imagine working with anything else. I assume/hope that when/if I start working on 3D games, someone else will handle the code and technology. 
 <br><br><br>
@@ -82,7 +82,7 @@ These are, of course, only the decisions that worked out, the ones that got fini
 ### I love what you're doing and very curious about your process, (estimated) dev time / project, and how do you think something will work or not
 Thanks!
 
-My "process" is always changing, but I'd roughly describe it as "highly iterative dirtbag development" where I don't really care about clean code or appealing visuals for a loooong time while I make prototypes and ponder philosophical implications before, after a few fitful starts & stops, I snap into full production mode and end up cutting a lot of features in order to finish for the final, hard deadline.
+My "process" is always changing, but I'd roughly describe it as "highly iterative dirtbag development" where I don't really care about clean code or appealing visuals for a loooong time. Instead I make many prototypes and ponder philosophical implications. Then, after a few fitful starts & stops, I snap into full production mode. This is a period of very regular and rythmic work, where I slowly churn out the actual game. I tend to loose track of time while doing that and am then surprised by the deadline, triggering a final revision of the project. What do I really need? Usually, lots of stuff gets cut at the last moment, creating a lot of loose ends that then connect in surprising new ways. The joy of those cool connections then pushes me to actually wrap up development.
 
 I tend to radically misjudge how long projects will take. I wanted to finish qomp in 3 months, but it took 4 years. Producer was planned to take 5 months or so and it ended up taking 1 1/2 years. Mosa Lina was supposed to be done in a single month but it took 7 or 8 months to release and is still receiving updates.
 
@@ -91,25 +91,30 @@ You never really know if a project will work or not when you start. Never. It's 
 *@h_a_l_e_x asked:*
 ### What are your ways of working specifically on Game Feel (Steve Swink) and Juiciness please!
 
-I add it like a sprinkle of salt here and there. When I started to make games I was really obsessed with these concepts and saw them as integral to my process. I used to add screenshake before I even had a gameplay loop. This intense focus lead to me becoming quite intuitive with juice, but over time I lost interest in it. My focus shifted to more abstract game design stuff. I guess I still always try to get the "Game Feel" to a place where whatever I am making is enjoyable to touch and play with, but beyond that I haven't really been thinking about these concepts a whole lot.
+I add it like a sprinkle of salt here and there, but when I started to make games I was really obsessed with these concepts. I saw them as absolutely integral to my process. Like, I used to add screenshake before I even had a gameplay loop. 
 
-Actually, thinking about it, I had to actively stop myself from focusing so much on juice. It was like a compulsion, a kind of automatism, but it slowed down my work. Once a protoype is all juiced up, it automatically **feels** cool, no matter wether it actually is. It's the whole "investing too much into an early prototype" thing again, where your attachement to your very first attempt is so large that you get lost in the sauce.
+This intense focus lead to me becoming quite intuitive with juice, but over time I lost interest in it. My focus shifted to more abstract game design stuff. I still try to get the "Game Feel" to a place where whatever I am making is enjoyable to touch, but beyond that I haven't really been thinking about these concepts a whole lot.
 
-ACTUALLY, this happened to me a lot! In the years before shipping qomp, I was in this kind of desperate manic state. Always prototyping, always experimenting, only sometimes finishing. I would have an Idea, quickly bang out a rough approximation of gameplay and then (here comes the mistake) add some juice to it. Then, once the joy of having a cool looking thing on the screen faded, I would be left out of the flow, directionless, vaguely dreading the next steps. So why not add some more juice? Wouldn't it be fun to code a really smooooth camera system? Nobody wants to face the uncertainty of the games larger direction and pacing!
+Actually, thinking back now, I had to actively stop myself from focusing on juice. It was like a compulsion, a kind of automatism, that slowed down my work. When a protoype is all juiced up, it automatically **feels** cool, no matter wether it actually is. It's the whole "investing too much into an early prototype" thing again, where your attachement to your very first attempt is so large that you can't let go and get lost in the sauce.
 
-It's kind of strange, looking back at how I used to work. I get the compulsion to yell at you and warn you, to tell you: "No, don't do this dumb mistake I did! Do this smart thing I did to avoid the mistake instead!" But such yelling is pointless. What I call "mistakes"  is actually an integral part of the process that eventually allowed me to move on from Juice and explore some other avenues instead. 
+ACTUALLY, this happened to me a lot! In the years before shipping qomp, I was in this kind of desperate manic state. Always prototyping, always experimenting, only sometimes finishing. I would have an Idea, quickly bang out a rough approximation of gameplay and then (here comes the mistake!) add some juice to it. But once the joy of having a cool looking thing on the screen faded, I would be left directionless, vaguely dreading the next steps. So why not add some more juice? Wouldn't it be fun to code a really smooooth camera system? Nobody wants to face the uncertainty of the games larger direction and pacing, but everybody loves it when the screen goes brrrr.
 
-Now, in these new places, I heavily benefit from years and years of game feel experience. The games I want to make are weird and new, the Ideas I want to negotiate are abstract and cold, but I want as many people as possible to play them, so the games needs to feel as warm and welcoming as they possibly can. My long history of juice obessesion makes me very confident when handling that part of the process, freeing up mental load to focus on the more interesting problems.
+I now feel the compulsion to yell at you and warn you. I want to tell you: "Don't think about Juice, think about Game Design! Ignore Game Feel and explore Structure instead! Don't repeat my dumb mistakes!" But such yelling is pointless. What I call "mistakes" is actually an integral part of my larger development as a developer. You can only really move on from things when you yourself are done with them. I am very happy that I stopped caring about juice so much and instead went on to explore new areas, but I don't want to discourage you from being interested in anything.
+
+Because now, in these new places, I heavily benefit from the years of my game feel obsession. The games I want to make are weird and new, their ideas are abstract and cold, but I want as many people as possible to play them and so the games need to feel as warm and welcoming as they possibly can. My long history of "juicing" makes me very confident when handling that part of the work, freeing up mental load to focus on the more interesting problems. 
 <br><br><br>
 
 *someone who's @ I didn't copy properly and whose tweet I can't find right now asked:*
 ### From what I can gather, you seem like you don't like to dwell on past projects too much (or you get consumed by ideas for new projects). Do you think that moving on to the next game would be better for you personally? Do you want to work on ML for the forseeable future?"
 
-For the last few months I've been working on Mosa Lina in addition to trying to work on two other projects and it was a pretty rough experience. What I mean to say is that I can't move on to the "next game", because I need to wrap up work on those two things before I can start anything new. 
+I can't move on yet, simply because I need to wrap up two projects that have been running paralell to Mosa Lina before I can start anything new.
 
-But yes, generally speaking, moving on to the next project is always the goal. Making new things is what I really care about and this is what gives me the energy for the long run I think: There will always be some more interesting stuff to work with later BUT I need to wrap up the old stuff before I can get to the new stuff.
+But yes, generally speaking, moving on to the next project is always the goal. Making new things is what I really care about. It's  what gives me the energy for the long run. There will always be some more interesting stuff to work with later BUT I need to wrap up the old stuff before I can get to the new stuff.
 
-Mosa Lina is not yet wrapped up, so I can not move on from it yet. Like, sure, I could just never update it again, but the project wouldn't leave me alone. There's still some spaces to explore and some concepts to test. I want to leave the game in a very "complete" state, where it's the most clear version of itself that it could possibly be. This sounds very cheesy because it is very cheesy. This line of thinking has been my northstar during development. Mosa Lina needs to become more substantially random before I can move on from it. This will be some work, but not a extremely large amount of it. I expect to cease work on it in the next few months. 
+Mosa Lina itself is just not finished yet. There are some ideas and designs that I need to test out before I can leave it behind me. These ideas will simply keep bothering me until I try them out. So even if I started a new thing now, I'm pretty sure that I couldn't really focus on it.
+
+I have to leave Mosa Lina in a very "complete" state, where it's *the most clear version of itself that it could possibly be*.
+This sounds very cheesy because it is very cheesy. This line of thinking has been my northstar during development. Mosa Lina needs to become more substantially random before I can move on from it. This will be some work, but not a extremely large amount of it. I expect to cease work on it in the next few months. 
 <br><br><br>
 
 *Geist Traft (@traft25372) asks:*
