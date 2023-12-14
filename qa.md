@@ -9,15 +9,20 @@ Actually, thinking about it, I had to actively stop myself from focusing so much
 
 ACTUALLY, this happened to me a lot! In the years before shipping qomp, I was in this kind of desperate manic state. Always prototyping, always experimenting, only sometimes finishing. I would have an Idea, quickly bang out a rough approximation of gameplay and then (here comes the mistake) add some juice to it. Then, once the joy of having a cool looking thing on the screen faded, I would be left out of the flow, directionless, vaguely dreading the next steps. So why not add some more juice? Wouldn't it be fun to code a really smooooth camera system? Nobody wants to face the uncertainty of the games larger direction and pacing!
 
+It's kind of strange, looking back at how I used to work. I get the compulsion to yell at you and warn you, to tell you: "No, don't do this dumb mistake I did! Do this smart thing I did to avoid the mistake instead!" But such yelling is pointless. What I call "mistakes"  is actually an integral part of the process that eventually allowed me to move on from Juice and explore some other avenues instead. 
 
-
-*someone who's @ I didn't copy properly and whose reply I can't find rn asked:*
-### From what I can gather, you seem like you don't like to dwell on past projects too much (or you get consumed by ideas for new projects). Do you think that moving on to the next game would be better for you personally? Do you want to work on ML for the forseeable future?"
-
-Yes, I am very much always moving on from whatever I just did.
-I don't consider Mosa Lina to be finished yet, but I really needed the current break from it. Still, I won't be able to move on to the next project until I consider Mosa Lina to be done. So yes, I will work on it a bit more. But not for too long ;)
+Now, in these new places, I heavily benefit from years and years of game feel experience. The games I want to make are weird and new, the Ideas I want to negotiate are abstract and cold, but I want as many people as possible to play them, so the games needs to feel as warm and welcoming as they possibly can. My long history of juice obessesion makes me very confident when handling that part of the process, freeing up mental load to focus on the more interesting problems.
 <br><br><br>
 
+*someone who's @ I didn't copy properly and whose tweet I can't find right now asked:*
+### From what I can gather, you seem like you don't like to dwell on past projects too much (or you get consumed by ideas for new projects). Do you think that moving on to the next game would be better for you personally? Do you want to work on ML for the forseeable future?"
+
+For the last few months I've been working on Mosa Lina in addition to trying to work on two other projects and it was a pretty rough experience. What I mean to say is that I can't move on to the "next game", because I need to wrap up work on those two things before I can start anything new. 
+
+But yes, generally speaking, moving on to the next project is always the goal. Making new things is what I really care about and this is what gives me the energy for the long run I think: There will always be some more interesting stuff to work with later BUT I need to wrap up the old stuff before I can get to the new stuff.
+
+Mosa Lina is not yet wrapped up, so I can not move on from it yet. Like, sure, I could just never update it again, but the project wouldn't leave me alone. There's still some spaces to explore and some concepts to test. I want to leave the game in a very "complete" state, where it's the most clear version of itself that it could possibly be. This sounds very cheesy because it is very cheesy. This line of thinking has been my northstar during development. Mosa Lina needs to become more substantially random before I can move on from it. This will be some work, but not a extremely large amount of it. I expect to cease work on it in the next few months. 
+<br><br><br>
 
 *Geist Traft (@traft25372) asks:*
 ## How did you make the slope collisions for Mosa Lina? Because from what I’ve heard good slope collisions in platformers is like finding how to turn lead into gold.
