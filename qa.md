@@ -15,7 +15,7 @@ Because you want to!
 
 - Are you okay with hunting for truth deep within your soul, trying to grasp at the vast and incomprehensible with feeble fingers? If yes, then you'll love learning game development by spiritual experience.
 
-- Are you okay with sitting in a room full of other people who want to learwhile listening to someone who tries to explain stuff to you? If yes, then... etc etc
+- Are you okay with sitting in a room full of other people who want to learn while listening to someone who tries to explain stuff to you? If yes, then... etc etc
 
 The core thing here is not *game development* the core thing here is *learning*.  And that just works differently for all of us. I recommend to try a bunch of stuff and see what hooks you.
 
