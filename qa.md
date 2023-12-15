@@ -1,5 +1,9 @@
 [back](thinking)
 
+*@McFunkypants asks:*
+### WHY make a game?
+Because you want to!
+
 *@SaludosTM asks:*
 ### What do you think is a good way to start learning game development? Following tutorials, game jams, maybe creating mods of existing games??
 
