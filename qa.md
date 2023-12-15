@@ -5,9 +5,9 @@
 
 - Are okay with bashing your head against a strange problem that nobody asked you  to solve until either your head or the problem cracks? If yes, then you'll love learning game development by trial and error.
 
-- Are okay with looking at the work of others really closesly to carefully reconstruct how they achieved certain effects? If yes, then you'll love learning by imitation.
+- Are okay with looking at the work of others really closesly to carefully reconstruct how they achieved certain effects? If yes, then you'll love learning game development by imitation.
 
-- Are you okay with hunting for truth deep within your soul, trying to grasp at the vast and incomprehensible with feeble fingers? If yes, then you'll love learning by spiritual experience.
+- Are you okay with hunting for truth deep within your soul, trying to grasp at the vast and incomprehensible with feeble fingers? If yes, then you'll love learning game development by spiritual experience.
 
 - Are you okay with sitting in a room full of other people who want to learwhile listening to someone who tries to explain stuff to you? If yes, then... etc etc
 
