@@ -1,5 +1,14 @@
 [back](thinking)
 
+*@diogostuart asks:*
+### Who are you?
+Hello, my name is Josh. I'm better known on the internet as Stuffed Wombat. I've made a whole bunch of free browsergames and a few commercial games. The most recent of those is Mosa Lina, a weird kind of technical overinterpretation of the immersive sim genre, which was a comparatively huge success and now I am in this kind of limbo state, where the work on Mosa Lina updates is not yet complete but I am also taking a break and so, to keep myself busy without resorting to actual work, I've asked on twitter for some questions about game development, so that I could answer them to best of my knowledge in a more free-form, semi-commersatial (probably somewhat parasocial) rambly kind of way.
+
+
+*@Sapazu99 asks:*
+### If you had infinite time and budget, what kind of game would you make?
+
+Various jokes about immortality and world peace aside, I wouldn't want to make one specific game, I'd want to start a artisan/workshop/game studio, where ~10 people from completely different disciplines make various types of art together.
 
 *@ZackViper3 asks:*
 ### How do I stop fiddling with/accept the janky parts of my game systems and actually just make a damn game with them
