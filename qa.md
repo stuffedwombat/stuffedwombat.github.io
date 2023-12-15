@@ -3,6 +3,8 @@
 *@McFunkypants asks:*
 ### WHY make a game?
 Because you want to!
+<br><br><br>
+
 
 *@SaludosTM asks:*
 ### What do you think is a good way to start learning game development? Following tutorials, game jams, maybe creating mods of existing games??
@@ -26,12 +28,14 @@ After you've found a way of learning that suits you I'd recommend you to check o
 *@diogostuart asks:*
 ### Who are you?
 Hello, my name is Josh but I'm better known as Stuffed Wombat on the internet. I've made a whole bunch of free browsergames and a few commercial games. The most recent of those is Mosa Lina, a weird kind of technical overinterpretation of the immersive sim genre, which was a comparatively huge success and now I am in this kind of limbo state, where the work on Mosa Lina updates is not yet complete but I am also taking a break and so, to keep myself busy without resorting to actual work, I've asked on twitter for some questions about game development, so that I could answer them to best of my knowledge in a more free-form, semi-commersatial (probably somewhat parasocial) rambly kind of way.
-
+<br><br><br>
 
 *@Sapazu99 asks:*
 ### If you had infinite time and budget, what kind of game would you make?
 
 Various jokes about immortality and world peace aside, I wouldn't want to make one specific game, I'd want to start a artisan/workshop/game studio, where ~10 people from completely different disciplines make various types of art together.
+<br><br><br>
+
 
 *@ZackViper3 asks:*
 ### How do I stop fiddling with/accept the janky parts of my game systems and actually just make a damn game with them
