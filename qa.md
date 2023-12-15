@@ -1,8 +1,27 @@
 [back](thinking)
 
+*@SaludosTM asks:*
+### What do you think is a good way to start learning game development? Following tutorials, game jams, maybe creating mods of existing games??
+
+- Are okay with bashing your head against a strange problem that nobody asked you  to solve until either your head or the problem cracks? If yes, then you'll love learning game development by trial and error.
+
+- Are okay with looking at the work of others really closesly to carefully reconstruct how they achieved certain effects? If yes, then you'll love learning by imitation.
+
+- Are you okay with hunting for truth deep within your soul, trying to grasp at the vast and incomprehensible with feeble fingers? If yes, then you'll love learning by spiritual experience.
+
+- Are you okay with sitting in a room full of other people who want to learwhile listening to someone who tries to explain stuff to you? If yes, then... etc etc
+
+The core thing here is not *game development* the core thing here is *learning*.  And that just works differently for all of us. I recommend to try a bunch of stuff and see what hooks you.
+
+(I am actively restraining myself right now so that I don't pontificate about the ways of learning that suit me and that, curiously, also happen to be the best ones, what a weird coincidence that the things that I like are also the best ones, the ones that are just less flawed and that I always recommend to people on the internet. What a coincidence, huh?)
+
+After you've found a way of learning that suits you I'd recommend you to check out some other ways of learning, just to get a different perspective on the stuff you think you know enough about. 
+<br><br><br>
+
+
 *@diogostuart asks:*
 ### Who are you?
-Hello, my name is Josh. I'm better known on the internet as Stuffed Wombat. I've made a whole bunch of free browsergames and a few commercial games. The most recent of those is Mosa Lina, a weird kind of technical overinterpretation of the immersive sim genre, which was a comparatively huge success and now I am in this kind of limbo state, where the work on Mosa Lina updates is not yet complete but I am also taking a break and so, to keep myself busy without resorting to actual work, I've asked on twitter for some questions about game development, so that I could answer them to best of my knowledge in a more free-form, semi-commersatial (probably somewhat parasocial) rambly kind of way.
+Hello, my name is Josh but I'm better known as Stuffed Wombat on the internet. I've made a whole bunch of free browsergames and a few commercial games. The most recent of those is Mosa Lina, a weird kind of technical overinterpretation of the immersive sim genre, which was a comparatively huge success and now I am in this kind of limbo state, where the work on Mosa Lina updates is not yet complete but I am also taking a break and so, to keep myself busy without resorting to actual work, I've asked on twitter for some questions about game development, so that I could answer them to best of my knowledge in a more free-form, semi-commersatial (probably somewhat parasocial) rambly kind of way.
 
 
 *@Sapazu99 asks:*
