@@ -60,7 +60,13 @@ I take a break.
 -On a larger scale, this means taking full weekends off. Like, completely. No videogame work allowed. This is really hard for me and I usually start writing some essays or something that's game dev adjacent. Going on long hikes & setting up lots of social engagements really helps here.<br>
 -On a very large scale, this means extended periods of no work at all. I think this is usually called vacation. It takes like a whole week for me to able to genuinly relax, but the effects last for months.<br>
 
-Coming back to work after spending some time away from it is often all that is needed. Ideas and solutions are often worked on by the brain in the background so you need to genuinly stop thinking about the problems to them to get pushed into the background. It's a kind of paradoxical thing. I often imagine myself, sitting down to meditate or whatever and then getting a really red head as I scream at myself: "Relax! Relax harder! Relax harder so I can work better!" It's not easy, but if you can learn how to make games then you can also learn how to take breaks. <br>In fact, you need to.
+Coming back to work after spending some time away from it is often all that is needed. 
+Ideas and solutions are often worked on by the brain in the background, but you need to REALLY stop thinking about the problems, for to them to get pushed into the background. It's a kind of paradoxical thing. 
+
+I often imagine myself, sitting down to meditate or whatever and then getting a really red head as I scream at myself: "Relax! Relax harder! Relax harder so I can work better!" 
+
+It's not easy, but if you can learn how to make games then you can also learn how to take breaks. <br>
+In fact, you need to.
 <br><br><br>
 
 
@@ -70,17 +76,19 @@ The churn. The long middle. The endless stumbling without perceiveable progress.
 
 There's that middle section of a project, after you've set up the foundations but before you're wrapping it all up, where nothing seems to really progress. It's as if you're crawling toward a goal on the horizon but every meter you gain with bleeding nails just shows you how far you still have to go. 
 
-It's as if you don't have enough information to make decisions yet, so you just have to try more and more stuff. Projects that become bloated with features in the middle of development will get dragged down by their weight. It's crucial to keep rolling back changes that don't work and to cut large, painful chunks of stuff to keep everything moving. The relief after shedding old weight is not  going to last long in this phase. You now know one thing that you shouldn't do, but there's still infinite things that you could do next.
+It's as if you don't have enough information to make decisions yet, so you just have to try more and more stuff. Projects that become bloated with features in the middle of development will get dragged down by their weight. It's crucial to keep rolling back changes that don't work and to cut large, painful chunks of stuff to keep everything moving. The relief after shedding old weight is not going to last long in this phase. You now know one thing that you shouldn't do, but there's still infinite things that you could do.
 
-This is a place that only presevereance and vision can help you cross. External deadlines might lead to a finished project, but if the project isn't where it needs to be,  being forced to finish is going to completely drain your life forces, leaving you bitter and sad and full of regret. Being indie and, technically, not beholden to anyone means that instead of putting yourself through keeping the deadline, you just slowly abandon the project in favour of the next cool thing. 
+This is a place where only presevereance and vision can help you. External deadlines might lead to a finished project, but if the project isn't where it needs to be,  being forced to finish is going to completely drain your life forces, leaving you bitter and sad and full of regret.
 
 If you really want to drop your project in the middle then be honest about it. Put it to rest with dignity, don't just slowly deprive it of oxygen over multiple months. Look at what went wrong in the production and reflect on that. 
 
-It's really hard to know wether or not to call it quits. It's in the long middle where I keep pushing back deadlines the most often, where I experiment the most with my workflow and various types of documentin my process. You need something small, something concrete, that allows you to confirm to yourself that you are actually moving. You need to change the artstyle maybe. It's a painful decision but the knock-on effects will speed up your asset creation. Now that you actually have a reliable understanding of how long it takes to create an asset, you realise that you have planned too many assets. You need to cut them. How? The solution to that problem will inevitably impact the pacing of the game, which will then oh my god does this ever end?!
+It's really hard to know wether or not to call it quits. It's in the long middle where I keep pushing back deadlines the most often, where I experiment the most with my workflow and various types of documentin my process. You need something small, something concrete that allows you to confirm to yourself that you are actually moving. Because things are happening, it's just really hard to notice.
+
+You need to change the artstyle maybe. It's a painful decision but the knock-on effects will speed up your asset creation. Now that you actually have a reliable understanding of how long it takes to create an asset, you realise that you have planned too many assets. You need to cut them. How? The solution to that problem will inevitably impact the pacing of the game, which will then oh my god does this ever end?!
 
 The road seems impossibly long, but then, one day, you play through the rough skeleton of the game (bits of sinews and muscles and skin hanging loosely on the analogy) and you realise that you can finish this thing if you just make one last pass of scope reduction. After this final cutting & cauterising, you'll be able to actually start wrapping up.
 
-You made it through. How? Thanks to a contradictory cocktail of persevereance & adaptability. You probably kept your vision but you definitely had to change how it was expressed. Welcome to the world of creative pragmatism.
+You made it through. How? Thanks to a contradictory cocktail of persevereance & adaptability. You probably kept your larger vision but you definitely had to change how it was expressed. Welcome to the world of creative pragmatism.
 
 Next time, it will be a little bit easier. Not the work itself. It will be cruelling and hard and impossible in completely new and unexpected ways. But getting through the middle will be easier because now you know, in that kind of physical way - with your body instead of your mind, that it is possible to make it through.
 
@@ -97,9 +105,11 @@ Sure, I hate doing marketing. If fills me with anxiety as if there was some sort
 
 Sure, I hated doing levels for Mosa Lina. There was a huge resistance there, a kind of wall that I had to claw over before I could even start to test out basic ideas. It was like running through a swamp with heavy boots, but it wasn't boring.
 
-Sure, I can't bring myself to work on the content for [unnanounced project], but it's not because the work would be boring, it's because I couldn't find an angle to it that makes sense to me. The whole project was set up in a weird way, leading to a lot of friction now, but it's intensely exasperating instead of boring. 
+Sure, I can't bring myself to work on the content for unnanounced project, but it's not because the work would be boring, it's because I couldn't find an angle to it that makes sense to me. The whole project was set up in a weird way, leading to a lot of friction now, but it's intensely exasperating instead of boring. 
 
-- I guess I am not getting bored with my work because I've been trying to push myself in what I do. qomp was a highly linear puzzle game, a culmination of years of efforts to create a frictionless experience that tells a story through gameplay alone. After that, I had to do something completely different or I would've gotten bored.
+I guess I am not getting bored with my work because I've been trying to push myself in what I do.
+
+- qomp was a highly linear puzzle game, a culmination of years of efforts to create a frictionless experience that tells a story through gameplay alone. After that, I had to do something completely different or I would've gotten bored.
 
 - Producer was a visual novella with like 25k words that I wrote in a weird homebrew framework. I had now made a linear "gameplay" game and a semi-linear "reading" game so the next step was to attack the structure, the "linear" part. 
 
@@ -109,7 +119,7 @@ But there is a key factor to this:<br>
 There are few external pressures on me, so i can pursue what I find interesting instead of only following stuff that makes economic sense. Sure I was broke for most of my adult life, but I could be sure that I would never be homeless. My country has socialised healthcare. My family supports what I do. I have priveliges that allow me to pick and choose what I work on. This, much more than any technique or workflow, is what allows me to genuinly enjoy the work.
 
 Speaking of which: The most exciting moment during any game is when things comes together.<br>
-Imagine every part of the game as a kind of spiritual gamble. You have to make a lot of decisions without knowing wether they will work out. And then, even if they do, you can't be sure that they will connect with all the other parts of the game. It's multiple layers of gambles you have to make with very limited information. The joy of having some of your weird hunches and clandestine beliefs proven correct, the joy of seeing the different parts of the project merge and become one concrete thing... that excitement borders on the religious for me, it's a deep and existential joy that makes me feel as if I had found my place and purpose in this world.
+Imagine every part of the game as a kind of spiritual gamble. You have to make a lot of decisions without knowing wether they will work out. And then, even if they do, you can't be sure that they will connect with all the other parts of the game. It's multiple layers of gambles you have to make with very limited information. The joy of having some of your weird hunches and clandestine beliefs proven correct, the joy of seeing the different parts of the project merge and become one concrete thing... that excitement borders on the religious for me, it's a deep and existential joy that makes me feel as if I have found my place and purpose in this world.
 <br><br><br>
 
 
