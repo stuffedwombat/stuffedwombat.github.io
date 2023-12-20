@@ -5,15 +5,17 @@
 I can't remember any tasks of the recent developments that was boring. Stuff gets difficult and directionless and discouraging but... boring? No.
 
 Sure, I hate doing marketing. If fills me with anxiety as if there was some sort of monster of narcisism and ethics waiting for me in the presskit. I don't want to do it (and I don't) but it's not boring. 
+
 Sure, I hated doing levels for Mosa Lina. There was a huge resistance there, a kind of wall that I had to claw over before I could even start to test out basic ideas. It was like running through a swamp with heavy boots, but it wasn't boring.
+
 Sure, I can't bring myself to work on the content for [unnanounced project], but it's not because the work would be boring, it's because I couldn't find an angle to it that makes sense to me. The whole project was set up in a weird way, leading to a lot of friction now, but it's intensely exasperating instead of boring. 
 
 I guess I am not getting bored with my work because I've been trying to push myself in what I do. qomp was a highly linear puzzle game, a culmination of years of efforts to create a frictionless experience that tells a story through gameplay alone. After that, I had to do something completely different or I would've gotten bored. Producer was a visual novella with like 25k words that I wrote in a weird homebrew framework. I had now made a linear "gameplay" game and a semi-linear "reading" game so the next step was to attack the structure, the "linear" part. Now that Mosa Lina is done, I am looking at some new concepts related to communication with NPCs and couch co-op voiceacting. Basically, I keep experimenting, doing stuff that I have never done before.
 
-But there is a key factor to this:
+But there is a key factor to this:<br>
 There are few external pressures on me, so i can pursue what I find interesting instead of only following stuff that makes economic sense. Sure I was broke for most of my adult life, but I could be sure that I would never be homeless. My country has socialised healthcare. My family supports what I do. I have priveliges that allow me to pick and choose what I work on. This, much more than any technique or workflow, is what allows me to genuinly enjoy the work.
 
-Speaking of which: The most exciting moment during any game is when things comes together.
+Speaking of which: The most exciting moment during any game is when things comes together.<br>
 Imagine every part of the game as a kind of spiritual gamble. You have to make a lot of decisions without knowing wether they will work out. And then, even if they do, you can't be sure that they will connect with all the other parts of the game. It's multiple layers of gambles you have to make with very limited information. The joy of having some of your weird hunches and clandestine beliefs proven correct, the joy of seeing the different parts of the project merge and become one concrete thing... that excitement borders on the religious for me, it's a deep and existential joy that makes me feel as if I had found my place and purpose in this world.
 <br><br><br>
 
