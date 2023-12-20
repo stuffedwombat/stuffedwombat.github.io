@@ -1,5 +1,26 @@
 [back](thinking)
 
+@yaboymoises
+Can you explain your "programming language" that you created. I can't remember the last time you posted it but it had all those arrows and was very visual. I always that that was super cool :)
+
+
+<br><br><br>
+
+
+*@AxolotlSmiling, @bicorniclopse, @wackytoaster and @dash_davi asked about*
+### Audio Process & Multiplayer Chanches & Steam Workshop & Tool Modding Support for Mosa Lina
+
+I collected all these questions into one block because they referred to work done by other people! I have to wrap the Q&A up quickly and am pretty unorganised right now so I will have to answer for them to the best of my knowledge!
+
+Tom "Silkersoft" Schley made all the audio. He had a very clear vision for the audio direction. It was supposed to be alien and dark and scary in a kind of moody way.  He also used a lot of technical words I don't really understand ("Low pass filters" I think?) to describe what he wanted to to. 
+
+The Workshop, Level Editor & Modding Support for Mosa Lina is handled by Rollin'Barrel, who has free reign over that part of the game. I have no clue how he is doing what he is doing, but I am very grateful for his work. He as been added to the development team (credits will update with next update) and told me that he has some ideas about how to add modding support for tools but that nothing is certain.
+
+Complete Multiplayer is not possible to be added to the game, but I am thinking about a kind of fake-out options to allow a drop-in local multiplayer-ish experience!
+<br><br><br>
+
+
+
 *@UltraBanaman asks:*
 ### What do you do during the production of a game when you re stuck or not excited anymore with your game but want/has to finish it. How do you find momentum again?
 
@@ -13,6 +34,7 @@ On a larger scale, this means taking full weekends off. Like, completely. No vid
 On a very large scale, this means extended periods of no work at all. I think this is usually called vacation. It takes like a whole week for me to able to genuinly relax, but the effects last for months.<br>
 
 Coming back to work after spending some time away from it is often all that is needed. Ideas and solutions are often worked on by the brain in the background so you need to genuinly stop thinking about the problems to them to get pushed into the background. It's a kind of paradoxical thing. I often imagine myself, sitting down to meditate or whatever and then getting a really red head as I scream at myself: "Relax! Relax harder! Relax harder so I can work better!" It's not easy, but if you can learn how to make games then you can also learn how to take breaks. <br>In fact, you need to.
+<br><br><br>
 
 
 *@MineTimelapser ask:*
