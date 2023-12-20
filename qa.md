@@ -55,10 +55,10 @@ Not being able to fix a bug and not knowing what project to dedicate the next ye
 
 I take a break.
 
-On a small scale, this means getting a class of water and looking out of the window or reading a book or talking to a roommate.<br>
-On a  slightly larger scale, this means going on a walk through my neighbourhood, just looking at stuff and people and trees and the sky and nothing thinking about anything at all.<br>
-On a larger scale, this means taking full weekends off. Like, completely. No videogame work allowed. This is really hard for me and I usually start writing some essays or something that's game dev adjacent. Going on long hikes & setting up lots of social engagements really helps here.<br>
-On a very large scale, this means extended periods of no work at all. I think this is usually called vacation. It takes like a whole week for me to able to genuinly relax, but the effects last for months.<br>
+-On a small scale, this means getting a class of water and looking out of the window or reading a book or talking to a roommate.<br>
+-On a  slightly larger scale, this means going on a walk through my neighbourhood, just looking at stuff and people and trees and the sky and nothing thinking about anything at all.<br>
+-On a larger scale, this means taking full weekends off. Like, completely. No videogame work allowed. This is really hard for me and I usually start writing some essays or something that's game dev adjacent. Going on long hikes & setting up lots of social engagements really helps here.<br>
+-On a very large scale, this means extended periods of no work at all. I think this is usually called vacation. It takes like a whole week for me to able to genuinly relax, but the effects last for months.<br>
 
 Coming back to work after spending some time away from it is often all that is needed. Ideas and solutions are often worked on by the brain in the background so you need to genuinly stop thinking about the problems to them to get pushed into the background. It's a kind of paradoxical thing. I often imagine myself, sitting down to meditate or whatever and then getting a really red head as I scream at myself: "Relax! Relax harder! Relax harder so I can work better!" It's not easy, but if you can learn how to make games then you can also learn how to take breaks. <br>In fact, you need to.
 <br><br><br>
