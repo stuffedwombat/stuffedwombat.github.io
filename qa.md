@@ -1,9 +1,25 @@
 [back](thinking)
 
-@yaboymoises
-Can you explain your "programming language" that you created. I can't remember the last time you posted it but it had all those arrows and was very visual. I always that that was super cool :)
+*@yaboymoises asks:*
+### Can you explain your "programming language" that you created. I can't remember the last time you posted it but it had all those arrows and was very visual. I always that that was super cool :)
 
+I call this thing the "arrow engine"! It's a framework I developed inside of construct 3 to be able to build complicated narrative branching inside of a level editor. It's a kind of homebrew blueprint system. Instead of a mess of analogue nodes, it runs on 90 degree angles.
 
+Basically, there's a little object in the background of the game. It can move left, right up or down.
+When it hits a block, it stops moving and executes code.
+
+- Hitting a text-block will print some text on the screen.
+- Hitting a direction-block will change the direction of the object.
+- Hitting a animate block will trigger some animation
+- etc
+
+There are then a bunch of teleporters and node-adjacent connectivity blocks that allow me to keep (literal) branches of conversations distinct from each other in the level editor, creating these kind of islands and continents of content. Like, you can zoom out really far and see the structure of the game represented visually because the visualisation of the game and the game itself are actually the exact same thing.
+
+The unique thing about this system is that it allows for blocks to have "health points". If you hit a standard block, it will delete itself. So if you come down the same conversation branch again, you will hit the block behind the first one and see some new text. This was an unintentional side effect of the framework, but it quickly became the most basic thing I used to keep repeatedly investigating the same objects fresh and interesting. 
+
+While it's really cheap to write these specific type of interactions, other things are very hard to achieve in the framework. Narrative games generally tend to just become these insane collections of brambles and intertwined madness, but doing the "arrow engine" is missing some super basic functionality. Like, I can't do a automated spellcheck on the whole game, as each unit of text is not stored in a spreadsheet, but in a unique game object (lol).
+
+It's a mess of a framework, but it's a cute mess and it's very easy to understand. The dream is to one day make a standalone version of the arrow engine that keeps the unqiue narrative quirks and ease-of-use while also having the comforts of exporting & importing .csv files.
 <br><br><br>
 
 
