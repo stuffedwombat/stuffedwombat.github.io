@@ -3,7 +3,7 @@
 I had to take a break from updating Mosa Lina in December 2023. In order to keep my brain busy enough so that it wouldn't force me back to work, I asked you for game dev related questions on twitter! Thanks for the large response, here are your answers!
 <br>
 
-*@han_tani ask:*
+*@han_tani asks:*
 ### did you have any guiding principles or process in making the mosa Lina item and levels? anything that didn't make the cut?
 
 For the tools it was all about using them during the constant and extensive playtesting. If I felt like a tool wasn't conductive to creative solutions anymore, then it got reworked. Since I was testing the game for multiple months, a lot of the tools got reworked a lot as I got bored by them. I think around 70% of the tools that I was prototyping ended up being cut. This process was so sound in creating tools with a plethora of uses, that I am now REALLY struggeling to add comparatively interesting things into the updates.
@@ -70,7 +70,7 @@ In fact, you need to.
 <br><br><br>
 
 
-*@MineTimelapser ask:*
+*@MineTimelapser asks:*
 ### Are there any parts of game development you feel don’t get as much attention as they should?
 The churn. The long middle. The endless stumbling without perceiveable progress. 
 
