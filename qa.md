@@ -1,5 +1,16 @@
 [back](thinking)
 
+I had to take a break from updating Mosa Lina in December 2023. In order to keep my brain busy enough so that it wouldn't force me back to work, I asked you for game dev related questions on twitter! Thanks for the large response, here are your answers!
+<br>
+
+*@han_tani ask:*
+### did you have any guiding principles or process in making the mosa Lina item and levels? anything that didn't make the cut?
+
+For the tools it was all about using them during the constant and extensive playtesting. If I felt like a tool wasn't conductive to creative solutions anymore, then got reworked. Since I was testing the game for multiple months, a lot of the tools got reworked a lot as I got bored by them. I think around 70% of the tools that I was prototyping ended up being cut. This process was so sound in creating tools with a plethora of uses, that I am now REALLY struggeling to add comparatively interesting things into the updates.
+
+For the levels it was a kind of desperate lurching and crawling to get anything done at all. I used my trusted old technique of making 100 levels, deleting them and then remaking only the ones that I remember, but since this game requires a LOT of levels, that wasn't really working as well. So now I just do these sprints, where I take a bunch of tiles and obstacles and try to combine them in interesting ways and then don't really test the level a lot and just push it live. Lol.
+<br><br><br>
+
 *@yaboymoises asks:*
 ### Can you explain your "programming language" that you created. I can't remember the last time you posted it but it had all those arrows and was very visual. I always that that was super cool :)
 
