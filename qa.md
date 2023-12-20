@@ -28,7 +28,7 @@ There are then a bunch of teleporters and node-adjacent connectivity blocks that
 
 The unique thing about this system is that it allows for blocks to have "health points". If you hit a standard block, it will delete itself. So if you come down the same conversation branch again, you will hit the block behind the first one and see some new text. This was an unintentional side effect of the framework, but it quickly became the most basic thing I used to keep repeatedly investigating the same objects fresh and interesting. 
 
-While it's really cheap to write these specific type of interactions, other things are very hard to achieve in the framework. Narrative games generally tend to just become these insane collections of brambles and intertwined madness, but doing the "arrow engine" is missing some super basic functionality. Like, I can't do a automated spellcheck on the whole game, as each unit of text is not stored in a spreadsheet, but in a unique game object (lol).
+While it's really cheap to write these specific type of interactions, other things are very hard to achieve in the framework. Narrative games generally tend to just become these insane collections of brambles and intertwined madness, but  the "arrow engine" is missing some super basic functionality. Like, I can't do a automated spellcheck on the whole game, as each unit of text is not stored in a spreadsheet, but in a unique game object (lol).
 
 It's a mess of a framework, but it's a cute mess and it's very easy to understand. The dream is to one day make a standalone version of the arrow engine that keeps the unqiue narrative quirks and ease-of-use while also having the comforts of exporting & importing .csv files.
 <br><br><br>
