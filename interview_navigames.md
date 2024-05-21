@@ -3,6 +3,8 @@
 This is the english version of the Interview conducted by [Ismael P. Nieves](https://x.com/ismael_gurr) in Malaga during the Guadalindie festival in May 2024.
 The original spanish version (with pictures) can be found [here](https://www.navigames.es/entrevistas/entrevista-guadalindie-stuffed-wombat/). Thanks for letting me publish the english version here <3
 
+//(During this Festival, I also talked to the nice people of AnaitGames for [a different article in spanish](https://www.anaitgames.com/entrevistas/stuffed-wombat-pequenas-comunidades))
+
 **Do you want to present yourself for any of our readers that may not know you or your work?**
 
 Hi, my name is Josh. I am from Austria. I’m getting really old, I’ll soon be 30 years old [laughs]. I’ve been making independent games for 10 years. They are very strange games, hard to sell but there is a small audience who likes it.
