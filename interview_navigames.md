@@ -31,6 +31,7 @@ It often feels like you need to push through in order to sell it or finish it. A
 
 Intense depression [laughs]. I was really suicidal for a large part of my life. I was really unhappy for a long time and then, making the games did something for me. When I am depressed, my memory just stops working. But then, I look back and realize I made five games. I replay one of my games and I realize how I was back then, the situation I was in, the apartment I lived in. And then I look at the present and I realize that things are different. Something has changed, I see progress in the game development and my ability to avoid depression.
 
+
 But the other really important factor is just money. I know I’ll never be homeless because my parents will take me in if I run out of money. It gives so much security. I’m throwing away so much stability, but I know that I’m not in real danger. I can take huge risks and become obsessed. And then, this dream of living out of games actually pays off. I can actually do it as a full-time job and it’s very fulfilling.
 
 **A big part of the message of Mosa Lina is that there are no perfect answers. Nowadays, I think there is a perfectionism plague in the world. Specifically, in the game dev industry, there are a lot of people that never get to make any games because of it. What are your thoughts on this?**
@@ -43,7 +44,9 @@ In video games, the surprise can also make you feel stupid and make you think yo
 
 **You describe Mosa Lina as an answer to immersive simulations. Was this always your objective or just something that happened along the way?**
 
-I’m not so happy with this description now. It’s kind of academic, most people don't even know what this means. It doesn’t make much sense now. But this is where the game started. Like I said, I wanted to play Dishonored 1 perfectly, but then I realized that Dishonored 2 doesn’t care about this way of playing and it’s like a crazy sandbox. I felt betrayed, I wanted to be perfect. But then, I thought about what would happen if you take this to the extreme and make a sandbox that doesn’t react to you. And I came up with a videogame that doesn’t have answers to the puzzle it is presenting to you. That’s why I put it on the marketing material and Steam page, I don’t have a better way to explain it.
+I’m not so happy with this description now. It’s kind of academic, most people don't even know what this means. It doesn’t make much sense now. But this is where the game started. Like I said, I wanted to play Dishonored 1 perfectly, but then I realized that Dishonored 2 doesn’t care about this way of playing and it’s like a crazy sandbox. I felt betrayed, I wanted to be perfect. 
+
+But then, I thought about what would happen if you take this to the extreme and make a sandbox that doesn’t react to you. And I came up with a videogame that doesn’t have answers to the puzzle it is presenting to you. That’s why I put it on the marketing material and Steam page, I don’t have a better way to explain it.
 
 **I remember from your Q&A during your Mosa Lina break that you had to cut like 70% of the tools you made. Could you reveal some of them?**
 
@@ -65,7 +68,7 @@ It happened to me, I really admired a couple of indie developers. And then I met
 
 Also, do stuff, and release it. Because, if you release a game, you can only understand it one year later. When you, for example, read an article you wrote one year ago, you have changed so much that you can see all the mistakes you made. But that only happens because it is finished and out of your control. If you can touch it and change it, you are screwing yourself over because you will always be changing it. But if you release it and look back you can say that it’s not perfect and the reasons behind it. It doesn’t mean the next thing will be perfect because it is an endless cycle, but it is very fun.
 
-**Any final words? Do you want to shout out to anyone?
+**Any final words? Do you want to shout out to anyone?**
 
 Shout out to the MalagaJam team. All the volunteers who made Guadalindie possible by running around and doing extra work only because they want this really really cool event to exist. 
 
