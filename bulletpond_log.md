@@ -1,2 +1,2 @@
-![Image title](https://dummyimage.com/600x400/eee/aaa){ .image25percent }
-<img src="drawing.jpg" alt="drawing" width="200"/>
+![Image title](bulletpond_title.gif){ .image25percent }
+<img src="bulletpond_title.gif" alt="drawing" width="200"/>
