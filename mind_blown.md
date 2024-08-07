@@ -3,7 +3,7 @@ unknown
 [Pine Hearts](https://store.steampowered.com/app/1781010/Pine_Hearts/)<br>
 [Radiant Silvergun](https://store.steampowered.com/app/2450820/Radiant_Silvergun/)<br>
 [GUNHEAD](https://store.steampowered.com/app/704000/GUNHEAD/)<br>
-[]()<br>
+[Dujanah]()<br>
 []()<br>
 []()<br>
 []()<br>
@@ -29,8 +29,8 @@ mid
 [Selaco](https://store.steampowered.com/app/1592280/Selaco/)<br>
 [Tavern Talk](https://store.steampowered.com/app/2076140/Tavern_Talk/)<br>
 [Dread Delusion](https://store.steampowered.com/app/1574240/Dread_Delusion/)<br>
-[]()<br>
-[]()<br>
+[LISA: The Painful](https://store.steampowered.com/app/335670/LISA_The_Painful)<br>
+[Neon White]()<br>
 []()<br>
 []()<br>
 
@@ -47,9 +47,9 @@ known
 [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL/)<br>
 [13 SENTINELS AEGIS RIM](https://www.youtube.com/watch?v=_i6XKeWAf0s&list=PLD7B049F3DEC8CB6C)<br>
 [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/)<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[Disco Elysium]()<br>
+[METRO 2033]()<br>
+[Exanima](https://store.steampowered.com/app/362490/Exanima/)<br>
 []()<br>
 []()<br>
 []()<br>
