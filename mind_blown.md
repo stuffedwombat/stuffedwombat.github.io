@@ -2,6 +2,15 @@ browser
 
 [E.B.O.N.Y.](https://ebonyriddle.com/)<br>
 [Loopin Larceny](https://bluswimmer.itch.io/looping-larceny)<br>
+[to take root among the stars](https://somin.itch.io/to-take-root-among-the-stars)<br>
+[A Person stands on an empty stage](https://irene-li.itch.io/a-person-stands-on-an-empty-stage)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 []()<br>
 
 unknown
@@ -23,7 +32,6 @@ unknown
 [Games by Torcado](https://torcado.itch.io/)<br>
 [Life Runs Through](https://kavehth.itch.io/liferunsthrough)<br>
 [Sephione]()<br>
-[LEGO City Undervocer](https://store.steampowered.com/app/578330/LEGO_City_Undercover/)<br>
 [Picayune Dreams](https://store.steampowered.com/app/2088840/Picayune_Dreams/)<br>
 [Extreme Evolution Drive to Divinity](https://store.steampowered.com/app/2111360/Extreme_Evolution_Drive_to_Divinity/)<br>
 [MULLET MADJACK](https://store.steampowered.com/app/2111190/MULLET_MADJACK/)<br>
@@ -35,6 +43,34 @@ unknown
 [Arranger](https://store.steampowered.com/app/2596420/Arranger_A_RolePuzzling_Adventure/)<br>
 [Master Key](https://store.steampowered.com/app/1763030/Master_Key/)<br>
 [Berry Brother](https://elastiskalinjen.itch.io/berry-brother)<br>
+[Stasis](https://store.steampowered.com/app/380150/STASIS/)<br>
+[Slide in the woods](https://jonnys-games.itch.io/slide-in-the-woods)<br>
+[Walled Worlds](https://lyrabird.itch.io/walled-worlds)<br>
+[Voices of the Void](https://mrdrnose.itch.io/votv)<br>
+[IguaRPG](https://store.steampowered.com/app/2365560/IguaRPG/)<br>
+A game by [droqen](https://www.droqen.com/), which he deleted for artistic reasons, but which would have blown your mind
+[CARTER’S QUEST](https://store.steampowered.com/app/2409110/REAL_WEB_LEGENDS_Carters_Quest/)<br>
+[Still Wakes the Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/)<br>
+[Analogue: A Hate Story](https://store.steampowered.com/app/209370/Analogue_A_Hate_Story/)<br>
+[Xenosphere](https://nifflas.itch.io/xenosphere)<br>
+[NO-SKIN](https://noeye-soft.itch.io/no-skin)<br>
+[Babbdi](https://store.steampowered.com/app/2240530/BABBDI/)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 
 mid
 [Arctic Eggs]()<br>
@@ -92,6 +128,18 @@ mid
 [Ikenfell](https://store.steampowered.com/app/854940/Ikenfell/)<br>
 [Hotel Dusk: Room 215](https://www.youtube.com/watch?v=Yy4g0UtXtR0&list=PLD7B049F3DEC8CB6C)<br>
 [Phoenotopia Awakening](https://store.steampowered.com/app/1436590/Phoenotopia_Awakening/)<br>
+[Northern Journey](https://store.steampowered.com/app/1639790/Northern_Journey/)<br>
+[LEGO City Undervocer](https://store.steampowered.com/app/578330/LEGO_City_Undercover/)<br>
+[Crawl](https://store.steampowered.com/app/293780/Crawl/)<br>
+[The Life and Suffering of Sir Brante](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/)<br>
+[World of Goo 2](https://worldofgoo2.com/)<br>
+[A Dance of Fire and Ice](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/)<br>
+[In Stars and Time](https://store.steampowered.com/app/1677310/In_Stars_And_Time/)<br>
+[The Case of the Golden Idol](https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/)<br>
+[[ECHOSTASIS]](https://store.steampowered.com/app/1558000/ECHOSTASIS/)<br>
+[Dungeons Of Hinterberg](https://store.steampowered.com/app/1983260/Dungeons_of_Hinterberg/)<br>
+[Parasight: Chlorophyll Worms](https://store.steampowered.com/app/1676970/Parasight_Chlorophyll_worms/)<br>
+[Persona 2](https://www.youtube.com/watch?v=KtJF3dLjVgk&list=PLD7B049F3DEC8CB6C&index=11)<br>
 []()<br>
 []()<br>
 []()<br>
@@ -101,8 +149,6 @@ mid
 []()<br>
 []()<br>
 []()<br>
-[]()<br>
-
 
 known
 [Rain World]()<br>
@@ -145,8 +191,8 @@ known
 [Balatro]()<br>
 [Yakuza](https://store.steampowered.com/bundle/43320/YAKUZA_Complete_Series/)<br>
 [Alan Wake 2](https://store.epicgames.com/en-US/p/alan-wake-2)<br>
-[]()<br>
-[]()<br>
+[Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/)<br>
+[Neon White](https://store.steampowered.com/app/1533420/Neon_White/)<br>
 []()<br>
 []()<br>
 []()<br>
