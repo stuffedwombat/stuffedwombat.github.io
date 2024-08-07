@@ -2,15 +2,22 @@ unknown
 
 [Pine Hearts](https://store.steampowered.com/app/1781010/Pine_Hearts/)<br>
 [Radiant Silvergun](https://store.steampowered.com/app/2450820/Radiant_Silvergun/)<br>
-[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)<br>
+[GUNHEAD](https://store.steampowered.com/app/704000/GUNHEAD/)<br>
 []()<br>
 []()<br>
 []()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+
 
 mid
 [Arctic Eggs]()<br>
 [Lunacid]()<br>
 [Alisa]()<br>
+[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)<br>
 [Milk outside a bag of milk outside a bag of milk](https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/)<br>
 [HAAK](https://store.steampowered.com/app/1352930/HAAK/)<br>
 [ENDER LILIES: Quietus of the Knights](https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/)<br>
@@ -18,6 +25,15 @@ mid
 [No Straight Roads](https://store.steampowered.com/app/1726190/No_Straight_Roads_Encore_Edition/)<br>
 [Thank Goodness You're Here!](https://store.steampowered.com/app/2366980/Thank_Goodness_Youre_Here/)<br>
 [Penny’s Big Breakaway](https://store.steampowered.com/app/1955230/Pennys_Big_Breakaway/)<br>
+[Smash Hit](https://play.google.com/store/apps/details?id=com.mediocre.smashhit&hl=en)<br>
+[Selaco](https://store.steampowered.com/app/1592280/Selaco/)<br>
+[Tavern Talk](https://store.steampowered.com/app/2076140/Tavern_Talk/)<br>
+[Dread Delusion](https://store.steampowered.com/app/1574240/Dread_Delusion/)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+
 
 known
 [Rain World]()<br>
@@ -30,5 +46,14 @@ known
 [Another Crab's Treasure](https://store.steampowered.com/app/1887840/Another_Crabs_Treasure)<br>
 [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL/)<br>
 [13 SENTINELS AEGIS RIM](https://www.youtube.com/watch?v=_i6XKeWAf0s&list=PLD7B049F3DEC8CB6C)<br>
+[Inscryption](https://store.steampowered.com/app/1092790/Inscryption/)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
