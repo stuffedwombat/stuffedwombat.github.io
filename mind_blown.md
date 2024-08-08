@@ -1,6 +1,6 @@
 [back](thinking)
 
-I've been struggling to play new games, so I asked on twitter for games that recently "blew your mind".  Way more people (~300 people) than are reasonable responded and I thought it would be cool to compile all the mentioned games, so here he go!<br><br>
+I've been struggling to play new games, so I [asked on twitter](https://x.com/wombatstuff/status/1820793547118739853) for games that recently "blew your mind". Many people responded, but looking through the thread is shitty, so here we go!<br><br>
 
 # the games that blew your mind
 
