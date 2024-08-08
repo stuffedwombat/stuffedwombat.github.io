@@ -9,7 +9,7 @@ Let's start with the (very few) browser games that got suggested:
 [Loopin Larceny](https://bluswimmer.itch.io/looping-larceny)<br>
 [to take root among the stars](https://somin.itch.io/to-take-root-among-the-stars)<br>
 [A Person stands on an empty stage](https://irene-li.itch.io/a-person-stands-on-an-empty-stage)<br>
-Sneaking a personal favourite of mine in here: [TEMPRES](https://tak.itch.io/tempres)
+[TEMPRES](https://tak.itch.io/tempres)
 
 <br><br>
 Next up: The less well-known games!
