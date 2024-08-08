@@ -1,6 +1,6 @@
 [back](index)
 
-Check out [the games that blew your mind](mind_blown)!
+Check out [the games that blew your mind](blown_away)!
 
 **good thinks:**
 - [Q&A after Mosa Lina release](qa)
