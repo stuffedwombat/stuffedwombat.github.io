@@ -39,7 +39,7 @@ Support small & weird Indies (and some now-obscure older games)!
 [Blackout Hospital](https://arcadekitten.itch.io/blackout-hospital)<br>
 [Games by Torcado](https://torcado.itch.io/)<br>
 [Life Runs Through](https://kavehth.itch.io/liferunsthrough)<br>
-[Sephione](https://store.steampowered.com/app/1248840/Sephonie/)<br>
+[Sephonie](https://store.steampowered.com/app/1248840/Sephonie/)<br>
 [Picayune Dreams](https://store.steampowered.com/app/2088840/Picayune_Dreams/)<br>
 [Extreme Evolution Drive to Divinity](https://store.steampowered.com/app/2111360/Extreme_Evolution_Drive_to_Divinity/)<br>
 [Retro Game Challenge](https://www.youtube.com/watch?v=Yy4g0UtXtR0&list=PLD7B049F3DEC8CB6C)<br>
