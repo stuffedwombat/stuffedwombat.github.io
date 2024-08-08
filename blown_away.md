@@ -1,4 +1,4 @@
-![grafik](https://github.com/user-attachments/assets/800416f5-3fb5-45eb-b0e5-04c36588bb80)[back](thinking)
+[back](thinking)
 
 I've been struggling to play new games, so I [asked on twitter for recommendations](https://x.com/wombatstuff/status/1820793547118739853). Many people responded, but looking through threads is shitty, so here we go!<br><br>
 
@@ -42,7 +42,6 @@ Support small & weird Indies (and some now-obscure older games)!
 [Sephione](https://store.steampowered.com/app/1248840/Sephonie/)<br>
 [Picayune Dreams](https://store.steampowered.com/app/2088840/Picayune_Dreams/)<br>
 [Extreme Evolution Drive to Divinity](https://store.steampowered.com/app/2111360/Extreme_Evolution_Drive_to_Divinity/)<br>
-[MULLET MADJACK](https://store.steampowered.com/app/2111190/MULLET_MADJACK/)<br>
 [Retro Game Challenge](https://www.youtube.com/watch?v=Yy4g0UtXtR0&list=PLD7B049F3DEC8CB6C)<br>
 [B3313](https://www.reddit.com/r/SuperMario64/comments/1awul3o/how_do_i_play_b3313/)<br>
 [500 Caliber Contractz](https://bryce-bucher.itch.io/500-caliber-contractz-demo)<br>
@@ -90,6 +89,7 @@ Next up are the games that I feel already got some decent exposure / the games I
 [Phoenotopia](https://store.steampowered.com/app/1436590/Phoenotopia_Awakening/)<br>
 [No Straight Roads](https://store.steampowered.com/app/1726190/No_Straight_Roads_Encore_Edition/)<br>
 [Thank Goodness You're Here!](https://store.steampowered.com/app/2366980/Thank_Goodness_Youre_Here/)<br>
+[MULLET MADJACK](https://store.steampowered.com/app/2111190/MULLET_MADJACK/)<br>
 [Penny’s Big Breakaway](https://store.steampowered.com/app/1955230/Pennys_Big_Breakaway/)<br>
 [Smash Hit](https://play.google.com/store/apps/details?id=com.mediocre.smashhit&hl=en)<br>
 [Selaco](https://store.steampowered.com/app/1592280/Selaco/)<br>
