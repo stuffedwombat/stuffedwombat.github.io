@@ -207,7 +207,7 @@ It was really funny to see the games grow more and more mainstream as the tweet 
 *Hey. You. Pssh. Why don't you scroll back up and give some of those weird games you never heard of a shot?*
 
 
-[back](thinks)
+[back](thinking)
 
 
 
