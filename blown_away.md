@@ -3,6 +3,7 @@
 I've been struggling to play new games, so I [asked on twitter for recommendations](https://x.com/wombatstuff/status/1820793547118739853). Many people responded, but looking through threads is shitty, so here we go!<br><br>
 
 *I recommend to open the links in a new tab*<br>
+*(some games are impossible to play nowadays, so instead I put some music into the link)*<br>
 
 # the games that blew you away
 
