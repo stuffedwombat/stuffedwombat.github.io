@@ -1,4 +1,4 @@
-[back](thinking)
+![grafik](https://github.com/user-attachments/assets/800416f5-3fb5-45eb-b0e5-04c36588bb80)[back](thinking)
 
 I've been struggling to play new games, so I [asked on twitter for recommendations](https://x.com/wombatstuff/status/1820793547118739853). Many people responded, but looking through threads is shitty, so here we go!<br><br>
 
@@ -14,7 +14,8 @@ You can play them right now! In your browser! Wow!
 [Loopin Larceny](https://bluswimmer.itch.io/looping-larceny)<br>
 [to take root among the stars](https://somin.itch.io/to-take-root-among-the-stars)<br>
 [A Person stands on an empty stage](https://irene-li.itch.io/a-person-stands-on-an-empty-stage)<br>
-[TEMPRES](https://tak.itch.io/tempres)
+[TEMPRES](https://tak.itch.io/tempres)<br>
+[The Roottrees are Dead](https://jjohnstongames.itch.io/the-roottrees-are-dead)
 
 <br><br>
 Next up: The less well-known games!
