@@ -4,7 +4,8 @@ I've been struggeling to push myself to play new games, so I asked on twitter fo
 
 # the games that blew your mind
 
-Let's start with the (very few) browser games that got suggested:
+Let's start with the (very few) browser games that got suggested!
+You can play them right now! In your browser! Wow!
 <br>
 
 [E.B.O.N.Y.](https://ebonyriddle.com/)<br>
