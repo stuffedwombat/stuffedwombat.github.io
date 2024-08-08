@@ -158,7 +158,6 @@ It was really funny to see the games grow more and more mainstream as the tweet 
 <br><br>
 
 [LISA: The Painful](https://store.steampowered.com/app/335670/LISA_The_Painful)<br>
-[Neon White](https://store.steampowered.com/app/1533420/Neon_White/)<br>
 [Slay the Princess](https://store.steampowered.com/app/1989270/Slay_the_Princess/)<br>
 [Rain World](https://store.steampowered.com/app/312520/Rain_World/)<br>
 [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/)<br>
