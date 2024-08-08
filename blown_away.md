@@ -2,7 +2,7 @@
 
 I've been struggling to play new games, so I [asked on twitter](https://x.com/wombatstuff/status/1820793547118739853) for games that recently "blew your mind". Many people responded, but looking through the thread is shitty, so here we go!<br><br>
 
-# the games that blew your mind
+# the games that blew you away
 
 Let's start with the (very few) browser games that got suggested!<br>
 You can play them right now! In your browser! Wow!
