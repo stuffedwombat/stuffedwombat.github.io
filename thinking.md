@@ -1,10 +1,10 @@
 [back](index)
 
-I'm currently answering [a bunch of questions](qa) from twitter!
-
-less coherent thoughts live on the [blogroll](blogroll)
+Check out [the games that blew your mind](mind_blown)!
 
 **good thinks:**
+- [Q&A after Mosa Lina release](qa)
+- [blogroll](blogroll)
 - [about Dishonored 1 & 2](about_dishonored)
 - [about Rainworld](about_rainworld)
 - [design terms](design_terms)
@@ -30,6 +30,8 @@ less coherent thoughts live on the [blogroll](blogroll)
 - [01 - the week of sine](producering_01)
 
 **all thinks:**
+- [Q&A after Mosa Lina release](qa)
+- [blogroll](blogroll)
 - [about Throat Notes](about_throat_notes)
 - [about Dishonored 1 & 2](about_dishonored)
 - [quick notes on knife juggling](knife_juggling_190222)
