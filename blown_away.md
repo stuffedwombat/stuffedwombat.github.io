@@ -55,7 +55,7 @@ Support small & weird Indies (and some now-obscure older games)!
 [Walled Worlds](https://lyrabird.itch.io/walled-worlds)<br>
 [Voices of the Void](https://mrdrnose.itch.io/votv)<br>
 [IguaRPG](https://store.steampowered.com/app/2365560/IguaRPG/)<br>
-A game by [droqen](https://www.droqen.com/), which he deleted for artistic reasons, but which would have blown your mind, I'm sure<br>
+A game by [droqen](https://www.droqen.com/) which he deleted for artistic reasons<br>
 [CARTER’S QUEST](https://store.steampowered.com/app/2409110/REAL_WEB_LEGENDS_Carters_Quest/)<br>
 [Still Wakes the Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/)<br>
 [Analogue: A Hate Story](https://store.steampowered.com/app/209370/Analogue_A_Hate_Story/)<br>
