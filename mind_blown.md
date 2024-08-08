@@ -1,6 +1,6 @@
 [back](thinking)
 
-I've been struggeling to push myself to play new games, so I asked on twitter for games that recently "blew your mind". Some 300 people responded and I thought it would be cool to compile all the mentioned games, so here he go!<br><br>
+I've been struggling to play new games, so I asked on twitter for games that recently "blew your mind".  Way more people (~300 people) than are reasonable responded and I thought it would be cool to compile all the mentioned games, so here he go!<br><br>
 
 # the games that blew your mind
 
@@ -16,7 +16,7 @@ You can play them right now! In your browser! Wow!
 
 <br><br>
 Next up: The less well-known games!
-Support small & weird Indies!
+Support small & weird Indies (and some now-obscure older games)!
 <br><br>
 
 [Pine Hearts](https://store.steampowered.com/app/1781010/Pine_Hearts/)<br>
@@ -55,7 +55,7 @@ Support small & weird Indies!
 [Walled Worlds](https://lyrabird.itch.io/walled-worlds)<br>
 [Voices of the Void](https://mrdrnose.itch.io/votv)<br>
 [IguaRPG](https://store.steampowered.com/app/2365560/IguaRPG/)<br>
-A game by [droqen](https://www.droqen.com/), which he deleted for artistic reasons, but which would have blown your mind, I'm sure
+A game by [droqen](https://www.droqen.com/), which he deleted for artistic reasons, but which would have blown your mind, I'm sure<br>
 [CARTER’S QUEST](https://store.steampowered.com/app/2409110/REAL_WEB_LEGENDS_Carters_Quest/)<br>
 [Still Wakes the Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/)<br>
 [Analogue: A Hate Story](https://store.steampowered.com/app/209370/Analogue_A_Hate_Story/)<br>
