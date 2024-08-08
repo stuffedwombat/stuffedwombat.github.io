@@ -1,6 +1,8 @@
-# the games that blew your mind
+[back](thinking)
 
-I've been struggeling to find any games that I enjoy, so I asked on twitter for games that recently "blew your mind". Some 300 people responded and I thought it would be cool to compile all the mentioned games, so here he go!<br><br>
+I've been struggeling to push myself to play new games, so I asked on twitter for games that recently "blew your mind". Some 300 people responded and I thought it would be cool to compile all the mentioned games, so here he go!<br><br>
+
+# the games that blew your mind
 
 Let's start with the (very few) browser games that got suggested:
 <br>
