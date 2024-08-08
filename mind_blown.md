@@ -55,17 +55,15 @@ A game by [droqen](https://www.droqen.com/), which he deleted for artistic reaso
 [Xenosphere](https://nifflas.itch.io/xenosphere)<br>
 [NO-SKIN](https://noeye-soft.itch.io/no-skin)<br>
 [Babbdi](https://store.steampowered.com/app/2240530/BABBDI/)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[CHAIRS](https://store.steampowered.com/app/2685380/CHAIRS/)<br>
+[Void Stranger](https://store.steampowered.com/app/2121980/Void_Stranger/)<br>
+[ElecHead](https://store.steampowered.com/app/1456880/ElecHead/)<br>
+[Outcore: Desktop Adventure](https://store.steampowered.com/app/1275670/Outcore_Desktop_Adventure/)<br>
+[Pumpkin Panic](https://bilalaika.itch.io/pumpkin-panic)<br>
+[Phoenotopia Awakening](https://store.steampowered.com/app/1436590/Phoenotopia_Awakening/)<br>
+[VIVIDLOPE](https://store.steampowered.com/app/2078510/VIVIDLOPE/)<br>
+[Urban Jungle](https://store.steampowered.com/app/2744010/Urban_Jungle/)<br>
+[Death of a wish](https://store.steampowered.com/app/2302080/Death_of_a_Wish/)<br>
 []()<br>
 []()<br>
 []()<br>
@@ -140,14 +138,15 @@ mid
 [Dungeons Of Hinterberg](https://store.steampowered.com/app/1983260/Dungeons_of_Hinterberg/)<br>
 [Parasight: Chlorophyll Worms](https://store.steampowered.com/app/1676970/Parasight_Chlorophyll_worms/)<br>
 [Persona 2](https://www.youtube.com/watch?v=KtJF3dLjVgk&list=PLD7B049F3DEC8CB6C&index=11)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[Sanabi](https://store.steampowered.com/app/1562700/SANABI/)<br>
+[Chants of Sennaar](https://store.steampowered.com/app/1931770/Chants_of_Sennaar/)<br>
+[Who's Lila](https://store.steampowered.com/app/1697700/Whos_Lila/)<br>
+[COCOON](https://store.steampowered.com/app/1497440/COCOON/)<br>
+[Zet Zillions](https://store.steampowered.com/app/2229560/Zet_Zillions/)<br>
+[God Hand](https://www.youtube.com/watch?v=Yy4g0UtXtR0&list=PLD7B049F3DEC8CB6C)<br>
+[Path of Achra](https://store.steampowered.com/app/2128270/Path_of_Achra/)<br>
+[Hylics](https://store.steampowered.com/app/397740/Hylics/)<br>
+[Barony](https://store.steampowered.com/app/371970/Barony/)<br>
 []()<br>
 
 known
@@ -193,16 +192,17 @@ known
 [Alan Wake 2](https://store.epicgames.com/en-US/p/alan-wake-2)<br>
 [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/)<br>
 [Neon White](https://store.steampowered.com/app/1533420/Neon_White/)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[TUNIC](https://store.steampowered.com/app/553420/TUNIC/)<br>
+[Resident Evil]()<br>
+[Dredge]()<br>
+[Chrono Trigger](https://store.steampowered.com/app/613830/CHRONO_TRIGGER/)<br>
+[Jusant]()<br>
+[Beyond All Reason](https://www.beyondallreason.info/)<br>
+[Gris](https://store.steampowered.com/app/683320/GRIS/)<br>
+[Rogue Legacy 2](https://store.steampowered.com/app/1253920/Rogue_Legacy_2/)<br>
+[Stray](https://store.steampowered.com/app/1332010/Stray/)<br>
+[Zelda](https://www.youtube.com/watch?v=tRA7gxgqirg)<br>
+[Fire watch](https://www.youtube.com/watch?v=VGlYxtkZUXI)<br>
 []()<br>
 
 
