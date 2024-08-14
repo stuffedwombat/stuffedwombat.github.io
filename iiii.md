@@ -1,6 +1,6 @@
 <h1>intro into indie industry</h1>
 
-Rich people bet on a sure thing, lost and made it everyone elses problem.
+Rich people gambled, lost and made it everyone elses problem.
 
 Now, with large chunks ripped out of the games industry, Publishers are starting to focus their attention on smaller developers.
 
