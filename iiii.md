@@ -1,4 +1,4 @@
-##intro into indie industry
+<h1>intro into indie industry</h1>
 
 Rich people gambled, lost and made it everyone elses problem.
 
