@@ -34,19 +34,22 @@ Focus on your own interests. Follow your little weirdo nature without thinking a
 
 The more you try to force your creativity into a specific direction (that you presume to be profitable) the less the creativity will flow. Even if you end up making a game that sells, money (and making even more of it) will be all that’s on your mind from here on out. I’ve never seen someone who sold out creatively actually enjoy their work afterwards.
 
-A common pattern I've obeserved is that people will struggle to appeal to a very large audience for a while. It's only when they pivot to a smaller project they care about more deeply that their stored up creativity unleashes in a very fast development process, leading to, at least in the cases I've personally observed, games that sell multitudes better than anything they ever did before.
+A common pattern I've obeserved is that people will struggle to appeal to a very large audience for a while, only to then, when they pivot to a smaller project they care about more deeply, have their their stored up creativity unleash in a very fast development process, leading to, at least in the cases I've personally observed, games that sell by multitudes better than anything they ever did before.
 
-Being an indie developer is about enjoying the work. If you don’t enjoy the work, this job sucks. Not only that, you'll also be more doubtful of every decision you make. If you're already compromising your vision, why not compromise it a bit more? If you're already making a stupid little Vampire Survivors clone, why not also add a little Balatro into it? This kind of spiteful, cynical style of work is such a heavy burden on the soul that few people can to motivate themselves to do it for long enough to finish their projects.
+Being an indie developer is about enjoying the work. If you don’t enjoy the work, this job sucks. 
 
-Instead, again, follow your interests. Your genuine appreciation for this niche game that you love will carry you further than any calculated buisness move. Abandon the idea of appealing to a market. Run into naked and honest into the arms of whatever brings you joy.
+If you deny yourself your genuine interests, you'll also be more doubtful of every decision that you make.
+If you're already compromising your vision, why not compromise it a bit more? If you're already making a stupid little Vampire Survivors clone, why not also add a little Balatro into it? This kind of spiteful, cynical style of work is such a heavy burden on the soul that only very few people can to motivate themselves to do it for long enough to actually finish their projects.
 
-If you’re struggling financially while trying to find the time to work on your indie game right now, all of this will make you sad and furious with me. How can have the time to find out what you enjoy, how can you find your voice, when you have to worry about money everyday? The advice I give is only useful for people who already don’t have to worry about money.
+Instead, again, follow your interests. Your genuine appreciation for this niche game that you love will carry you further than any calculated business move. Abandon the idea of appealing to the market. Run into away from it to fall, naked and honest, into the arms of whatever really brings you joy.
+
+If you’re struggling financially right now, all of this will make you sad and furious with me. How can you have the time to find out what you enjoy, how can you find your voice when you have to think about rent everyday? This advice is only useful for people who don’t have to worry about money.
 
 You’re right.
 
-The shitty truth is that the careers of most indies have not been funded by publishers, but by parents, partners and welfare states.  Most of your favourite indie games are built on this kind of privilege, on the ability to trade social status for following a dream for years without making substantial money. In case of financial failure, most of us could just move back in with our families (if we’re not already living with them right now). 
+The shitty truth is that the careers of most indies have not been funded by publishers, but by parents, partners and welfare states.  Most of your favourite indie games are built on this kind of privilege, allowing us to following a dream for years without the risk of becoming homeless. In case of financial failure, most of us could just move back in with our families (if we’re not already living with them right now). 
 
-I can’t seriously ask anyone to reject a publishing deal that would lift them out of immediate poverty, just because of artistic principles. I am not doing that. My point is that, without having spent significant time on following your own interest and building up your personally style, you’re very unlikely to ever even get a deal. Pursing one at the expense of becoming a more confident developer is a waste of time.
+I can’t seriously ask anyone to reject a publishing deal that would lift them out of immediate poverty, just because of artistic principles. I am not doing that. My point is that, without having spent significant time and energies on following your own interest and building up your personal style, you’re very unlikely to ever even get a deal. Pursing one at the expense of becoming a more confident developer is a waste of time.
 
 
 I’ve seen many people twist themselves into knots over the years, trying to appeal to various publishers, funds and investors. I’ve watched them abandon all the things they initially enjoyed about game development, chasing some large cheque that would make it all worth it. I’ve never seen it work out. 
@@ -55,7 +58,7 @@ Even if you’re successful, you can easily shoehorn yourself into a position wh
 
 Publishers love sequels. They love clear target audiences. The love safe bets. 
 
-Eventually (but inevitably) they’ll oversaturate their market segment with too many sure things. The paradigms that they relied on will no longer work. Studios will collapse again. People will get laid off again. The capitalists do not learn. They don't have to, as long as they're able to get out of the messes they create without being punished.
+Eventually (but inevitably) they’ll oversaturate their market segment with too many sure things. The paradigms that they relied on will no longer work. Studios will collapse again. People will get laid off again. But the capitalists do not learn. They don't have to, as long as they're able to get out of the messes they create without being punished.
 
 
 - Maintain your autonomy. Stay Indie. Stay weird.
