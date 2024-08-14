@@ -9,7 +9,7 @@ As a tiny indie, your strongest asset is the personal voice you’ve cultivated 
 
 
 
-As outlets and algorithms are focusing only on the stuff that's already popular, it’s been this word-of-mouth excitement that made low-to-no-budget games like Townscaper,  SNKRX, Pseudoregalia and Yomi Hustle so profitabie. These games were made by people with very specific interests and in defiance of current market logic. Thanks to their uniqueness (and low price point), they spread not by traditional marketing channels, but by word of mouth. 
+As outlets and algorithms are focusing only on the stuff that's already popular, it’s been this word-of-mouth excitement that made low-to-no-budget games like Townscaper,  SNKRX, Pseudoregalia and Yomi Hustle so profitable. These games were made by people with very specific interests and in defiance of current market logic. Thanks to their uniqueness (and low price point), they spread not by traditional marketing channels, but by word of mouth. 
 
 This organic, genuine excitement is what publishers are hoping to buy into as they start to invest into tiny developers. Publishers can not pay someone to be truly excited about a game, but they can try to get a piece from a game that seem like it will inspire those kinds of feelings.
 
@@ -17,7 +17,7 @@ I haven’t been a fan of publishers for a while, but now that they’re activel
 
 - If a publishers wants you, you do not need them.
 
-Publishers are buying you as a cheap lottery ticket, hoping that whatever you’ve been obsessed with connects with a large audience. They want what you have, not the other way around. To give up 30-50% of your games revenue in exchange for promises of “marketing” is ridiculous in the current, community-recommendation driven indie market. 
+Publishers are buying you as a cheap lottery ticket, hoping that whatever you’ve been obsessed with connects with a larger audience and spreads organically. They want what you have, not the other way around. To give up 30-50% of your games revenue in exchange for promises of “marketing” is ridiculous in the current, community-recommendation driven indie market. 
 
 - If you need a publisher, they don’t want you
 
@@ -34,17 +34,17 @@ Focus on your own interests. Follow your little weirdo nature without thinking a
 
 The more you try to force your creativity into a specific direction (that you presume to be profitable) the less the creativity will flow. Even if you end up making a game that sells, money (and making even more of it) will be all that’s on your mind from here on out. I’ve never seen someone who sold out creatively actually enjoy their work afterwards.
 
-A common pattern I've obeserved is that people will struggle to appeal to a very large audience for a while. It's only when they pivot to a smaller project they care about deeply, that their stored up creativity unleashes in a very fast development process leading to, at least in the cases I've personally observed, games that sell better than anything they ever did before.
+A common pattern I've obeserved is that people will struggle to appeal to a very large audience for a while. It's only when they pivot to a smaller project they care about more deeply that their stored up creativity unleashes in a very fast development process, leading to, at least in the cases I've personally observed, games that sell multitudes better than anything they ever did before.
 
-Being an indie developer is about enjoying the work. If you don’t enjoy what you do, the uncertainty, the stress, even the profit is not worth it. The goal is always just to make enough money to take a break, reflect and then make the next game.
+Being an indie developer is about enjoying the work. If you don’t enjoy the work, this job sucks. Not only that, you'll also be more doubtful of every decision you make. If you're already compromising your vision, why not compromise it a bit more? If you're already making a stupid little Vampire Survivors clone, why not also add a little Balatro into it? This kind of spiteful, cynical style of work is such a heavy burden on the soul that few people can to motivate themselves to do it for long enough to finish their projects.
 
-If you’re struggling financially while trying to find the time to work on your indie game right now, all of this will make you sad and furious with me. How can have the time to find out what you enjoy, how can you find your voice, when you have to worry about money everyday? The advice I give is only useful for people who don’t have to worry about money.
+Instead, again, follow your interests. Your genuine appreciation for this niche game that you love will carry you further than any calculated buisness move. Abandon the idea of appealing to a market. Run into naked and honest into the arms of whatever brings you joy.
+
+If you’re struggling financially while trying to find the time to work on your indie game right now, all of this will make you sad and furious with me. How can have the time to find out what you enjoy, how can you find your voice, when you have to worry about money everyday? The advice I give is only useful for people who already don’t have to worry about money.
 
 You’re right.
 
-The shitty truth is that the careers of most indies have not been funded by publishers, but by parents, partners and welfare states. Did you ever wonder why so many indies come from northern europe, with it’s social security and health insurance?
-
-Most of your favourite indie games are built on this kind of privilege, on the ability to trade social status for following a dream for years without making substantial money. In case of financial failure, most of us could just move back in with our families (if we’re not already living with them right now). 
+The shitty truth is that the careers of most indies have not been funded by publishers, but by parents, partners and welfare states.  Most of your favourite indie games are built on this kind of privilege, on the ability to trade social status for following a dream for years without making substantial money. In case of financial failure, most of us could just move back in with our families (if we’re not already living with them right now). 
 
 I can’t seriously ask anyone to reject a publishing deal that would lift them out of immediate poverty, just because of artistic principles. I am not doing that. My point is that, without having spent significant time on following your own interest and building up your personally style, you’re very unlikely to ever even get a deal. Pursing one at the expense of becoming a more confident developer is a waste of time.
 
@@ -55,12 +55,12 @@ Even if you’re successful, you can easily shoehorn yourself into a position wh
 
 Publishers love sequels. They love clear target audiences. The love safe bets. 
 
-Eventually (but inevitably) they’ll oversaturate their market segment with too many sure things. The paradigms that they relied on will no longer work. Studios will collapse again. People will get laid off again. And then, suddenly, the outsiders, the weirdos and the freaks, the unsigneables with their strange ideas and their low budgets will become attractive once more.
+Eventually (but inevitably) they’ll oversaturate their market segment with too many sure things. The paradigms that they relied on will no longer work. Studios will collapse again. People will get laid off again. The capitalists do not learn. They don't have to, as long as they're able to get out of the messes they create without being punished.
 
 
 - Maintain your autonomy. Stay Indie. Stay weird.
 
-They’ll come to you, as soon as you no longer need them.
+They’ll come asking for you, as soon as you no longer need them.
 
 <br>
 [back](thinking)
