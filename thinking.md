@@ -1,6 +1,6 @@
 [back](index)
 
-Check out [the games that blew your mind](blown_away)!
+currently trying to [blog again](blogagain)  every friday!
 
 **good thinks:**
 - [Q&A after Mosa Lina release](qa)
@@ -30,6 +30,8 @@ Check out [the games that blew your mind](blown_away)!
 - [01 - the week of sine](producering_01)
 
 **all thinks:**
+- [blog again](blogagain) 
+- [the games that blew your mind](blown_away)!
 - [Q&A after Mosa Lina release](qa)
 - [blogroll](blogroll)
 - [about Throat Notes](about_throat_notes)
