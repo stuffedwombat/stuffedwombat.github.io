@@ -8,4 +8,4 @@ Hi, my name is Josh!<br>
 
 
 <br><br>
-*<a href="[https://twitter.com/wombatstuff](https://bsky.app/profile/wombatstuff.bsky.social)" target="_blank">bluesky</a> / josh [@] plix.at*
+*[bluesky](https://bsky.app/profile/wombatstuff.bsky.social) / josh [@] plix.at*
