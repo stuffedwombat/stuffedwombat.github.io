@@ -30,6 +30,7 @@ currently trying to [blog again](blogagain)  every friday!
 - [01 - the week of sine](producering_01)
 
 **all thinks:**
+- [Density Decay](density_decay)
 - [blog again](blogagain) 
 - [the games that blew your mind](blown_away)!
 - [Q&A after Mosa Lina release](qa)
