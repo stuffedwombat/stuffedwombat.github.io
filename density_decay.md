@@ -10,7 +10,7 @@ Density decay also often occurs accidentally, when a game is developed linearily
 
 Density decay is not a problem or a "flaw" (it makes a lot of sense to frontload unique things, to pull people in), it's just something I have observed in many different games.
 
-- Disco Elysium's first day allows you to do whatever you want. Nothing that is available to do is necessary to progress the main story. Because of this, the game get's praised for it's openness, when it is in fact very linear. Density decay sets in for real around 3.
+- Disco Elysium's first day allows you to do whatever you want. Nothing that is available to do is necessary to progress the main story. Because of this, the game get's praised for it's openness, when it is actually very linear on a large scale.
 - Dark Soul 1's density decay asserts itself in Anor Londo, after the rafters. After this point, you are only ever playing through remixes of established gameplay patterns. The unique navigational flourishes of the undead burg are lacking from the rest of the game.
 - The first chapter of Gothic 2 allows for many different approaches, compared to the rest of the game. None of the later chapters come close in terms of variety.
 
