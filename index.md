@@ -8,4 +8,4 @@ Hi, my name is Josh!<br>
 
 
 <br><br>
-*[bluesky](https://bsky.app/profile/wombatstuff.bsky.social) / josh [@] plix.at*
+*[bluesky](https://bsky.app/profile/stuffedwomb.at) / josh [@] plix.at*
