@@ -4,7 +4,7 @@ I did not managed to stay sober, but I only consumed on 2 out of 7 days, that’
 
 Outside of that, what a week! Extremely inspiring and exhausting.
 
-Brin invited me to give a short talk in Lubljana about my creative process. Being in that class, talking to these really, really motivated students has rekindled my interest in teaching. My instinctive dislike of bureaucracy has also been refueled. I am looking into how to hold workshops that are open to anyone and don’t kill the organiser. There’s work to do!
+[Brin](https://bsky.app/profile/beingbrin.net) invited me to give a short talk in Lubljana about [my creative process](https://www.youtube.com/watch?v=b0E4z56vhOc). Being in that class, talking to these really, really motivated students has rekindled my interest in teaching. My instinctive dislike of bureaucracy has also been refueled. I am looking into how to hold workshops that are open to anyone and don’t kill the organiser. There’s work to do!
 
 During the trip to Lubljana, I have also suddenly had some strong realisations about one of the prototypes that I’ve kept coming back to over the last years. Many divergent things came together into a concrete vision. There’s something concrete to test now! Work!
 
