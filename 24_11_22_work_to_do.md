@@ -15,7 +15,7 @@ I also started to sketch out a long text about the power dynamics one commonly e
 
 I think that Bluesky has played a large part in all of this activity. The amount of cool papers and blogs and articles I have found through this website is staggering. If you are still on twitter, leave and come over. Bluesky is full of elder millennials, their liberal star wars memes and cringy expressions, but once you get through that you can really find your people!
 
-Meanwhile, Rollin`Barrel has done some extremely elegant design work on Mosa Lina that we will keep secret for some time. It has been really exciting to see someone taking ownership of one of my projects with so much thought and care and creativity. <3
+Meanwhile, [Rollin`Barrel](https://bsky.app/profile/rlnbrl.com) has done some extremely elegant design work on Mosa Lina that we will keep secret for some time. It has been really exciting to see someone taking ownership of one of my projects with so much thought and care and creativity. <3
 
 Of course, now there is also a text I want to write about collaboration. And a huge software project I am extremely excited about. 
 
