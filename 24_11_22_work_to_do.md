@@ -1,4 +1,4 @@
-##There’s work to do
+## There’s work to do
 
 I did not managed to stay sober, but I only consumed on 2 out of 7 days, that’s pretty good, considering where I started from. Just got to try again and really stick with it this time :)
 
@@ -22,4 +22,4 @@ Of course, now there is also a text I want to write about collaboration. And a h
 There is work to do.
 I should not forget to take weekends.
 
-(back)[blogagain]
+[back](blogagain)
