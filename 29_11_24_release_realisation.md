@@ -24,4 +24,4 @@ There is something to be said about my inability to just exist calmy, about my n
 
 Until next week, when I will hopefully be able to look back on something that has been released, something that has been realised, something real.
 
-[back](blog_again)
+[back](blogagain)
