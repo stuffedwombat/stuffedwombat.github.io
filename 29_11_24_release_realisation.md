@@ -18,7 +18,7 @@ Just because I sometimes opened Construct and made some garden-prototypes does n
 
 It’s time to release again, relentlessly. 
 
-Besides this realisation, the good thing about this week is that I’ve started doing serious research into narrative design again, by simply reading all of [https://emshort.blog](Emily Short’s blog). I have also actually managed to find the calm and boredom that I was craving so desperately just one month ago. It felt oppressive and dull, but that might also just be the lack of weed. I’m also finally starting to work out again. I want to try and become buff, just to see if I can do it and how that feels. 
+Besides this realisation, the good thing about this week is that I’ve started doing serious research into narrative design again, by simply reading all of [Emily Short’s blog](https://emshort.blog). I have also actually managed to find the calm and boredom that I was craving so desperately just one month ago. It felt oppressive and dull, but that might also just be the lack of weed. I’m also finally starting to work out again. I want to try and become buff, just to see if I can do it and how that feels. 
 
 There is something to be said about my inability to just exist calmy, about my need to always  have some sort of project ongoing, some sort of goal to reach, but that is a topic for another day.
 
