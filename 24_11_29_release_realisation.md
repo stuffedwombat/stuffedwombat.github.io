@@ -1,4 +1,4 @@
-## 29_11_24
+## 29.11.24
 
 I’ve been sober for six out of seven days. The first full workweek without weed in quite a while. My dreams are strange and vivid and sometimes a little bit too on the nose.
 
