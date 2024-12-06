@@ -28,4 +28,4 @@ I enjoy writing these blogs. They help me to see myself clearer. I am aware that
 
 I just want you to know, and I have to remind myself of that as well, that I’ll be okay <3
 
-[back](blog_again)
+[back](blogagain)
