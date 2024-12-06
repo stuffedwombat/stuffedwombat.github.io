@@ -1,4 +1,4 @@
-## 15.11.24
+## 22.11.24
 
 I did not managed to stay sober, but I only consumed on 2 out of 7 days, that’s pretty good, considering where I started from. Just got to try again and really stick with it this time :)
 
