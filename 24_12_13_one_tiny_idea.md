@@ -37,3 +37,5 @@ I’ve been waking up around noon, missing a large chunk of the very limited amo
 Christmas is approaching, which means that I will have to get ready for a big wave of family time. Maybe i should let go of work completely for now, maybe I should just make cookies and get all the presents ready. Stop when you’re ahead, and all that. I don’t know. We’ll see.
 
 [back](blogagain)
+
+P.S.: Ord., out minimalistic narrative game from 5 years ago, is now [free to play on steam!](https://store.steampowered.com/app/1079000/Ord). Hope you enjoy!
