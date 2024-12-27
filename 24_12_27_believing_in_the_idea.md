@@ -5,7 +5,7 @@ After a few days away from the computer, a couple of very concrete visions have 
 - A new take on the bullet-trail concept
 - A game design course
 
-As hoped, all the failed attempts of the last months, finding themselves with unexpected neighbous, have merged into new opportunities for attempts.
+As hoped, all the failed attempts of the last months, finding themselves with unexpected neighbours, have merged into new opportunities for attempts.
 
 Attempts. This is important. Right now, everything in my head is very clear. 
 - I have a structure that meshes really well with the themes of the text-only game. 
