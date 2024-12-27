@@ -5,6 +5,7 @@
 - 29.11.24 [release realisation](24_11_29_release_realisation)
 - 06.12.24 [work life](24_12_06_work_life)
 - 13.12.24 [one tiny idea](24_12_13_one_tiny_idea)
-- 20.12.24 [work, to be interrupted](24_12_20_work_to_be_interrupted.md)
+- 20.12.24 [work, to be interrupted](24_12_20_work_to_be_interrupted)
+- 27.12.24 [believing in the idea](24_12_27_believing_in_the_idea)
 
 [back](thinking)
