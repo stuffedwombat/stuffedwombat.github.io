@@ -7,6 +7,6 @@
 - 13.12.24 [one tiny idea](24_12_13_one_tiny_idea)
 - 20.12.24 [work, to be interrupted](24_12_20_work_to_be_interrupted)
 - 27.12.24 [believing in the idea](24_12_27_believing_in_the_idea)
-- 04.01.25 [california sober](25_01_04_california_sober)
+- 04.01.25 [california sober](25_01_04_california_sober) 
 
 [back](thinking)
