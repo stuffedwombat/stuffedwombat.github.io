@@ -1,6 +1,6 @@
 ## 04.01.24
 
-A friend told me about “California Sober” (no alcohol, no hard drugs), which is a really funny term, but let’s be real: I’m not sober anymore.
+A friend told me about being “California Sober” (no alcohol, no hard drugs), which is a really funny term, but let’s be real: I’m not sober anymore.
 
 This is the first blogpost that’s one day late. Not because I was too fucked up to write, but because I did not want to publicly talk about this.
 
