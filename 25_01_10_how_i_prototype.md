@@ -4,7 +4,7 @@ I often prototype to procrastinate. Instead of doing whatever needs to be done, 
 
 Most of those prototypes come to nothing. They are thrown away, never to be looked at again. Even if one of them has an interesting idea, I never bother to write it down. 
 
-If the idea is really interestening, I will remember it. The next time I feel the urge to prototype, I might remake something I have already prototyped, trying to quickly get at the part with the  interestening idea. But I might just as well feel compelled to prototype something completely different. 
+If the idea is really interesting , I will remember it. The next time I feel the urge to prototype, I might remake something I have already prototyped, trying to quickly get at the part with the  interestening idea. But I might just as well feel compelled to prototype something completely different. 
 
 Regardless, all of these prototypes are thrown away. I do not reuse code or assets from them. This is crucial. Prototypes are for throwing away. The purpose of a prototype is not to provide you with clean code or reusable assets. The purpose of a prototype is to give you information. Once you have gotten the information, the prototype should be discarded.
 
@@ -12,9 +12,9 @@ I can afford to constantly throw prototypes away because I am very fast in my en
 
 A concept is an abstracted idea that could be implemented in many ways. Instead of considering a specific mechanic or character, I am ruminating on broad ideas. 
 
-The concept I am currently thinking a lot about is the idea of the motion of your character creating the obstacles that you then have to evade by… moving your character. This concept has been with me for a long time. Both [Geballer](https://store.steampowered.com/app/1910260/Geballer), [6792km](https://stuffedwombat.itch.io/6792km) and some games I never released for some reason have come from it.
+The concept I am currently thinking a lot about is the idea of the motion of your character creating the obstacles that you then have to evade by… moving your character. This concept has been with me for a long time. Both [Geballer](https://store.steampowered.com/app/1910260/Geballer), [6792km](https://stuffedwombat.itch.io/6792km) and some other games I never released came from it.
 
-Now it seems as if another game is on the way. It sprung up quite naturally. Sometimes, when I had other stuff to do, I’d go back to making a small version of 6792km. Procrastination prototyping lead to some interesting ideas. I threw the prototypes away and did some other stuff. This summer, looking for a next commercial project, I started a phase of more specific prototyping, directly investigating the old ideas and combining them with other interestening ideas I've had about other prototypes..
+Now it seems as if another game is on the way. It sprung up quite naturally. Sometimes, when I had other stuff to do, I’d go back to making a small version of 6792km. Procrastination prototyping lead to some interesting ideas. I threw the prototypes away and did some other stuff. This summer, looking for a next commercial project, I started a phase of more specific prototyping, directly investigating the old ideas and combining them with other interestening ideas I've had about other prototypes.
 
 The important thing about all of this is that I keep throwing away my work and rebuilding it from scratch, very quickly and very regularly.
 
