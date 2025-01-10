@@ -6,7 +6,7 @@ Most of those prototypes come to nothing. They are thrown away, never to be look
 
 If the idea is really interestening, I will remember it. The next time I feel the urge to prototype, I might remake something I have already prototyped, trying to quickly get at the part with the  interestening idea. But I might just as well feel compelled to prototype something completely different. 
 
-Regardless, all of these prototypes are thrown away. I do not reuse code or assets from them. This is crucial. Prototypes are for throwing away. The purpose of a prototype is not to provide you with clean code or reusable assets. The purpose of a prototype is to give you information. Once you have gotten the information, the prototype should be discarded.
+Regardless, all of these prototypes are thrown away. I do not reuse code or assets from them. This is crucial. Prototypes are for throwing away. The purpose of a prototype is not to provide you with clean code or reusable assets. The purpose of a prototype is to give you information. Once you have gotten the information, you should discard the prototype.
 
 I can afford to constantly throw prototypes away because I am very fast in my engine. I am very fast in my engine because I have made thousands of prototypes. Over all these years of throwing things away and remaking them, I have started to think about my work in terms of concepts.
 
