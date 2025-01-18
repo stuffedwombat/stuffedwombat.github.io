@@ -58,7 +58,6 @@ A little airplane is always lerping towards the position of the mouse. It leaves
 
 People would always find ways to endlessly loop around the screen, moving without having to pay attention, optimising themselves out of fun and organic situations of danger. Actually, this was the exact problem that killed Kaballa as well, now that I write this out. Wasn’t so hard to explain after all.
 
-
 In the summer of 2024, I did a lot of prototypes, explicitly building on 6792km, never arriving anywhere but covering a lot of ground.
 
 For the last few weeks, I’ve been doodling around with the concept again, pursuing a physics based version for a while, before returning to the good old little character that lerps to the mouse. RollinBarrel had a great idea that gave it some spice and this week I finally solved the issue that made both Kaballa and 6792km peter out.
