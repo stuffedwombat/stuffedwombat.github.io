@@ -21,7 +21,7 @@ Probably inspired by Nuclear Throne, Downwell and the general vibe of the times,
 
 
 On the 7th of October 2019, I released a game on itch.io. 
-In it, you spawn physics objects at the position of the mouse by clicking. The physics objects always point at the center of the screen when spawning. They will also push themselves into the direction they are ponting in. The more physics objects you can balance against it each other in the middle of the screen, the more points you get.
+In it, you spawn physics objects at the position of the mouse by clicking. The physics objects always point at the center of the screen when spawning. They will also push themselves into the direction they are ponting in. The more physics objects you can balance against each other in the middle of the screen, the more points you get.
 
 On the 18th December 2019, I posted a gif to twitter.
 It shows a spaceship, dodging bullets, fired at it from above. The Bullets seem to always spawn close to the current position of the spaceship and are easily dodged.
