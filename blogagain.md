@@ -9,6 +9,6 @@
 - 27.12.24 [believing in the idea](24_12_27_believing_in_the_idea)
 - 04.01.25 [california sober](25_01_04_california_sober) 
 - 10.01.25 [how i prototype](25_01_10_how_i_prototype)
-- 17.01.25 [concept close-up](25_01_17_concept_close_up)
+- 17.01.25 [concept close-up](25_01_17_concept_close_up) 
 
 [back](thinking)
