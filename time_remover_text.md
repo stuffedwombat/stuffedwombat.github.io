@@ -140,9 +140,9 @@ Anyways.
 
 How have you been?
 
-*A game by Stuffed Wombat
-With help from RollinBarrel, Fakefrogsonly and the lovely people of Paradise and NotSoSolo.
+*A game by Stuffed Wombat*
+*With help from RollinBarrel, Fakefrogsonly and the lovely people of Paradise and NotSoSolo.*
 
-Thank you for playing*
+*Thank you for playing*
 
 [back](games)
