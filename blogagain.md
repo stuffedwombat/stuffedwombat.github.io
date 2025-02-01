@@ -11,5 +11,6 @@
 - 10.01.25 [how i prototype](25_01_10_how_i_prototype)
 - 17.01.25 [concept close-up](25_01_17_concept_close_up)
 - 24.01.25 [problems with patterns](25_01_24_problems_with_patterns)
+- 01.02.25 [time removed](25_02_01_time_removed.md)
 
 [back](thinking)
