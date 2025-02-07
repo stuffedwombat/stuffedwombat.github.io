@@ -12,6 +12,6 @@
 - 17.01.25 [concept close-up](25_01_17_concept_close_up)
 - 24.01.25 [problems with patterns](25_01_24_problems_with_patterns)
 - 01.02.25 [time removed](25_02_01_time_removed.md)
-- 07.02.25 [coming_back](25_02_07_coming_back)
+- 07.02.25 [coming back](25_02_07_coming_back)
 
 [back](thinking)
