@@ -14,4 +14,4 @@ That work has already been going on this week. It’s in a very relaxing mode, w
 
 And then: Finally. Finally. Finally. I have managed to play a couple of games again. It was nice. Games are nice. Wew. It’s really been a long while since I’d played so many games in such a short time. Games. 
 
-[back](games)
+[back](blogagain)
