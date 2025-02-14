@@ -1,6 +1,6 @@
 ## 14.02.25
 
-The outward directed motion has continued. In fact, I’ve had a week of pretty intense involvement with outside world. It really does seem like things will just keep happening for the rest of time, huh? 
+The outward directed motion has continued. I’ve had a week of pretty intense involvement with some very specific parts of the world. It really does seem like things will just keep happening for the rest of time, huh? 
 
 I’ve just returned from a much needed forest hike. This time, I even managed to embark before sunset, so as to see the hills and trees and such. It all felt very poetic. Do Firtrees branch? No, they cascade towards the sky.
 
