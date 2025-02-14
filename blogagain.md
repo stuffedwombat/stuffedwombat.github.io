@@ -13,5 +13,6 @@
 - 24.01.25 [problems with patterns](25_01_24_problems_with_patterns)
 - 01.02.25 [time removed](25_02_01_time_removed.md)
 - 07.02.25 [coming back](25_02_07_coming_back)
+- 14.02.25 [outwards motion](25_02_14_outwards_motion)
 
 [back](thinking)
