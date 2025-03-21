@@ -15,7 +15,8 @@
 - 07.02.25 [coming back](25_02_07_coming_back)
 - 14.02.25 [outwards motion](25_02_14_outwards_motion)
 
-## 21.03.25 - no blog again
+## no blog again 
+*(21.03.25)*
 
 I've been very happy. I've been thinking to myself that these days are the good days and that I should enjoy them. And I do. It's exhausting in a way that doesn't seem to deplete my long term energy. Things do really go wrong, but overall, they don't. Not really. It's good stuff.
 
