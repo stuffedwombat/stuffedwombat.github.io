@@ -1,40 +1,28 @@
 [back](index)
 
-currently trying to [blog again](blogagain)  every friday!
+**thinks**
 
-**good thinks:**
-- [Q&A after Mosa Lina release](qa)
-- [blogroll](blogroll)
-- [about Dishonored 1 & 2](about_dishonored)
-- [about Rainworld](about_rainworld)
-- [design terms](design_terms)
-- [the small game](the_small_game)
-- [The three ways of designing games](threeways)
-- [Make mechanics & forget the game](make_mechanics)
-
-**producing PRODUCER 2021**
-- [post-producer](post_producer)
-- [14 - the week of fog](producering_14)
-- [13 - the week of never learn](producering_13)
-- [12 - the week of the cap'n](producering_12)
-- [11 - the week of calm end](producering_11)
-- [10 - the week of workflow](producering_10)
-- [09 - the week of four days](producering_09)
-- [08 - the week of september](producering_08)
-- [07 - the week of cutting to the bone](producering_07)
-- [06 - the week of weekend](producering_06)
-- [05 - the week of zooming in and out](producering_05)
-- [04 - the week of consistency](producering_04)
-- [03 - the week of the readable blogpost](producering_03)
-- [02 - the week of back there again](producering_02)
-- [01 - the week of sine](producering_01)
-
-**all thinks:**
 - [Density Decay](density_decay)
 - [blog again](blogagain) 
 - [the games that blew your mind](blown_away)!
 - [Q&A after Mosa Lina release](qa)
 - [blogroll](blogroll)
+- producing PRODUCER 2021
+  - [post-producer](post_producer)
+  - [14 - the week of fog](producering_14)
+  - [13 - the week of never learn](producering_13)
+  - [12 - the week of the cap'n](producering_12)
+  - [11 - the week of calm end](producering_11)
+  - [10 - the week of workflow](producering_10)
+  - [09 - the week of four days](producering_09)
+  - [08 - the week of september](producering_08)
+  - [07 - the week of cutting to the bone](producering_07)
+  - [06 - the week of weekend](producering_06)
+  - [05 - the week of zooming in and out](producering_05)
+  - [04 - the week of consistency](producering_04)
+  - [03 - the week of the readable blogpost](producering_03)
+  - [02 - the week of back there again](producering_02)
+  - [01 - the week of sine](producering_01)
 - [about Throat Notes](about_throat_notes)
 - [about Dishonored 1 & 2](about_dishonored)
 - [quick notes on knife juggling](knife_juggling_190222)
@@ -51,10 +39,10 @@ currently trying to [blog again](blogagain)  every friday!
 - [the small game](the_small_game)
 - [Good Game Design](good_game_design)
 - [The three ways of designing games](threeways)
-- <a href="https://subotron.com/veranstaltung/one-wo-man-one-cry/" target="_blank">How to maek gaem</a> (Talk, Subotron 2019)
+- <a href="https://subotron.com/veranstaltung/one-wo-man-one-cry/" target="_blank">How to maek gaem</a> (ext.)
 - [Useful hell](useful_hell)
 - [Make mechanics & forget the game](make_mechanics)
-- <a href="https://www.youtube.com/watch?v=vcAlQyzxRck" target="_blank">Pomgmortem</a> (Talk, Game Dev Days Graz 2018)
+- <a href="https://www.youtube.com/watch?v=vcAlQyzxRck" target="_blank">Pomgmortem</a> (ext.)
 
 [back](index)
 
