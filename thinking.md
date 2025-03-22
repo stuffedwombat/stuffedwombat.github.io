@@ -1,5 +1,3 @@
-[back](index)
-
 **thinks**
 
 - [Density Decay](density_decay)
