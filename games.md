@@ -1,29 +1,13 @@
-[back](index)
-
-**games you can buy**
+**games**
+- wip
+- <a href="https://www.newgrounds.com/portal/view/831674" target="_blank">SOON</a> (2022) Are you telling me a ritual made this meaning? Weird.
+- <a href="https://www.newgrounds.com/portal/view/830515">Flute Person Symphony</a> (2022) A not so tiny show. Clap Clap Clap.
 - <a href="https://store.steampowered.com/app/1667320/PRODUCER_2021" target="_blank">PRODUCER 2021</a>, 10$ together with ThorHighHeels
+- <a href="https://www.newgrounds.com/portal/view/830515">PRODUCER 2021 DEMO</a> (2021) First steps. Extremely detailed.
 - <a href="https://store.steampowered.com/app/1910260/Geballer/?beta=1" target="_blank">GEBALLER</a>, 4$ together with Inko
 - <a href="https://store.steampowered.com/app/1066900?beta=1" target="_blank">qomp</a> 6$, together with Clovelt, Miroko & Britt Brady
 - <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 1$
-- <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> 2$, together with Mujo Games
 - <a href="https://store.steampowered.com/app/1267810/Gutwhale" target="_blank">Gutwhale</a> 5$, together with Franek & Britt Brady
-
-**games that turned out nicely**
-
-- <a href="https://stuffedwombat.itch.io/tiny-show" target="_blank">Tiny Show</a> (2020) A tiny show. Clap Clap.
-- <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a> (2020) An experience. Trippy.
-- <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a> (2020) Trying to tell a story. Nice.
-- <a href="https://www.newgrounds.com/portal/view/744411" target="_blank">every wall</a> (2019) Playable Poem. Funny.
-- <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Concrete.
-- <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement. Flowy.
-- <a href="https://www.newgrounds.com/portal/view/700013" target="_blank">Shit 2</a> (2017) Only walljumps. Hard.
-- <a href="https://www.newgrounds.com/portal/view/678184" target="_blank"> Shword</a> (2016) Shoot + Sword.
-
-
-**all games**
-- <a href="https://www.newgrounds.com/portal/view/831674" target="_blank">SOON</a> (2022) Are you telling me a ritual made this meaning? Weird.
-- <a href="https://www.newgrounds.com/portal/view/830515">Flute Person Symphony</a> (2022) A not so tiny show. Clap Clap Clap.
-- <a href="https://www.newgrounds.com/portal/view/830515">PRODUCER 2021 DEMO</a> (2021) First steps. Extremely detailed.
 - <a href="https://stuffedwombat.itch.io/tiny-show" target="_blank">Tiny Show</a> (2020) A tiny show. Clap Clap.
 - <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a> (2020) An experience. Trippy.
 - <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a> (2020) Trying to tell a story. Nice.
@@ -33,6 +17,8 @@
 - <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you. 
 - <a href="https://www.newgrounds.com/portal/view/733821" target="_blank">Isolation Station Annihilation</a> (2019) Alien physics, unprecisely designed.
 - <a href="https://www.newgrounds.com/portal/view/732230" target="_blank">The Last Balloon</a> (2019) Not a big fan, still proud.
+- <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> 2$, together with Mujo Games
+- <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 1$
 - <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it. Weird.
 - <a href="https://www.newgrounds.com/portal/view/728552" target="_blank">Corridoor</a> (2019) Underdeveloped a bit. Spooky.
 - <a href="https://www.newgrounds.com/portal/view/726378" target="_blank">Grassurai</a> (2019) Good for 9 hours. Hard.
