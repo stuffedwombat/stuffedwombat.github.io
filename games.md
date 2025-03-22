@@ -1,54 +1,67 @@
 **games**
+
 2025
 
+- wip
+
+  
 2024
 
+- wip
+
+  
 2023
+
+- wip
+
 
 2022
 
-- <a href="https://www.newgrounds.com/portal/view/831674" target="_blank">SOON</a> (2022) Are you telling me a ritual made this meaning? Weird.
-- <a href="https://www.newgrounds.com/portal/view/830515">Flute Person Symphony</a> (2022) A not so tiny show. Clap Clap Clap.
+- <a href="https://www.newgrounds.com/portal/view/831674" target="_blank">SOON</a>
+- <a href="https://www.newgrounds.com/portal/view/830515">Flute Person Symphony</a>
+
 
 2021
 
-- <a href="https://store.steampowered.com/app/1667320/PRODUCER_2021" target="_blank">PRODUCER 2021</a>, 10$ together with ThorHighHeels
-- <a href="https://www.newgrounds.com/portal/view/830515">PRODUCER 2021 DEMO</a> (2021) First steps. Extremely detailed.
-- <a href="https://store.steampowered.com/app/1910260/Geballer/?beta=1" target="_blank">GEBALLER</a>, 4$ together with Inko
-- <a href="https://store.steampowered.com/app/1066900?beta=1" target="_blank">qomp</a> 6$, together with Clovelt, Miroko & Britt Brady
+- 10$ - <a href="https://store.steampowered.com/app/1667320/PRODUCER_2021" target="_blank">PRODUCER 2021</a> together with ThorHighHeels
+- <a href="https://www.newgrounds.com/portal/view/830515">PRODUCER 2021 DEMO</a>
+- 4$ - <a href="https://store.steampowered.com/app/1910260/Geballer/?beta=1" target="_blank">GEBALLER</a> together with Inko
+- 6$ - <a href="https://store.steampowered.com/app/1066900?beta=1" target="_blank">qomp</a>, together with Clovelt, Miroko & Britt Brady
+
 
 2020
   
-- <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 1$
-- <a href="https://store.steampowered.com/app/1267810/Gutwhale" target="_blank">Gutwhale</a> 5$, together with Franek & Britt Brady
-- <a href="https://stuffedwombat.itch.io/tiny-show" target="_blank">Tiny Show</a> (2020) A tiny show. Clap Clap.
-- <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a> (2020) An experience. Trippy.
-- <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a> (2020) Trying to tell a story. Nice.
+- 1$ - <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a>
+- 5$ - <a href="https://store.steampowered.com/app/1267810/Gutwhale" target="_blank">Gutwhale</a> together with Franek & Britt Brady
+- <a href="https://stuffedwombat.itch.io/tiny-show" target="_blank">Tiny Show</a>
+- <a href="https://www.newgrounds.com/portal/view/767702" target="_blank">360</a>
+- <a href="https://www.newgrounds.com/portal/view/752948" target="_blank">up in the sky</a>
+
 
 2019
 
-- <a href="https://www.newgrounds.com/portal/view/744411" target="_blank">every wall</a> (2019) Playable Poem. Funny.
-- <a href="https://play.google.com/store/apps/details?id=com.NotSoSolo.Rotatoe" target="_blank">Rotatoe.</a> (together with Adam Pype & Bibiki) 
-- <a href="https://www.newgrounds.com/portal/view/735906" target="_blank">Spacebar</a> (2019) Interesting level structure. Small.
-- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a> (2019) They took something from you. 
-- <a href="https://www.newgrounds.com/portal/view/733821" target="_blank">Isolation Station Annihilation</a> (2019) Alien physics, unprecisely designed.
-- <a href="https://www.newgrounds.com/portal/view/732230" target="_blank">The Last Balloon</a> (2019) Not a big fan, still proud.
-- <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> 2$, together with Mujo Games
-- <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a> 1$
-- <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a> (2019) I really like it. Weird.
-- <a href="https://www.newgrounds.com/portal/view/728552" target="_blank">Corridoor</a> (2019) Underdeveloped a bit. Spooky.
-- <a href="https://www.newgrounds.com/portal/view/726378" target="_blank">Grassurai</a> (2019) Good for 9 hours. Hard.
-- <a href="https://www.newgrounds.com/portal/view/724232" target="_blank">Handulum+</a> (2019) Many levels. Almost good.
+- <a href="https://www.newgrounds.com/portal/view/744411" target="_blank">every wall</a> (2019)
+- <a href="https://play.google.com/store/apps/details?id=com.NotSoSolo.Rotatoe" target="_blank">Rotatoe.</a> together with Adam Pype & Bibiki 
+- <a href="https://www.newgrounds.com/portal/view/735906" target="_blank">Spacebar</a>
+- <a href="https://www.newgrounds.com/portal/view/735654" target="_blank">everything else</a>
+- <a href="https://www.newgrounds.com/portal/view/733821" target="_blank">Isolation Station Annihilation</a>
+- <a href="https://www.newgrounds.com/portal/view/732230" target="_blank">The Last Balloon</a>
+- now free - <a href="https://store.steampowered.com/app/1079000/Ord/" target="_blank">Ord.</a> together with Mujo Games
+- 1$ - <a href="https://store.steampowered.com/app/1101800/10mg_Always_Down" target="_blank">10mg: Always Down.</a>
+- <a href="https://www.newgrounds.com/portal/view/729654" target="_blank">Byelines</a>
+- <a href="https://www.newgrounds.com/portal/view/728552" target="_blank">Corridoor</a>
+- <a href="https://www.newgrounds.com/portal/view/726378" target="_blank">Grassurai</a>
+- <a href="https://www.newgrounds.com/portal/view/724232" target="_blank">Handulum+</a>
 
 2018
   
-- <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a> (2018) The ground is gone. Good.
-- <a href="https://www.newgrounds.com/portal/view/719528" target="_blank">train game</a> (2018) Made in 2 hours on a train. Too hard.
-- <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a> (2018) Exploring movement. Good.
-- <a href="https://www.newgrounds.com/portal/view/714782" target="_blank">Sisypush</a> (2018) Push the rock. Endless.
-- <a href="https://www.newgrounds.com/portal/view/709183" target="_blank">Secend</a> (2018) Minit Fangame. Fast.
-- <a href="https://www.newgrounds.com/portal/view/706826" target="_blank">Snong</a> (2018) Snake + Pomg. Ok.
--  <a href="https://www.newgrounds.com/portal/view/705921" target="_blank">Beep Boop Bu</a> (2018) Transmit a Letter. Ok.
+- <a href="https://www.newgrounds.com/portal/view/722470" target="_blank">Detiled</a>
+- <a href="https://www.newgrounds.com/portal/view/719528" target="_blank">train game</a>
+- <a href="https://www.newgrounds.com/portal/view/715081" target="_blank">Handulum</a>
+- <a href="https://www.newgrounds.com/portal/view/714782" target="_blank">Sisypush</a>
+- <a href="https://www.newgrounds.com/portal/view/709183" target="_blank">Secend</a>
+- <a href="https://www.newgrounds.com/portal/view/706826" target="_blank">Snong</a>
+-  <a href="https://www.newgrounds.com/portal/view/705921" target="_blank">Beep Boop Bu</a>
 
 2017
 
