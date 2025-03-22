@@ -1,12 +1,6 @@
-# Stuffed Wombat
+My name is Josh, but I am better known as Stuffed Wombat<br>
 
-Hi, my name is Josh!<br>
-
-*I [make](games) games, [think](thinking) about games.* <br>
-
-*Mosa Lina, a hostile interpretation of the Immersive Sim is [OUT NOW](https://store.steampowered.com/app/2477090/Mosa_Lina/)*
-
-I am also writing a [blog again](blogagain), updating every friday!
+*I [make](games) games and [think](thinking) about  making games.* <br>
 
 <br><br>
 *[bluesky](https://bsky.app/profile/stuffedwomb.at) / josh [@] plix.at*
