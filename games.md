@@ -2,17 +2,18 @@
 
 2025
 
-- wip
+- <a href="https://stuffedwombat.itch.io/time-remover" target="_blank">TIME REMOVER</a>
 
   
 2024
 
-- wip
+- <a href="https://www.newgrounds.com/portal/view/941190" target="_blank">PATTER</a>, with art & sfx by Gaziter
 
   
 2023
 
-- wip
+- $5 - <a href="https://store.steampowered.com/app/2477090/Mosa_Lina/" target="_blank">MOSA LINA</a>, with Rollin´Barrel, Silkersoft & Luc
+ 
 
 
 2022
