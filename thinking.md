@@ -1,3 +1,5 @@
+[back](index)
+
 **thinks**
 - [Weekend Blog - 001](weekendblog001)
 - [Density Decay](density_decay)
