@@ -1,7 +1,7 @@
 [back](index)
 
 **thinks**
-- [Weekend Blog - 001](weekendblog001)
+- [Weekend Blog](weekendblog)
 - [Density Decay](density_decay)
 - [blog again](blogagain) 
 - [the games that blew your mind](blown_away)!
