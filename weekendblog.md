@@ -55,6 +55,32 @@ See you next weekend. Take care.
 
 Josh
 
+## Tuesday - 14th July 2026
+
+Besides a lot of very nice social events, I was also working this weekend, leading to this delay in weekend blog.
+
+The deep sense of belonging I was writing about last week has been kind of rearing it's head a little bit and I am very happy about that. It's probably because the next game is slowly taking it's final shape. The last (Nine? More!) months have been a very slow forward crawl. Now things are not yet clicking into place, but steadily aligning in that way which usually preceedes the click.
+
+I was talking with a friend about „hard art“, about following your inner urges in your work and then trying to make a living off of that, and she said that this could be seen as two discrete steps:
+
+- first you follow your heart, experiment wildly and find something that is very close to you but that, statistically speaking, nobody cares about
+- and then, for the second step, you have to transpose this fragile core into a more robust vehicle that is able to reach a broader palate.
+
+I feel like for next game, I was never really able to do the first part of the hard art. Writing this out feels kind of shitty, but I think it is true.
+
+Completely neglecting another piece of advice I've been dishing out in my talks (that one should avoid working at the edge of their technical ability, that the freedom of experimentation that is necessary to iterate quickly is only to be found in the space where one is really confident and knowledgeable) I've been deeply overwhelmed with all the new possibilities and challenges of next games techstack for most of development. This is one way to learn, I guess, but it's not a state I'd like to be in for the rest of my time with game dev. 
+
+Luckily it feels like I'm finally moving out of it for this project.
+
+Maybe things are relaxing in my mind now because I feel like I have finally reached that space. Maybe it's also just all the awareness practice and trying to be nice to myself that has put me onto a chill path. Maybe it's just because we got REDACTED and REDACTED in the game now and it just looks really cool.
+
+In any case, it's been going well, even if the strain of doing some weekend shifts has left me meandering, doing measly admin work and only poking at progress these last two days.
+
+I was very happy about randomly finding [Joni's blogpost about taking breaks](https://allthebees.de/starting-later-to-finish-earlier/), but have still not found the energy to go through that big blogpost about embracing meaningful decisions. In fact, I can't find it right now.
+
+Oh well. Usually things like that show up again somehow.
+
+
 
 [back](thinking)
 
