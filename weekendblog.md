@@ -80,7 +80,28 @@ I was very happy about randomly finding [Joni's blogpost about taking breaks](ht
 
 Oh well. Usually things like that show up again somehow.
 
+## Sunday - 19th July 2026
 
+It's strange, how all week I felt like I was not really doing anything, but found myself confronted with a suddenly much more cohesive game on friday. Seems like I did not do the big, sweeping kind of work work, where you can see so many new things in the game, but the more connective kind of work, fleshing out  the little strands of tissue between the bigger chunks, allowing everything to come together.
+
+Still, there is lots to do, in both kinds of work.
+
+I doubt that I'll ever get to full playfulness with this project, but seeing how much more everything fits together now is very relaxing. We keep talking about an (as of yet undefined) next-next game, an opportunity to approach 3D with more routine and more intentionality. It feels nice. We (or at least, I) are no longer feeling like we are shattering on the rocks, more like we might just get this ship to shore, where the real adventure begins.
+
+I've been extremely vague about the nature of this game we are working on, but now, with the  announcement date approaching, it's time to think about how to describe it, how to make people excited about it. Everything hinges on the base premise, which is pretty insane and intriguing, now I just have to figure out how to convey it effectively.
+
+Without twitter, marketing is a strange, unknown thing for me. I am planning to hop onto the less overtly technofascist short form video platforms to do a little documentary dance for your amusement and monetiseable attention down the line, but this will only happen after my actual work on the game itself has concluded. I need to pace myself with the cognitohazards. One at a time.
+
+Yesterday I spent the whole day running relaxed errands through the city, reading Hesse's Siddartha (thanks for the reminder [Jesse Welles](https://www.youtube.com/watch?v=ah1-aR2ILxc)), thinking about ex-dating-people without the usual pain and visiting family. Today there is a little peace inside of me. 
+
+I did my irregular check-up on my financial situation and, once more, find myself with enough funds to last a whole year. It's been like this the last 3 times I checked. Thanks for still buying [Mosa Lina](https://store.steampowered.com/app/2477090/Mosa_Lina/). I feel like the next game will make at least a little bit of money, but even if it flops completely, I'd be able to continue.
+
+Continue doing what, though?
+Working on next game, hanging with friends and colleagues, dating, chores, family-life and working on staying clean and sober is leaving me with no time and mindspace at all to do small experiments, to get back into the process of playing at game design that is so crucial in finding nuggets of obsession that I can then excitedly polish up and show to the world. I'm not shitting out enough small experiments. I am standing on unfertilised ground.
+
+When I turned 30 last year I was looking for a kind of balance, for a life that does not consist only of one thing in the extreme and now that I have it, I find myself yearning for that good old self-destructive hyperfocus. Well.
+
+It's a sunny day, but a rare one that doesn't also come with pressure-cooker temperatures. Time for some frolicking.
 
 [back](thinking)
 
