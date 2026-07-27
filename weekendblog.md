@@ -103,6 +103,36 @@ When I turned 30 last year I was looking for a kind of balance, for a life that 
 
 It's a sunny day, but a rare one that doesn't also come with pressure-cooker temperatures. Time for some frolicking.
 
+
+## Monday 27 July 2026
+
+A weekend of socialising left me with no time to ruminate about the creative process. Oh no.
+
+Last week, we've finished the first version of the steam page for NEXT GAME and decided on a release date, which is a little bit further down the line than originally planned. Together with a remote-house-restoration-project that fell through for now, this should free up all of REDACTED for me to keep working on NEXT GAME.
+
+REDACTED months. That should be enough time to get everything to a coherent level of quality. Maybe there is even some room for some playfulness. 
+
+Two weeks ago, work was all about connective tissue between larger chunks and last week was all about heaving some more large chunks into the game, allowing for even more connective tissue to grow up. 
+
+It's not easy to talk about all of this without giving away the game, but the world now, finally, contains almost all of the areas it needs. There is one subterranean space that I feel like not building after all, but otherwise everything is where it needs to be.
+
+I think this week's work will mainly about cutting new intentional paths & sequences into existing blocks of unrefined content. This should increases the „gameplay resolution“, allowing us to maybe even actually test the real, longterm arc of the game, something that we've been unable to do for all these months. We just didn't have the amount of geography necessary for that.
+
+Being responsible for most of the map, I've been the bottleneck in this project since day one. Following my style of constantly throwing everything we'd built away and starting from scratch has left us with a map that should really work, but that also mostly exists as a sketch, a well practiced gesture, describing something I can now finally realise with ink.
+
+I've been dealing with the feelings of inadequacy that would usually make me relapse by getting addicted to online dating and eating lots of shitty food again. Meditation and awareness practice is  allowing me to reign that behaviour in a bit more, keeping it from spiraling into outright self-harm, but in the end I am incapable of letting go completely right now.
+
+[Millenial Cringe by Merrit K.](https://www.patreon.com/merrittk/posts/millennial-164275916) really hit me, maybe because of  my commercial game output. Qomp, Producer, Mosa Lina and especially NEXT GAME are all standing in direct reference to older games, they are comments, distortions, persiflages. This is not explicitly what is dragged through the mud in the piece, but it's close enough for me.
+
+Maybe I am not an experimental, but a referential game designer.
+
+I am aware that a lot of people really do not agree with the Merrit's position and I should really get into the various responses, but for now all I can say is that the piece left me energised. Here is a fight. 
+
+I've been accidentally shying away from uphill battles since Mosa Lina. After getting pretty far in my campaign against extrinsic motivation but eventually not really breaking through the sound barrier of finity, I gave up by viewing the world of game design through a pretty rigid analytical framework, neatly sorting everything into known categories that are too sterile to spark anything in me anymore.
+
+
+Time for another round. Ding ding.
+
 [back](thinking)
 
 
