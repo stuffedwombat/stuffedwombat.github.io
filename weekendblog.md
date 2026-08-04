@@ -133,6 +133,30 @@ I've been accidentally shying away from uphill battles since Mosa Lina. After ge
 
 Time for another round. Ding ding.
 
+## Tuesday 4th August 2026
+
+Spent the weekend in Prague with friends, hanging out, not doing a lot and enjoying it immensely. The bus rides there & back again were spent in silence, with no reading or anything really. I've been lacking this kind of empty time.
+
+Instead of making room for it in my days, I mainly work, socialise and then rewatch shows while binge eating late into the night, waking up to feel like shit.
+
+Work-wise, we decided to pivot all work towards making a trailer for the pretty imminent steampage reveal. It's the right thing to do right now, and it pushed us to get a bunch of areas up to snuff in terms of gameplay and visuals, but the constant context switching and organisational work is getting to me.
+
+I can feel myself fraying at the edges, loosing my ability to stay with myself. I've been dissappearing into these sudden emotions again, these bursts of nerveous and unproductive energy. I get rude and dismissive and agitated.
+
+There is a yearning for solitude, isolated work, for not being accountable to anyone, for not having to manage anyone but myself, but yesterday, marveling at my mood swings, I maybe finally came up with a worthwhile experiment to run on myself during the remaining development:
+
+Can I help ship this game without feeling all of these negative emotions?
+
+I used to run experiments on myself with my work in other, less personal, ways. Can I make a game (in a month) that makes more money I earned in my hostel job (in a month)? Can I convey an concrete message only through gameplay? Can I make a game that's mostly text? Can I make something that a lot of people would buy?
+
+These experiments detached myself from the work somewhat. It turned everything into a game. If I could not do what I set out to do, at least I would get some new data, a clear answer and a good starting point for some reflection: Why could I not do...
+
+So this is the way forward. Can I help ship this game without going bananas?
+
+The first step towards that is probably to get my late night eating under control. Waking up feeling like shit has got to go. See you next week.
+
+
+
 [back](thinking)
 
 
