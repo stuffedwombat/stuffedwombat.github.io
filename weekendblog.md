@@ -155,6 +155,27 @@ So this is the way forward. Can I help ship this game without going bananas?
 
 The first step towards that is probably to get my late night eating under control. Waking up feeling like shit has got to go. See you next week.
 
+## Monday 10th Auguts 2026
+
+MARBLE SOULS has been announced to an incredible reception. The game seems to have hit some small, but very specific nerve and our announcement was carried pretty far and pretty wide by enthusiastic third parties.
+
+We got [a couple](https://aftermath.site/marble-souls-steam-pc-super-monkey-ball/) of [write ups](https://www.gamespew.com/2026/08/marble-souls-announced/) from [cool](https://www.rockpapershotgun.com/marble-souls-dares-to-ask-what-would-happen-if-the-bloke-from-dark-souls-got-stuck-in-a-physics-driven-ball-and-its-out-this-year) [websites](https://www.anaitgames.com/noticias/marble-souls-anuncio-stuffed-wombat), trailer reposts on the short-form-video platforms and 15k likes on the ketamine app without having to open it. Wishlists are 4-5 times higher than they were for Mosa Lina during the same period. The [announcement trailer](https://www.youtube.com/watch?v=AJ12-c-E08A) is the best performing video on my youtube channel and  MARBLE SOULS is #1496 in wishlist activity according to [SteamDB](https://steamdb.info/app/4531440/charts/), which (whatever that means) seems pretty good.
+
+Some of the reporting on authorship on the project has been a bit confused, so I want to clarify that Fynn, Rollin'Barrel and me have been working on this game as partners. We are simply using the Stuffed Wombat socials & steam account because those have the biggest reach and we don't want to build up a specific team presence at this point (and maybe never will, who knows).
+
+I've managed to stay kind of calm during all of this excitement. It seems that we have a very good shot at reaching a lot of people with this game, which would allow us to self-finance our next title too. Yay. At the same time, I keep thinking of [Truck-Kun by Strange Scaffold](https://store.steampowered.com/app/3642010/Truckkun_is_Supporting_Me_from_Another_World/), which had breached 100k wishlists and is now sitting at less than 200 reviews. I am not sure what happened, but my suspicion that word of mouth beats steam internal metrics is deepening. So while all of this attention is nice, the real moment of truth will be when the game actually releases.
+
+Reading all the various responses has helped to clarify a lot of fears and concerns and convictions we'd had over the last months and in the last days we've been able to tackle a lot of things with fresh energy and clarity. We finally have an actual production spreadsheet now. Things are getting serious. 
+
+I am very much looking forward to returning to more direct work. All of this has kept me from building new spaces for quite a while now, but with a whole bunch of new approaches on handling the coordination part of collaboration, things are looking pretty nice and free for a little bit.
+
+Now, with all this attention, I am unsure how much I should dive into the development processes here. When it was just me in my room tinkering around with Mosa Lina systems or PRODUCER dialogue, writing very open process diaries was easy. Now, there are other people involved and they might not appreciate constantly having to read drafts to determine wether or not they are okay with making this or that public.
+
+The general plan in regards to marketing is to step off of the gas now and focus on finishing the game. Once that is done, I'll start making tik-tok-reels, or whatever it is that us zillenials are supposed to watch all day.
+
+See you next week!
+
+P.S.: [Canon Of Balls](https://store.steampowered.com/app/3962460/THE_CANON_OF_BALLS/), a different marble-darksouls-like-game that we were extremely excited by when it was announced, is actually coming out very soon! Had we pushed through our original (slightly insane) production schedule, we would be competing for eyeballs right now, but thankfully we needed a bit more time.
 
 
 [back](thinking)
