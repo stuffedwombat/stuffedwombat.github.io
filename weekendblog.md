@@ -155,7 +155,7 @@ So this is the way forward. Can I help ship this game without going bananas?
 
 The first step towards that is probably to get my late night eating under control. Waking up feeling like shit has got to go. See you next week.
 
-## Monday 10th Auguts 2026
+## Monday 10th August 2026
 
 MARBLE SOULS has been announced to an incredible reception. The game seems to have hit some small, but very specific nerve and our announcement was carried pretty far and pretty wide by enthusiastic third parties.
 
