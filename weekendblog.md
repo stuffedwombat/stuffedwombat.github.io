@@ -178,6 +178,25 @@ See you next week!
 P.S.: [Canon Of Balls](https://store.steampowered.com/app/3962460/THE_CANON_OF_BALLS/), a different marble-darksouls-like-game that we were extremely excited by when it was announced, is actually coming out very soon! Had we pushed through our original (slightly insane) production schedule, we would be competing for eyeballs right now, but thankfully we needed a bit more time.
 
 
+## Tuesday 18th August 2026
+
+Last week I almost died during a hiking trip. We were supposed to camp in this nice little valley that was „only reachable by a kind of steep path, so bring some good boots“, but by the time we'd arrived at the foot of the hill the sun was already setting and I fell into a kind of panic. My glasses had broken at the beginning of the day. I could not find the „kind of steep“ path and so I navigated us up a murderous slope of loose rock instead. Falling down that slope would have killed us.
+
+Upon reaching the ridge we discovered that, instead of a nice little plateau with a waterfall and lake, there was just another equally steep slope, going down this time.
+
+At this point the sun was deep into setting and visibility was getting really bad, so we just camped on a little plateu surrounded on 3 sides by deadly drops. I had one of the worst nights of my life up there, unable to think of anything but the fact that we'd have to climb down the steep slope tomorrow and that we'd die if we slipped.
+
+Obiously we survived, but it was one of the most terrifying experiences of my life. We had to throw the big backback down the slope before it dragged one of us with it. It took a couple of days for the tension (and the invasivee images of my friend or me falling to our death) to leave my body.
+
+Since nobody died, work on Marble Souls level design is progressing. Besides the deep fear, the hiking trip also provided me with a lot more confidence about the kinds of shape that rocks can take. Nature can be pretty wacky and now I can be too.
+
+The work is steady and progress is slow. I've been thinking a lot that it's not really exciting, that it's really feeling distinctly job-like. I have a gigantic amount of tasks, each of which allows for only a bit of improvisation and freestyle flow. Mostly I just need to increase the gameplay resolution of hastily sketched landscapes.
+
+Fynn & me made a list of gameplay flavours and it's been pretty interesting to realise them in small splatters across the world. It's not something I feel super confident with yet though. Generally, all the work right now feels like it's a kind of factory job, just getting everything ready for the next round of playtesting while also, on some level, constantly feeling like most of the verticies I move abck and forth now will need to be adjusted later anyways.
+
+Not the best feeling, but ech. It's still a pretty cool job.
+
+
 [back](thinking)
 
 
