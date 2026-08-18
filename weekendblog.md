@@ -178,6 +178,7 @@ See you next week!
 P.S.: [Canon Of Balls](https://store.steampowered.com/app/3962460/THE_CANON_OF_BALLS/), a different marble-darksouls-like-game that we were extremely excited by when it was announced, is actually coming out very soon! Had we pushed through our original (slightly insane) production schedule, we would be competing for eyeballs right now, but thankfully we needed a bit more time.
 
 
+
 ## Tuesday 18th August 2026
 
 Last week I almost died during a hiking trip. We were supposed to camp in this nice little valley that was „only reachable by a kind of steep path, so bring some good boots“, but by the time we'd arrived at the foot of the hill the sun was already setting and I fell into a kind of panic. My glasses had broken at the beginning of the day. I could not find the „kind of steep“ path and so I navigated us up a murderous slope of loose rock instead. Falling down that slope would have killed us.
