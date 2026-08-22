@@ -197,6 +197,42 @@ Fynn & me made a list of gameplay flavours and it's been pretty interesting to r
 
 Not the best feeling, but ech. It's still a pretty cool job.
 
+## Saturday 22nd August 2026
+
+I've regressed into a very limited lifestyle. Get up, coffee, cigarette, work, forget breakfast, grow strange and eat too much at once, vegetative youtube on the couch, more work, forget to shop, shower, order food and feel bad about it, youtube or movie. Sprinkle some compulsive dating on top. Repeat.
+
+Yesterday I had one of my neural events again, a wave of anxiety and rage. Luckily large amounts of food have a sedative effect and, in a totally legal haze, managed to clean away the worst of the weeks detritus. Today I am calmer and looking at last week with detached curiosity as if waking from a fugue.
+
+Besides the ever present (private) family things and the steadily accumulating * gestures at world * , the project itself has been kicking my butt.
+
+- Since I am not able to do any coding on MARBLE SOULS, I am lacking secondary tasks to engage with once I get frustrated or overwhelmed by the level design.
+- We are getting closer to being able to playtest a large part of the full progression-arc of the game, but this has thrown up a lot of small problems that overwhelmed me. 
+- I have been iterating over the same spaces for too long, obsessing over details, neglecting to build out the less defined parts of the world. 
+
+Writing them down, it of course becomes clear that these problems have completely different solutions. 
+
+- I need to find some more mechanical secondary tasks.
+- I need to hash out the details of the small problems. 
+- I need to zoom out and focus on the big picture.
+
+And now, writing down the solutions, it becomes clear that hashing out the details of the small problems should be the more mechanical task I switch to whenever I get stuck on the less defined areas. 
+
+Seems like this is all downstream of me not reflecting enough on the project. Well. At least now I know.
+
+Not all was bad, of course.
+
+- First and foremost, I am still clean and sober. Of coure, food and sex are also addicitions, but they come with less shame and self-hatred than bingedrinking and breakfastbongs. Muscle and stomach pains are the more comfortable hangovers. I've  not been using alcohol or drugs at all for more than seven months and that alone is a great thing I can be proud of.
+- I removed all the lightbaking from the game. Now everything looks a bit shit, but it all looks the same level of shit. For the last months, some things were light baked, some were not and the whole map became a chaos of too bright and too dark. The relations between places are much clearer now and work has sped up a lot because of it.
+- We also discovered that blender had switched my render engine in some update and I was using a very slow light baking process. With the faster baking, I'll be able to experiment a lot more down the line and get more dramatic results.
+- I have also become a lot faster at  building in blender. A combination of what I call „monoblock technique“ and that list of possibile gameplay flavours has allowed me to build some of my favourite sections in the game this week.
+- While I my mental and physical health did sustain deep damage, I was able to snap out of it eventually. I stockpiled storebought food so that I could satisfy my urges without employing the burrito taxi. I cancelled a date because I need time for myself. I am not going to work on the game this weekend. The place I am writing this from would be unrecognisable to my wednesday self.
+
+And so, here we are. Another loop through the cycle. Even without alcohol or drugs this week felt like I was using. Food, sex and work all have the power to remove me from myself, to keep me from sitting with my feelings, from actually feeling them. It's like plastering over mold or something.
+
+And so it was really funny seeing all the people getting angry at [Death to the self playing game](https://www.jank.cool/death-to-the-self-playing-game/). The moments their dissociatives are threathened, people get agressive. 
+
+That whole topic is, of course, part of one of these long essays I've been meaning to write. At this point I think I can just abandon that notion for a while. I need to focus on my mental and physical health. I need to find back to the same basic and boring things that the vampire survivors don't do when they are floating in visual noise, podcasts and general distance. Walk, clean, cook, meet friends, read books and look at the sky. It's really simple, actually.
+
 
 [back](thinking)
 
