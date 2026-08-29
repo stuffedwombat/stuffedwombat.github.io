@@ -234,6 +234,39 @@ And so it was really funny seeing all the people getting angry at [Death to the 
 That whole topic is, of course, part of one of these long essays I've been meaning to write. At this point I think I can just abandon that notion for a while. I need to focus on my mental and physical health. I need to find back to the same basic and boring things that the vampire survivors don't do when they are floating in visual noise, podcasts and general distance. Walk, clean, cook, meet friends, read books and look at the sky. It's really simple, actually.
 
 
+## Saturday 29th August 2026
+
+It's been a good week. Less walking than I'd like, but lots of stretching, cleaning and hanging out with friends, letting loose and opening up to other people's stories instead of stewing in my own.
+
+Another big factor to the relative lightness of the last days has been the active practice of giving up control. For most of my creative life I was working mostly alone. At certain points in the projects I'd invite collaborateurs, but they always got a prepared box, a specific area, to work and to have agency inside of.
+
+Now, with Marble Souls, everything is a lot more collaborative and I am not the only one determining the size and shapes of the boxes anymore. It's been a steady progress towards letting go of control, but only this week I feel like I am actually okay with it.
+
+While my opinion and dircetion is taken into account with every decision about the game as a whole, I only have dictatorial control over one, very specific, box: Level design.
+
+And so this week was spent with actively blocking out all things that are not part of that. This made me a lot less anxious and freed up a lot of creative energy, resulting in a massive amount of progress. The world map is now very close to being complete at a low (but completely playable) level of gameplay resolution.
+
+Back when I was making qomp, I came up with (probably unconciously stole) the idea of a „skeleton“. A complete skeleton contains all the major beats of the game, the core, immutable parts of the experience, in the order and place that they need to be. It is a first, very solid thing. The skeleton metaphor is then continued by adding more and more biology until you have a complete creature.
+
+I never actually mapped out the metaphor further and I feel like this would be a fun exercise for MARBLE SOULS. 
+
+- The major beats and progressions and connections between places (the skeleton) has been done for months.
+
+- The upgrade economy (the heart?) has been grafted onto the skeleton for a long time now, but it is not actually attuned to the rest of the game yet. There has just not been enough meat to justify a working bloodflow.
+
+- The actual gameplay content (The meat) has been unevenly distributed over the skeleton. Some areas have had finely scultped muscles for a while, others were just incredibly rough sketches.  This is what I've worked on equalising this week, concretisising the roughes areas, giving them rythms and large arcs. 
+
+- In the run up to this large scale work, I've also been fixing up some of the connective tissue (Sinews? Connective Tissue?) between the areas. This type of work is a lot more confined, a lot less large-scale-creative and a lot more satisfying.
+
+- The visuals (The skin) has been stripped back last week, down to the bare minimum. This makes the whole thing a lot faster to work with and has also allowed me to do some bolder lighting experiments that turned out really nice.
+
+- And then there's some other stuff (Organs, maybe?) that I've not directly touched, but kind of organised and filed away deeper in my mind, so that they don't give me anxiety.
+
+So, yeah. Not sure of this frankenstein way of looking at projects is all that elegant, but it does provide some nice-ish metaphors.
+
+Generally, I am just glad that I was able to make good progress on the stuff that is actually under my control while also having a pretty chill time. Having a good week traditionally means that  I'll let things slide now and slowly regress back into mind-flare territory without noticing. I'll try to be cautious. Shit's just much nicer when it isn't terrible.
+
+
 [back](thinking)
 
 
