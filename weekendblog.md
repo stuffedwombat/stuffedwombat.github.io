@@ -240,7 +240,7 @@ It's been a good week. Less walking than I'd like, but lots of stretching, clean
 
 Another big factor to the relative lightness of the last days has been the active practice of giving up control. For most of my creative life I was working mostly alone. At certain points in the projects I'd invite collaborateurs, but they always got a prepared box, a specific area, to work and to have agency inside of.
 
-Now, with Marble Souls, everything is a lot more collaborative and I am not the only one determining the size and shapes of the boxes anymore. It's been a steady progress towards letting go of control, but only this week I feel like I am actually okay with it.
+Now, with MARBLE SOULS, everything is a lot more collaborative and I am not the only one determining the size and shapes of the boxes anymore. It's been a steady progress towards letting go of control, but only this week I feel like I am actually okay with it.
 
 While my opinion and dircetion is taken into account with every decision about the game as a whole, I only have dictatorial control over one, very specific, box: Level design.
 
