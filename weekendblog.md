@@ -266,6 +266,21 @@ So, yeah. Not sure of this frankenstein way of looking at projects is all that e
 
 Generally, I am just glad that I was able to make good progress on the stuff that is actually under my control while also having a pretty chill time. Having a good week traditionally means that  I'll let things slide now and slowly regress back into mind-flare territory without noticing. I'll try to be cautious. Shit's just much nicer when it isn't terrible.
 
+## 7th Septemer 2026
+
+As predicted, I performed a smooth regression back into a horrible state of mind. This time it was the private thing with my family that broke me. There is a situation and while it has parts that are absolutely beautiful, there are other aspects that I have not yet learned to deal with in a healthy fashion. 
+
+And so I had a close call with loosing my sobriety, a whole lot of obsessive dating app use and regular compulsive food intake.
+
+On sunday I found myself restored to relative sanity, able to, once again, look at myself with clarity and peace. I spent time with family and friends and, probably most importantly, silence. 
+
+Somehow I keep loosing the silence, again and again. I keep drowing it out and pushing it away. There is deep reflection and contemplation in silence, and it seems like I can't face that.
+
+So perhaps, outside of work, dates, food and family, regardless of whatever else is going on, I should commit to exposing myself to 30 minutes of silence every day.
+
+I'll be back next week to report.
+
+Until then!
 
 [back](thinking)
 
