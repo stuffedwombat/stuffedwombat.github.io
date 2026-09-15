@@ -282,6 +282,23 @@ I'll be back next week to report.
 
 Until then!
 
+## Tuesday 15th September 2027
+
+I have been able to stay pretty sane, despite a couple of really intense things going on. The silence really helps. 
+
+A couple of weeks ago someone asked me why I was sharing all of these things I write about here  and, while I could come up with some sort of answer at the time, the question has not really left my mind. Indeed. Why am I doing this? 
+
+There are other, less public, forms of reflection going on for me and those are much more effective at helping me track my states of mind than these write-ups here.
+
+I am also no longer sure how comfortable I actually am with airing heavily redacted parts of my psychological laundry on here. Besides the questionable personal motivation for my emotional exhebitionism, I also can not write about everything that is going on. There are things that are simply not mine to talk about, even if they deeply influence how (and what) I am doing. 
+
+And so it's time to retire the weekendblogs. Thank you for following along on this very disjointed ride :)
+
+I really hope to be able to get into some more longform-essay-type writing now. But yeah. As always, we shall see.
+
+See ya soon!
+
+
 [back](thinking)
 
 
