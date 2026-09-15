@@ -1,7 +1,7 @@
 [back](thinking)
 
 # Weekend Blog 
-*the most recent entry is added at the bottom* 
+*this blog was running between june and september 2026* 
 
 ## Saturday - 27th June 2026
 
