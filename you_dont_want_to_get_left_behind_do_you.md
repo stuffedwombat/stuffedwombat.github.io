@@ -24,4 +24,4 @@ There are, of course, boundless other ways to profit from the, again, inevitable
 
 You don't want to get left behind, do you?
 
-(back)[thinking]
+[back](thinking)
