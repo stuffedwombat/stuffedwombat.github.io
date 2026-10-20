@@ -1,7 +1,7 @@
 [back](index)
 
 **thinks**
--[YOU DON'T WANT TO GET LEFT BEHIND, DO YOU?](you_dont_want_to_get_left_behind_do_you)
+- [YOU DON'T WANT TO GET LEFT BEHIND, DO YOU?](you_dont_want_to_get_left_behind_do_you)
 - [Weekend Blog](weekendblog)
 - [Density Decay](density_decay)
 - [blog again](blogagain) 
